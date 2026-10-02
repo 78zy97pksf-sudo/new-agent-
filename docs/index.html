@@ -3,48 +3,51 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Programmes sportifs sur mesure, suivi et formations.">
-<title>Coaching sportif sur mesure</title>
+<meta name="description" content="Pur Coaching : coaching sportif avec analyse Tanita, de la remise en forme au dépassement de soi.">
+<link rel="icon" href="images/logo.png">
+<title>Pur Coaching</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;800&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Raleway:wght@400;600;700;800&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
-/* Mise en page : colonne centrée, bandes pleine largeur alternées, carnet d'entraînement comme élément signature */
+/* Mise en page : colonne centrée, bandes bleu ciel alternées comme sur la plaquette, rapport Tanita comme élément signature */
 :root{
-  --bg:#F5F7FA; --surface:#FFFFFF; --ink:#13202D; --muted:#566576; --line:#DCE2EA;
-  --accent:#1E56C8; --accent-ink:#FFFFFF; --signal:#E8902A; --band:#13202D; --band-ink:#F5F7FA; --todo-bg:#FFF2C2; --todo-ink:#5A4300;
-  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
-  --body:"Source Sans 3","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --bg:#F4FAFD; --surface:#FFFFFF; --ink:#12304F; --muted:#4F6A85; --line:#D3E4EF;
+  --accent:#2B5A96; --accent-ink:#FFFFFF; --sky:#DCEFF8; --gold:#B08A22; --gold-bg:#F7EDCF;
+  --display:"Cinzel","Times New Roman",Georgia,serif;
+  --body:"Raleway","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#0F1720; --surface:#16212D; --ink:#E8EDF3; --muted:#9AA8B8; --line:#26333F;
-  --accent:#5B8CF0; --accent-ink:#0B1220; --signal:#F0A54A; --band:#1B2836; --band-ink:#E8EDF3; --todo-bg:#4A3B0A; --todo-ink:#FFE7A0; color-scheme:dark}}
+  --bg:#0C1824; --surface:#132433; --ink:#E6F0F7; --muted:#9DB3C7; --line:#223A4E;
+  --accent:#7FB0E6; --accent-ink:#0C1824; --sky:#10283B; --gold:#D9B651; --gold-bg:#3A3015; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --bg:#0F1720; --surface:#16212D; --ink:#E8EDF3; --muted:#9AA8B8; --line:#26333F;
-  --accent:#5B8CF0; --accent-ink:#0B1220; --signal:#F0A54A; --band:#1B2836; --band-ink:#E8EDF3; --todo-bg:#4A3B0A; --todo-ink:#FFE7A0; color-scheme:dark}
+  --bg:#0C1824; --surface:#132433; --ink:#E6F0F7; --muted:#9DB3C7; --line:#223A4E;
+  --accent:#7FB0E6; --accent-ink:#0C1824; --sky:#10283B; --gold:#D9B651; --gold-bg:#3A3015; color-scheme:dark}
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:1.0625rem;line-height:1.6;margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:1.0625rem;line-height:1.65;margin:0}
 .wrap{max-width:68rem;margin:0 auto;padding-inline:1.25rem}
 section{padding-block:4.5rem}
-h1,h2,h3{font-family:var(--display);line-height:1.05;text-wrap:balance;margin:0}
-h1{font-size:clamp(2.6rem,7vw,4.6rem);font-weight:800;text-transform:uppercase;letter-spacing:.01em}
-h2{font-size:clamp(2rem,4.5vw,2.9rem);font-weight:800;text-transform:uppercase}
-h3{font-size:1.5rem;font-weight:600}
+h1,h2,h3{line-height:1.12;text-wrap:balance;margin:0}
+h1{font-family:var(--display);font-size:clamp(2.4rem,6.5vw,4.2rem);font-weight:800;letter-spacing:.02em}
+h2{font-family:var(--display);font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800}
+h3{font-family:var(--body);font-size:1.3rem;font-weight:800}
 p{margin:0;max-width:65ch}
-.eyebrow{font-family:var(--mono);font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
-.lead{font-size:1.2rem;color:var(--muted)}
+.eyebrow{font-family:var(--mono);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.lead{font-size:1.18rem;color:var(--muted)}
 .stack{display:flex;flex-direction:column;gap:1rem}
-mark.todo{background:var(--todo-bg);color:var(--todo-ink);padding:.05em .35em;border-radius:3px;font-weight:600}
-.btn{display:inline-block;font-weight:700;text-decoration:none;padding:.85rem 1.4rem;border-radius:6px;border:2px solid var(--accent);background:var(--accent);color:var(--accent-ink)}
+.btn{display:inline-block;font-weight:700;text-decoration:none;padding:.85rem 1.4rem;border-radius:999px;border:2px solid var(--accent);background:var(--accent);color:var(--accent-ink);text-align:center}
 .btn.ghost{background:transparent;color:var(--accent)}
-.btn:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--signal);outline-offset:3px}
+.btn.gold{background:var(--gold);border-color:var(--gold);color:#1B1606}
 .btn:hover{filter:brightness(1.08)}
+a:focus-visible,summary:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
 
 /* En-tête */
 header.top{border-bottom:1px solid var(--line);background:var(--surface)}
-header.top .wrap{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding-block:.9rem;flex-wrap:wrap}
-.brand{font-family:var(--display);font-weight:800;font-size:1.4rem;text-transform:uppercase;letter-spacing:.03em}
+header.top .wrap{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding-block:.7rem;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:.7rem;text-decoration:none;color:var(--ink)}
+.brand img{width:46px;height:46px}
+.brand span{font-family:var(--display);font-weight:800;font-size:1.25rem;letter-spacing:.08em}
 header.top nav{display:flex;gap:1.25rem;flex-wrap:wrap}
 header.top nav a{color:var(--muted);text-decoration:none;font-weight:600}
 header.top nav a:hover{color:var(--ink)}
@@ -52,40 +55,44 @@ header.top nav a:hover{color:var(--ink)}
 /* Héros */
 .hero .wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:3rem;align-items:center}
 .hero .cta{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:.5rem}
-.facts{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:1rem;font-family:var(--mono);font-size:.85rem;color:var(--muted)}
-.facts b{display:block;font-family:var(--display);font-size:1.9rem;color:var(--ink);font-weight:800}
+.facts{display:flex;gap:1.75rem;flex-wrap:wrap;margin-top:1rem;font-size:.9rem;color:var(--muted)}
+.facts b{display:block;font-family:var(--display);font-size:1.6rem;color:var(--ink)}
 
-/* Carnet d'entraînement */
-.logbook{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:1.25rem;min-width:0;box-shadow:0 18px 40px -24px rgba(19,32,45,.35)}
-.logbook header{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;border-bottom:2px solid var(--ink);padding-bottom:.5rem;margin-bottom:.25rem}
-.logbook header strong{font-family:var(--display);font-size:1.3rem;text-transform:uppercase}
-.logbook .tag{font-family:var(--mono);font-size:.75rem;color:var(--signal)}
+/* Rapport Tanita */
+.report{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:1.25rem;min-width:0;box-shadow:0 18px 40px -26px rgba(18,48,79,.45)}
+.report header{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem;border-bottom:2px solid var(--accent);padding-bottom:.5rem}
+.report header strong{font-weight:800}
+.report .tag{font-family:var(--mono);font-size:.72rem;color:var(--gold);text-transform:uppercase;letter-spacing:.08em}
 .table-scroll{overflow-x:auto}
 table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
 th,td{text-align:left;padding:.55rem .4rem;border-bottom:1px solid var(--line);white-space:nowrap}
-th{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:500}
-td.n{font-family:var(--mono);font-size:.9rem}
-.logbook footer{font-size:.85rem;color:var(--muted);margin-top:.75rem}
+td.n{font-family:var(--mono);font-size:.9rem;text-align:right}
+td.d{font-family:var(--mono);font-size:.8rem;color:var(--accent);text-align:right}
+.report footer{font-size:.85rem;color:var(--muted);margin-top:.75rem}
 
 /* Bandes */
-.band{background:var(--band);color:var(--band-ink)}
-.band .lead,.band p{color:var(--band-ink);opacity:.88}
-.band .eyebrow{color:var(--signal)}
+.band{background:var(--sky)}
 .two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2.5rem}
 ul.check{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:.7rem}
-ul.check li{padding-left:1.6rem;position:relative}
-ul.check li::before{content:"";position:absolute;left:0;top:.55em;width:.7rem;height:.7rem;border-radius:2px;background:var(--signal)}
+ul.check li{padding-left:1.7rem;position:relative}
+ul.check li::before{content:"";position:absolute;left:0;top:.5em;width:.75rem;height:.75rem;border-radius:50% 50% 50% 0;transform:rotate(-45deg);background:var(--accent)}
 
 /* Offres */
 .offers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.25rem;margin-top:2.5rem;align-items:start}
-.offer{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:1.5rem;display:flex;flex-direction:column;gap:1rem;min-width:0}
-.offer.star{border:2px solid var(--accent)}
-.offer .kind{font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.offer.star .kind{color:var(--accent)}
-.price{font-family:var(--display);font-size:2.6rem;font-weight:800;line-height:1}
+.offer{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:1.5rem;display:flex;flex-direction:column;gap:1rem;min-width:0}
+.offer.star{border:2px solid var(--gold);background:linear-gradient(var(--gold-bg),var(--surface) 40%)}
+.offer .kind{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.offer.star .kind{color:var(--gold)}
+.offer h3{font-family:var(--display);font-size:1.5rem;letter-spacing:.04em}
+.price{font-family:var(--display);font-size:2.4rem;font-weight:800;line-height:1}
 .price small{font-family:var(--body);font-size:1rem;font-weight:400;color:var(--muted)}
 .offer ul{margin:0;padding-left:1.1rem;display:flex;flex-direction:column;gap:.35rem}
-.offer .btn{text-align:center;margin-top:auto}
+.rates{list-style:none;padding:0!important;font-variant-numeric:tabular-nums}
+.rates li{display:flex;justify-content:space-between;gap:.5rem;border-bottom:1px dashed var(--line);padding-bottom:.35rem}
+.rates b{font-family:var(--mono);font-weight:500}
+.offer .btn{margin-top:auto}
+.extra{margin-top:1.5rem;display:flex;gap:1.5rem;flex-wrap:wrap;color:var(--muted);font-size:.95rem}
+.extra b{color:var(--ink)}
 
 /* Étapes */
 ol.steps{list-style:none;padding:0;margin:2.5rem 0 0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1.25rem;counter-reset:s}
@@ -93,11 +100,9 @@ ol.steps li{counter-increment:s;border-top:3px solid var(--accent);padding-top:1
 ol.steps li::before{content:"Étape " counter(s);font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
 ol.steps p{color:var(--muted);font-size:1rem}
 
-/* Témoignages */
-.quotes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.25rem;margin-top:2rem}
-blockquote{margin:0;padding:1.25rem;border-left:3px solid var(--signal);background:var(--surface);min-width:0}
-blockquote p{font-size:1.05rem}
-blockquote cite{display:block;margin-top:.75rem;font-style:normal;font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+/* Coach */
+.coach{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:2.5rem;align-items:center}
+.coach img{width:100%;max-width:380px;aspect-ratio:3/4;object-fit:cover;border-radius:14px;justify-self:center}
 
 /* FAQ */
 details{border-bottom:1px solid var(--line);padding-block:1rem}
@@ -105,15 +110,15 @@ summary{cursor:pointer;font-weight:700;font-size:1.1rem}
 details p{margin-top:.6rem;color:var(--muted)}
 
 /* Contact */
-.final{text-align:left}
 .final .wrap{display:flex;justify-content:space-between;align-items:center;gap:2rem;flex-wrap:wrap}
-.final .btn{background:var(--signal);border-color:var(--signal);color:#13202D}
+.contacts{display:flex;gap:.75rem;flex-wrap:wrap}
+.handle{font-family:var(--mono);font-size:.95rem;color:var(--ink);user-select:all}
 footer.legal{border-top:1px solid var(--line);padding-block:2rem;font-size:.9rem;color:var(--muted)}
 footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
 
 @media (max-width:860px){
-  .hero .wrap,.two{grid-template-columns:1fr}
-  .offers,.quotes{grid-template-columns:1fr}
+  .hero .wrap,.two,.coach{grid-template-columns:1fr}
+  .offers{grid-template-columns:1fr}
   ol.steps{grid-template-columns:repeat(2,minmax(0,1fr))}
   section{padding-block:3.25rem}
 }
@@ -125,11 +130,11 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
 
 <header class="top">
   <div class="wrap">
-    <div class="brand"><mark class="todo">[TON NOM / TA MARQUE]</mark></div>
+    <a class="brand" href="#"><img src="images/logo.png" alt="Logo Pur Coaching"><span>PUR COACHING</span></a>
     <nav aria-label="Menu">
-      <a href="#offres">Offres</a>
+      <a href="#offres">Formules</a>
       <a href="#methode">Méthode</a>
-      <a href="#securite">Sécurité</a>
+      <a href="#coach">Le coach</a>
       <a href="#faq">Questions</a>
     </nav>
   </div>
@@ -139,35 +144,35 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
 <section class="hero">
   <div class="wrap">
     <div class="stack">
-      <span class="eyebrow">Coaching sportif · en ligne ou en présentiel</span>
-      <h1>Un programme fait pour toi, pas pour tout le monde</h1>
-      <p class="lead">Je construis ton entraînement à partir de ton niveau, de ton emploi du temps et de ton objectif : perdre du poids, prendre du muscle, courir plus loin ou simplement te sentir mieux. Chaque séance est expliquée, chaque progression est prévue.</p>
+      <span class="eyebrow">De la remise en forme au dépassement de soi</span>
+      <h1>Ton corps, mesuré. Ton plan, sur mesure.</h1>
+      <p class="lead">Avant de te faire transpirer, je mesure où tu en es avec une analyse de composition corporelle Tanita. Ensuite je construis un plan d'entraînement fait pour toi, et on suit tes progrès en chiffres, pas au hasard.</p>
       <div class="cta">
-        <a class="btn" href="#offres">Voir les offres</a>
-        <a class="btn ghost" href="#contact">Poser une question</a>
+        <a class="btn" href="#offres">Voir les formules</a>
+        <a class="btn ghost" href="#contact">Me contacter</a>
       </div>
       <div class="facts">
-        <span><b><mark class="todo">[XX]</mark></b>clients accompagnés</span>
-        <span><b><mark class="todo">[X] ans</mark></b>d'expérience</span>
-        <span><b>100&nbsp;%</b>sur mesure</span>
+        <span><b>Tanita</b>analyse corporelle pro</span>
+        <span><b>100&nbsp;%</b>plans personnalisés</span>
+        <span><b>En ligne</b>ou en présentiel</span>
       </div>
     </div>
 
-    <article class="logbook" aria-label="Exemple de séance">
-      <header><strong>Semaine 3 · Séance A</strong><span class="tag">Exemple</span></header>
+    <article class="report" aria-label="Exemple de rapport Tanita">
+      <header><strong>Rapport Tanita RD-545 HR</strong><span class="tag">Exemple</span></header>
       <div class="table-scroll">
         <table>
-          <thead><tr><th>Exercice</th><th>Séries × reps</th><th>Effort</th><th>Repos</th></tr></thead>
           <tbody>
-            <tr><td>Squat gobelet</td><td class="n">4 × 10</td><td class="n">RPE 7</td><td class="n">90 s</td></tr>
-            <tr><td>Pompes inclinées</td><td class="n">3 × 12</td><td class="n">RPE 7</td><td class="n">75 s</td></tr>
-            <tr><td>Rowing haltère</td><td class="n">3 × 10/côté</td><td class="n">RPE 7</td><td class="n">75 s</td></tr>
-            <tr><td>Fente arrière</td><td class="n">3 × 8/côté</td><td class="n">RPE 6</td><td class="n">60 s</td></tr>
-            <tr><td>Gainage planche</td><td class="n">3 × 30 s</td><td class="n">RPE 6</td><td class="n">45 s</td></tr>
+            <tr><td>Masse grasse</td><td class="n">24,1 %</td><td class="d">−2,3 pts</td></tr>
+            <tr><td>Masse musculaire</td><td class="n">58,4 kg</td><td class="d">+1,6 kg</td></tr>
+            <tr><td>Eau corporelle</td><td class="n">53,2 %</td><td class="d">+1,1 pts</td></tr>
+            <tr><td>Graisse viscérale</td><td class="n">7</td><td class="d">−1</td></tr>
+            <tr><td>Métabolisme de base</td><td class="n">1 742 kcal</td><td class="d">+38</td></tr>
+            <tr><td>Âge métabolique</td><td class="n">29 ans</td><td class="d">−3</td></tr>
           </tbody>
         </table>
       </div>
-      <footer>RPE = effort ressenti sur 10. À 7, il te reste environ 3 répétitions « en réserve ». On augmente la charge seulement quand toutes les séries sont réussies.</footer>
+      <footer>Chiffres d'exemple, comparés à l'analyse précédente. Tu reçois ton propre rapport en PDF avec mes recommandations.</footer>
     </article>
   </div>
 </section>
@@ -175,66 +180,72 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
 <section class="band">
   <div class="wrap two">
     <div class="stack">
-      <span class="eyebrow">Le problème</span>
+      <span class="eyebrow">Pourquoi Pur Coaching</span>
       <h2>Les programmes tout faits ne tiennent pas</h2>
-      <p class="lead">Trop durs, trop longs ou pas adaptés à ton corps. Résultat : on se blesse, on se décourage et on arrête au bout de trois semaines.</p>
+      <p class="lead">Trop durs, trop longs ou pas adaptés à ton corps. On se blesse, on se décourage et on arrête au bout de trois semaines. Ici, tout part de toi.</p>
     </div>
-    <div class="stack">
-      <span class="eyebrow">Ce que je te propose</span>
-      <ul class="check">
-        <li>Un bilan complet avant de commencer : niveau, santé, matériel, temps disponible.</li>
-        <li>Des séances claires avec vidéos ou explications pour chaque exercice.</li>
-        <li>Une progression semaine par semaine, sans brûler les étapes.</li>
-        <li>Des ajustements quand la vie s'en mêle : voyage, fatigue, petite douleur.</li>
-      </ul>
-    </div>
+    <ul class="check">
+      <li>Une anamnèse complète : ton passé sportif, ta santé, ton rythme de vie et ton objectif.</li>
+      <li>Une analyse Tanita pour connaître ta masse grasse, ta masse musculaire et ton hydratation.</li>
+      <li>Un plan d'entraînement personnalisé, avec une progression semaine par semaine.</li>
+      <li>Des mesures régulières pour voir tes progrès et ajuster le plan.</li>
+    </ul>
   </div>
 </section>
 
 <section id="offres">
   <div class="wrap">
     <div class="stack">
-      <span class="eyebrow">Offres</span>
-      <h2>Choisis ton accompagnement</h2>
-      <p class="lead">Tous les prix sont à titre d'exemple tant que tu ne les as pas remplacés.</p>
+      <span class="eyebrow">Formules</span>
+      <h2>Choisis ta formule</h2>
     </div>
     <div class="offers">
       <article class="offer">
-        <span class="kind">Programme</span>
-        <h3>Programme personnalisé</h3>
-        <div class="price"><mark class="todo">[49] €</mark> <small>une fois</small></div>
+        <span class="kind">Pour démarrer</span>
+        <h3>PUR HEALTH</h3>
+        <div class="price">70 € <small>une fois</small></div>
         <ul>
-          <li>Questionnaire de départ</li>
-          <li>Programme de 8 semaines en PDF</li>
-          <li>Explication de chaque exercice</li>
-          <li>Une révision du programme incluse</li>
+          <li>Analyse Tanita RD-545 HR</li>
+          <li>Rapport PDF détaillé + recommandations</li>
+          <li>Anamnèse complète</li>
+          <li>Plan d'entraînement personnalisé</li>
         </ul>
-        <a class="btn ghost" href="#">Acheter <mark class="todo">[lien de paiement]</mark></a>
+        <a class="btn ghost" href="#contact">Réserver PUR HEALTH</a>
       </article>
       <article class="offer star">
-        <span class="kind">Le plus choisi</span>
-        <h3>Programme + suivi</h3>
-        <div class="price"><mark class="todo">[89] €</mark> <small>/ mois</small></div>
+        <span class="kind">★ La plus populaire</span>
+        <h3>PUR GOLD</h3>
+        <div class="price">150 € <small>/ mois</small></div>
         <ul>
-          <li>Tout le programme personnalisé</li>
-          <li>Bilan chaque semaine par message</li>
-          <li>Programme ajusté chaque mois</li>
-          <li>Réponse à tes questions sous 48 h</li>
+          <li>Analyse Tanita chaque mois</li>
+          <li>Rapport PDF détaillé après chaque analyse</li>
+          <li>Test VMA et tests physiques</li>
+          <li><strong>Plan d'entraînement 100&nbsp;% personnalisé sur 3 mois</strong></li>
+          <li>Conseils nutritionnels adaptés à ton objectif</li>
+          <li><strong>2 séances d'accompagnement pratiques par mois</strong></li>
         </ul>
-        <a class="btn" href="#">Commencer <mark class="todo">[lien de paiement]</mark></a>
+        <a class="btn gold" href="#contact">Réserver PUR GOLD</a>
       </article>
       <article class="offer">
-        <span class="kind">Formation</span>
-        <h3><mark class="todo">[Nom de la formation]</mark></h3>
-        <div class="price"><mark class="todo">[149] €</mark> <small>accès à vie</small></div>
+        <span class="kind">En présentiel</span>
+        <h3>PUR TRACK</h3>
         <ul>
-          <li>Modules vidéo à suivre à ton rythme</li>
-          <li><mark class="todo">[Sujet : ex. bien s'échauffer, nutrition de base]</mark></li>
-          <li>Fiches à télécharger</li>
-          <li>Mises à jour gratuites</li>
+          <li>Accompagnement en présentiel</li>
+          <li>Plan alimentaire de base</li>
+          <li>Analyse Tanita en début et en fin de suivi</li>
         </ul>
-        <a class="btn ghost" href="#">Accéder <mark class="todo">[lien de paiement]</mark></a>
+        <ul class="rates">
+          <li><span>1 séance de 1 h 30</span><b>35 €</b></li>
+          <li><span>12 séances (25 €/séance)</span><b>300 €</b></li>
+          <li><span>36 séances (20,80 €/séance)</span><b>750 €</b></li>
+        </ul>
+        <a class="btn ghost" href="#contact">Réserver PUR TRACK</a>
       </article>
+    </div>
+    <div class="extra">
+      <span><b>Analyse Tanita seule :</b> 15 €</span>
+      <span><b>Horaires :</b> variables selon mes disponibilités, on fixe ensemble</span>
+      <span><b>Paiement :</b> par virement, ou en liquide pour le présentiel</span>
     </div>
   </div>
 </section>
@@ -246,10 +257,10 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
       <h2>Comment ça se passe</h2>
     </div>
     <ol class="steps">
-      <li><h3>Tu choisis ton offre</h3><p>Paiement en ligne sécurisé, en quelques clics.</p></li>
-      <li><h3>Tu remplis le bilan</h3><p>Objectif, niveau, santé, matériel et nombre de séances par semaine.</p></li>
-      <li><h3>Tu reçois ton programme</h3><p>Sous <mark class="todo">[X] jours</mark>, avec toutes les explications.</p></li>
-      <li><h3>On fait le point</h3><p>Tu me dis comment ça s'est passé, j'ajuste la suite.</p></li>
+      <li><h3>Tu m'écris</h3><p>Sur Instagram ou par e-mail, avec ton objectif et la formule qui t'intéresse.</p></li>
+      <li><h3>On fait le bilan</h3><p>Anamnèse complète et analyse Tanita pour savoir d'où tu pars.</p></li>
+      <li><h3>Tu reçois ton plan</h3><p>Un entraînement construit pour toi, avec chaque exercice expliqué.</p></li>
+      <li><h3>On mesure et on ajuste</h3><p>Nouvelles mesures, nouveaux objectifs : ton plan évolue avec toi.</p></li>
     </ol>
   </div>
 </section>
@@ -259,75 +270,65 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
     <div class="stack">
       <span class="eyebrow">Sécurité</span>
       <h2>Progresser sans se blesser</h2>
-      <p class="lead">Un bon programme commence par ce qu'on ne te fera pas faire. Ta santé passe avant le chrono ou la balance.</p>
+      <p class="lead">Ta santé passe avant le chrono ou la balance.</p>
     </div>
     <ul class="check">
-      <li>Questionnaire santé avant de démarrer. En cas de doute (problème cardiaque, grossesse, blessure récente, traitement), je te demande l'accord de ton médecin.</li>
+      <li>Anamnèse avant de commencer. En cas de doute (problème cardiaque, grossesse, blessure récente, traitement), je te demande l'accord de ton médecin.</li>
       <li>Échauffement et retour au calme dans chaque séance.</li>
-      <li>Charge augmentée par petites marches, jamais plus d'environ 10 % par semaine.</li>
-      <li>Une semaine plus légère prévue régulièrement pour récupérer.</li>
-      <li>Consigne claire : une douleur vive ou inhabituelle, on arrête et on en parle.</li>
+      <li>Charge augmentée par petites étapes, jamais d'un coup.</li>
+      <li>Des semaines plus légères prévues pour bien récupérer.</li>
+      <li>Une règle simple : une douleur vive ou inhabituelle, on arrête et on en parle.</li>
     </ul>
   </div>
 </section>
 
-<section class="band">
-  <div class="wrap">
+<section id="coach" class="band">
+  <div class="wrap coach">
+    <img src="images/simon.jpg" alt="Simon, coach Pur Coaching" loading="lazy">
     <div class="stack">
-      <span class="eyebrow">Avis</span>
-      <h2>Ils ont essayé</h2>
-    </div>
-    <div class="quotes">
-      <blockquote><p><mark class="todo">[Témoignage d'un client, avec son accord]</mark></p><cite><mark class="todo">[Prénom, objectif]</mark></cite></blockquote>
-      <blockquote><p><mark class="todo">[Témoignage d'un client, avec son accord]</mark></p><cite><mark class="todo">[Prénom, objectif]</mark></cite></blockquote>
-      <blockquote><p><mark class="todo">[Témoignage d'un client, avec son accord]</mark></p><cite><mark class="todo">[Prénom, objectif]</mark></cite></blockquote>
+      <span class="eyebrow">Le coach</span>
+      <h2>Moi, c'est Simon</h2>
+      <p>Je suis étudiant en 3<sup>e</sup> année de bachelier en coaching sportif à la HEPL. J'ai créé Pur Coaching pour accompagner chacun, de la simple remise en forme jusqu'au dépassement de soi.</p>
+      <p>Ma méthode : mesurer avant d'agir, expliquer chaque exercice et adapter le plan à ta vraie vie.</p>
     </div>
   </div>
 </section>
 
-<section>
-  <div class="wrap two">
-    <div class="stack">
-      <span class="eyebrow">Qui suis-je</span>
-      <h2><mark class="todo">[Ton prénom]</mark>, ton coach</h2>
-    </div>
-    <div class="stack">
-      <p><mark class="todo">[2 ou 3 phrases sur toi : ton parcours, tes diplômes (BPJEPS, STAPS…), ta spécialité et pourquoi tu fais ce métier.]</mark></p>
-      <p><mark class="todo">[Une photo de toi ici]</mark></p>
-    </div>
-  </div>
-</section>
-
-<section id="faq" class="band">
+<section id="faq">
   <div class="wrap">
     <div class="stack">
       <span class="eyebrow">Questions</span>
       <h2>Questions fréquentes</h2>
     </div>
     <div style="margin-top:1.5rem">
-      <details><summary>Je suis débutant, c'est pour moi ?</summary><p>Oui. Le programme part de ton niveau réel, même si tu n'as jamais fait de sport.</p></details>
-      <details><summary>J'ai besoin d'une salle de sport ?</summary><p>Non. Le programme s'adapte à ton matériel : salle, quelques haltères à la maison ou rien du tout.</p></details>
-      <details><summary>Combien de temps par semaine ?</summary><p>Tu choisis : de 2 à 5 séances, de 30 à 75 minutes. Le programme est construit autour de ça.</p></details>
-      <details><summary>Et si je ne suis pas satisfait ?</summary><p><mark class="todo">[Ta politique : ex. révision gratuite du programme, ou remboursement sous 14 jours]</mark></p></details>
+      <details><summary>C'est quoi, une analyse Tanita ?</summary><p>C'est une balance professionnelle qui mesure ta composition corporelle en quelques secondes : masse grasse, masse musculaire, eau, graisse viscérale et métabolisme. C'est indolore, et c'est bien plus parlant que le poids seul.</p></details>
+      <details><summary>Je suis débutant, c'est pour moi ?</summary><p>Oui. Le plan part de ton niveau réel, même si tu n'as jamais fait de sport.</p></details>
+      <details><summary>Quelle formule choisir ?</summary><p>PUR HEALTH pour un bilan et un plan à suivre seul. PUR GOLD pour un suivi complet sur plusieurs mois. PUR TRACK si tu veux t'entraîner avec moi en présentiel.</p></details>
+      <details><summary>Comment je paie ?</summary><p>Par virement bancaire, ou en liquide pour les séances en présentiel.</p></details>
+      <details><summary>Quels sont les horaires ?</summary><p>Ils varient selon mes disponibilités. Écris-moi et on trouve un créneau ensemble.</p></details>
     </div>
   </div>
 </section>
 
-<section id="contact" class="final">
+<section id="contact" class="final band">
   <div class="wrap">
     <div class="stack">
       <h2>Prêt à commencer ?</h2>
-      <p class="lead">Écris-moi : <mark class="todo">[ton e-mail ou ton Instagram]</mark></p>
+      <p class="lead">Écris-moi avec ton objectif et la formule qui t'intéresse.</p>
+      <p>Instagram : <span class="handle">@pur.coaching</span> · E-mail : <span class="handle">rui.seau.13@gmail.com</span></p>
     </div>
-    <a class="btn" href="#offres">Choisir mon offre</a>
+    <div class="contacts">
+      <a class="btn" href="https://www.instagram.com/pur.coaching/" target="_blank" rel="noopener">Instagram</a>
+      <a class="btn ghost" href="mailto:rui.seau.13@gmail.com?subject=Pur%20Coaching">E-mail</a>
+    </div>
   </div>
 </section>
 </main>
 
 <footer class="legal">
   <div class="wrap">
-    <span>© 2026 <mark class="todo">[Ton nom]</mark> · <mark class="todo">[SIRET]</mark></span>
-    <span><mark class="todo">[Mentions légales]</mark> · <mark class="todo">[Conditions de vente]</mark></span>
+    <span>© 2026 Pur Coaching · Simon</span>
+    <span>De la remise en forme au dépassement de soi</span>
   </div>
 </footer>
 </body>
