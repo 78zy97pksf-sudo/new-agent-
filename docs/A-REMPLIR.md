@@ -5,7 +5,6 @@ La page est dans `docs/index.html`, avec le logo et la photo dans `docs/images/`
 ## Encore possible d'ajouter
 
 - La ville ou la salle où ont lieu les séances en présentiel
-- Des avis de clients (avec leur accord)
 - Une formation à vendre, si tu en crées une
 - Ton numéro d'entreprise (BCE), si tu en as un
 

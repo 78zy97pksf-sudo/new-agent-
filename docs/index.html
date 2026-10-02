@@ -100,6 +100,11 @@ ol.steps li{counter-increment:s;border-top:3px solid var(--accent);padding-top:1
 ol.steps li::before{content:"Étape " counter(s);font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
 ol.steps p{color:var(--muted);font-size:1rem}
 
+/* Avis */
+.quotes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.25rem;margin-top:2rem;align-items:start}
+blockquote{margin:0;padding:1.4rem;background:var(--surface);border-radius:14px;border-top:3px solid var(--gold);min-width:0}
+blockquote cite{display:block;margin-top:.9rem;font-style:normal;font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+
 /* Coach */
 .coach{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:2.5rem;align-items:center}
 .coach img{width:100%;max-width:380px;aspect-ratio:3/4;object-fit:cover;border-radius:14px;justify-self:center}
@@ -117,6 +122,7 @@ footer.legal{border-top:1px solid var(--line);padding-block:2rem;font-size:.9rem
 footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
 
 @media (max-width:860px){
+  .quotes{grid-template-columns:1fr}
   .hero .wrap,.two,.coach{grid-template-columns:1fr}
   .offers{grid-template-columns:1fr}
   ol.steps{grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -134,6 +140,7 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
     <nav aria-label="Menu">
       <a href="#offres">Formules</a>
       <a href="#methode">Méthode</a>
+      <a href="#avis">Avis</a>
       <a href="#coach">Le coach</a>
       <a href="#faq">Questions</a>
     </nav>
@@ -154,7 +161,7 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
       <div class="facts">
         <span><b>Tanita</b>analyse corporelle pro</span>
         <span><b>100&nbsp;%</b>plans personnalisés</span>
-        <span><b>En ligne</b>ou en présentiel</span>
+        <span><b>Marathon</b>de Paris : clientes préparées</span>
       </div>
     </div>
 
@@ -282,7 +289,21 @@ footer.legal .wrap{display:flex;justify-content:space-between;gap:1rem;flex-wrap
   </div>
 </section>
 
-<section id="coach" class="band">
+<section id="avis" class="band">
+  <div class="wrap">
+    <div class="stack">
+      <span class="eyebrow">Avis</span>
+      <h2>Ils l'ont fait</h2>
+    </div>
+    <div class="quotes">
+      <blockquote><p>« Je ne sais pas si tu mesures à quel point tout ce qui s'est passé aujourd'hui, c'est grâce à toi. Tu nous as tellement bien préparées… Rien à voir avec mon premier marathon. Les sensations, le souffle, tout était tellement différent. »</p><cite>Lucie · Marathon de Paris</cite></blockquote>
+      <blockquote><p>« Merci beaucoup Simon, c'est grâce à toi. Sur la vraie distance du marathon, je suis en dessous de 4 h 59. »</p><cite>Véronique · Marathon de Paris</cite></blockquote>
+      <blockquote><p>« J'ai bien fait de te prendre comme coach. Je vois que je progresse bien, même au niveau de mon corps : je commence à kiffer comment il évolue. »</p><cite>Elion · Renforcement musculaire</cite></blockquote>
+    </div>
+  </div>
+</section>
+
+<section id="coach">
   <div class="wrap coach">
     <img src="images/simon.jpg" alt="Simon, coach Pur Coaching" loading="lazy">
     <div class="stack">
