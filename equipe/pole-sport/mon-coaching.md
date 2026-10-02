@@ -58,6 +58,8 @@ Ce que ça change pour les agents :
 
 - Forme générale, perte de poids et renforcement musculaire.
   `[À CONFIRMER PAR SIMO]`
+- Course à pied : préparation au marathon (des clientes préparées pour le
+  Marathon de Paris, voir les avis du site). `[À CONFIRMER PAR SIMO]`
 
 ## Mes clients
 
