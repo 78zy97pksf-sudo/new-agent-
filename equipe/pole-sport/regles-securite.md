@@ -104,8 +104,9 @@ médical s'il ou si elle ressent :
 - pendant une grossesse ou un post-partum : saignements, pertes de liquide,
   contractions, douleur au ventre ou au bassin.
 
-En cas d'urgence : appeler le **15** (SAMU) ou le **112** en France
-(numéros à adapter au pays du client).
+En cas d'urgence : appeler le **112** (Belgique et partout dans l'Union
+européenne ; en France, le **15** marche aussi). Numéro à adapter si le
+client vit hors d'Europe.
 
 Une douleur légère qui persiste plus de quelques jours ou qui revient à chaque
 séance = on arrête l'exercice concerné et on consulte.

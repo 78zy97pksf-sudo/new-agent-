@@ -41,7 +41,7 @@ Choisis la grille : **programme client** (il y a un client précis) ou
 7. **Signaux d'arrêt** : la liste **complète** de `regles-securite.md`
    (y compris évanouissement, claquement, nausées fortes, confusion,
    signaux grossesse/post-partum, douleur légère qui persiste ou revient),
-   avec « 15 ou 112 en France, à adapter au pays ».
+   avec « 112 en Belgique et dans l'Union européenne, à adapter au pays ».
 8. **Mention** « Ce programme ne remplace pas un avis médical » présente.
 9. **Conseils d'hygiène de vie** (s'il y en a) : rien de médical, pas de
    régime restrictif, pas de complément, renvoi vers un professionnel quand

@@ -63,7 +63,7 @@ Lis toujours :
 8. **Ajoute des tests de suivi** simples, faisables avec le matériel
    (début, mi-parcours, fin).
 9. **Termine** par la liste **complète** des signaux d'arrêt de
-   `regles-securite.md` (avec « 15 ou 112 en France, à adapter au pays »),
+   `regles-securite.md` (avec « 112 en Belgique et dans l'Union européenne, à adapter au pays »),
    la mention « Ce programme ne remplace pas un avis médical », puis la
    signature de la marque.
 10. **Enregistre** en indiquant en haut « À faire valider par
