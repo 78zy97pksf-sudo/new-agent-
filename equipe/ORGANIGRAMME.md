@@ -35,3 +35,22 @@ par simo.
 
 Attention : le dépôt est public, aucune vraie donnée de client (nom complet,
 santé) ne doit y être enregistrée. Utiliser un code client.
+
+## Pôle marketing et commercial
+
+Fait vivre la marque PUR COACHING sur Instagram et TikTok et l'améliore en
+continu. Fonctionnement détaillé, charte et règles : `equipe/pole-marketing/`.
+
+| Agent | Rôle | Exemple de demande |
+|---|---|---|
+| `responsable-marque` | Garde la charte, planifie le calendrier éditorial du mois, fait le bilan des statistiques et note les leçons | « Prépare le calendrier d'octobre » ou « Voici mes statistiques du mois, fais le bilan » |
+| `commercial-instagram` | Posts, carrousels, scripts de Reels, stories, légendes, hashtags et modèles de réponses aux messages privés | « Écris le carrousel de mardi sur les 3 erreurs au squat » |
+| `commercial-tiktok` | Scripts de vidéos courtes plan par plan, légendes, hashtags, réponses aux commentaires | « Écris 3 scripts TikTok pour cette semaine » |
+| `graphiste` | Logo et ses déclinaisons, modèles de visuels et visuel de chaque post (dans Canva si disponible) | « Crée le visuel du carrousel de mardi » |
+
+**Enchaînement des étapes :** calendrier (`responsable-marque`) → textes et
+scripts (`commercial-instagram` / `commercial-tiktok`) → visuels
+(`graphiste`) → contrôle sécurité si le post donne un conseil d'exercice ou
+de nutrition (`coach-securite`) → `controleur-qualite` → **validation de
+simo** → publication par simo. C'est la conversation principale qui lance
+chaque étape. Aucun agent ne publie lui-même.
