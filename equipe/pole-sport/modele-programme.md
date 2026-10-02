@@ -163,8 +163,8 @@ Arrête immédiatement ta séance et demande un avis médical si tu ressens :
 - pendant une grossesse ou un post-partum : saignements, pertes de liquide,
   contractions, douleur au ventre ou au bassin.
 
-En cas d'urgence : appelle le **15** (SAMU) ou le **112** en France
-(numéros à adapter à ton pays).
+En cas d'urgence : appelle le **112** (Belgique et partout dans l'Union
+européenne ; en France, le **15** marche aussi).
 
 Une douleur légère qui dure plus de quelques jours ou qui revient à chaque
 séance : arrête l'exercice concerné et consulte.
