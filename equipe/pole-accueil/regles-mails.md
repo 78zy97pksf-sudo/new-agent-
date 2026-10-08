@@ -6,7 +6,7 @@ automatique**, étiquette `3 A voir par Simon`.
 
 ## Le mode actuel
 
-**MODE : BROUILLONS** `[À CHANGER QUAND SIMO AURA VALIDÉ LES MODÈLES]`
+**MODE : ENVOI AUTOMATIQUE** (accord de simo le 2026-10-08)
 
 - **BROUILLONS** : les réponses sont préparées en brouillon dans Gmail.
   Rien ne part. Simon relit et clique sur « Envoyer » s'il est d'accord.

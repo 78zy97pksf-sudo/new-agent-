@@ -24,7 +24,7 @@ Signature commune (à la fin de chaque modèle) :
 
 ## M1. Premier contact (demande d'informations)
 
-**Statut : à valider**
+**Statut : validé par simo (2026-10-08)**
 **Quand :** une personne découvre PUR COACHING et demande des infos, les
 prix, ou comment ça se passe, sans avoir encore choisi de formule.
 **Objet :** reprendre l'objet du mail (« Re: … »).
@@ -63,7 +63,7 @@ prix, ou comment ça se passe, sans avoir encore choisi de formule.
 
 ## M2. La personne a choisi une formule
 
-**Statut : à valider**
+**Statut : validé par simo (2026-10-08)**
 **Quand :** la personne dit clairement qu'elle veut une formule (« je
 veux commencer PUR GOLD », « je prends le pack 12 séances »).
 
@@ -95,7 +95,7 @@ veux commencer PUR GOLD », « je prends le pack 12 séances »).
 
 ## M3. Anamnèse reçue
 
-**Statut : à valider**
+**Statut : validé par simo (2026-10-08)**
 **Quand :** la personne renvoie son anamnèse (réponses au questionnaire).
 
 > Salut [prénom],
@@ -115,7 +115,7 @@ par `coach-bilan`.
 
 ## M4. Question pratique simple
 
-**Statut : à valider**
+**Statut : validé par simo (2026-10-08)**
 **Quand :** une question dont la réponse est écrite noir sur blanc dans
 `mon-coaching.md` ou sur le site : lieu (Huy), moyens de paiement, ce que
 contient une formule, prix de la grille.
@@ -137,7 +137,7 @@ utilise M5.
 
 ## M5. Accusé de réception (Simon répond lui-même)
 
-**Statut : à valider**
+**Statut : validé par simo (2026-10-08)**
 **Quand :** un futur client ou un client écrit quelque chose qui demande
 Simon : santé, douleur, plainte, demande spéciale, report, question sans
 réponse écrite.
