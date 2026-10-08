@@ -36,8 +36,9 @@ Lis :
    (même e-mail ou même nom).
 2. Si elle est nouvelle, donne-lui le **code suivant** (C01, puis C02…)
    et ajoute une ligne : code, prénom et nom, e-mail, date du premier
-   contact, d'où elle vient (mail, Instagram, bouche-à-oreille), formule
-   souhaitée si connue, étape « 1 Contact ».
+   contact, d'où elle vient (mail, Instagram, bouche-à-oreille), sa ville,
+   sur place ou à distance, formule souhaitée si connue, étape
+   « 1 Contact ».
 3. Crée le sous-dossier `Cxx - Prénom` dans `Pur Coaching / Clients`.
 
 ### B. L'anamnèse
@@ -59,15 +60,25 @@ Lis :
    `modele-bon-de-commande.md` et les prix de `mon-coaching.md`.
 2. Si elle hésite, propose dans le bon de commande la formule qui
    colle le mieux à son objectif (avec une phrase d'explication), en
-   laissant le choix à Simon.
-3. Mets à jour le tableau : « Bon de commande prêt : oui », étape
+   laissant le choix à Simon. Si elle habite loin de Huy, pense aux
+   formules à distance (PUR ONLINE, PUR ONLINE+).
+3. **Formules à distance** : applique les règles du modèle de bon de
+   commande. Pas de PUR ONLINE ni PUR ONLINE+ pour une femme enceinte,
+   une personne mineure ou une personne qui a un problème de cœur ;
+   accord écrit du médecin quand le bilan est orange ou rouge ; paiement
+   par virement seulement après le bilan santé. Regarde dans le tableau de
+   suivi combien de clients à distance sont en cours : s'il y en a déjà
+   3, signale-le à Simon avant de préparer un nouveau bon de commande à
+   distance (il décide).
+4. Mets à jour le tableau : « Bon de commande prêt : oui », étape
    « 3 Prêt pour le rendez-vous ».
 
 ### D. Prêt pour Simon
 Quand l'anamnèse est reçue, l'état du bilan connu et le bon de commande
 prêt, le dossier est **prêt**. Tu le signales dans ce format :
 « C03 (Julie) est prêt : anamnèse reçue, feu vert, bon de commande
-PUR GOLD prêt. Il reste à fixer le rendez-vous Tanita. »
+PUR GOLD prêt. Il reste à fixer le rendez-vous Tanita. » (pour une
+formule à distance : « Il reste à fixer le premier appel vidéo. »)
 Si le bilan est **orange ou rouge**, tu l'écris clairement, avec le
 message préparé par `coach-bilan` pour la personne.
 

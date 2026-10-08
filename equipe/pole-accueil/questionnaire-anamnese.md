@@ -26,14 +26,15 @@ pas, écris « je ne sais pas » : Simon en parlera avec toi.
 - Prénom et nom :
 - Date de naissance :
 - Téléphone :
+- Ta ville (pour savoir si on se voit à Huy ou à distance) :
 - Profession (et est-ce un travail plutôt assis, debout ou physique ?) :
 
 **2. Ton objectif**
 - Ce que tu veux obtenir, en une phrase :
 - Pourquoi c'est important pour toi :
 - Une date à viser (un événement, une course…) ?
-- La formule qui t'intéresse (PUR HEALTH, PUR GOLD, PUR TRACK, ou je ne
-  sais pas encore) :
+- La formule qui t'intéresse (PUR HEALTH, PUR GOLD, PUR TRACK,
+  PUR ONLINE, PUR ONLINE+, ou je ne sais pas encore) :
 
 **3. Ton sport**
 - Sport(s) pratiqué(s) aujourd'hui, et combien de fois par semaine :

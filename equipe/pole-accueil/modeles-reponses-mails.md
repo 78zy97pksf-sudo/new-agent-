@@ -35,7 +35,7 @@ prix, ou comment ça se passe, sans avoir encore choisi de formule.
 > Ceci est une première réponse automatique pour que tu aies tout de
 > suite les infos. Je reviens ensuite vers toi personnellement.
 >
-> Voici mes trois formules :
+> Voici mes formules à Huy :
 >
 > - **PUR HEALTH (70 €)** : analyse corporelle Tanita, rapport PDF
 >   détaillé avec recommandations, anamnèse complète et plan
@@ -50,10 +50,23 @@ prix, ou comment ça se passe, sans avoir encore choisi de formule.
 > Tu peux aussi faire une analyse Tanita seule (15 €).
 > Les séances et les analyses ont lieu à Huy.
 >
+> Tu n'habites pas près de Huy ? Je te suis aussi **100 % à distance** :
+>
+> - **PUR ONLINE (69 € par mois)** : pour les sportifs plutôt autonomes.
+>   Plan sur mesure ajusté toutes les 4 semaines, un bilan chaque semaine
+>   avec ma réponse sous 48 h, correction de ta technique en vidéo et
+>   1 appel vidéo par mois.
+> - **PUR ONLINE+ (109 € par mois)** : un suivi serré à distance. Plan
+>   ajusté chaque semaine, réponse sous 24 h, 2 appels vidéo par mois,
+>   et préparation au semi-marathon ou au marathon si c'est ton objectif.
+>
+> Les formules à distance durent 3 mois minimum, puis se continuent mois
+> par mois. On les démarre après ton anamnèse.
+>
 > Pour gagner du temps, tu peux déjà remplir ton anamnèse (le
 > questionnaire de départ) : il est juste en dessous. Réponds simplement
 > à ce mail avec tes réponses et la formule qui t'intéresse. Je te
-> proposerai ensuite un premier rendez-vous.
+> proposerai ensuite un premier rendez-vous, à Huy ou en appel vidéo.
 >
 > À très vite,
 > [signature]
@@ -65,7 +78,9 @@ prix, ou comment ça se passe, sans avoir encore choisi de formule.
 
 **Statut : validé par simo (2026-10-08)**
 **Quand :** la personne dit clairement qu'elle veut une formule (« je
-veux commencer PUR GOLD », « je prends le pack 12 séances »).
+veux commencer PUR GOLD », « je prends le pack 12 séances », « je veux
+PUR ONLINE »). On garde seulement les phrases entre crochets qui
+correspondent à sa formule.
 
 > Salut [prénom],
 >
@@ -75,8 +90,11 @@ veux commencer PUR GOLD », « je prends le pack 12 séances »).
 >
 > Récapitulatif : [formule], [prix de la grille], [ce qui est compris, en
 > une ligne].
-> Le paiement se fait par virement, ou en liquide pour les séances en
-> présentiel. On en parle ensemble au premier rendez-vous.
+> [Formule à Huy :] Le paiement se fait par virement, ou en liquide pour
+> les séances en présentiel. On en parle ensemble au premier rendez-vous.
+> [PUR ONLINE ou PUR ONLINE+ :] L'engagement est de 3 mois minimum, puis
+> mois par mois. Le paiement se fait par virement, seulement une fois ton
+> anamnèse lue : je t'envoie les infos à ce moment-là.
 >
 > [Si l'anamnèse n'est pas encore reçue :] La prochaine étape : remplir
 > ton anamnèse (le questionnaire juste en dessous) et me la renvoyer en
@@ -85,7 +103,7 @@ veux commencer PUR GOLD », « je prends le pack 12 séances »).
 > [Si l'anamnèse est déjà reçue :] J'ai bien ton anamnèse, merci.
 >
 > Je reviens vers toi personnellement pour fixer notre premier rendez-vous
-> à Huy.
+> [à Huy / en appel vidéo].
 >
 > À très vite,
 > [signature]
@@ -117,8 +135,9 @@ par `coach-bilan`.
 
 **Statut : validé par simo (2026-10-08)**
 **Quand :** une question dont la réponse est écrite noir sur blanc dans
-`mon-coaching.md` ou sur le site : lieu (Huy), moyens de paiement, ce que
-contient une formule, prix de la grille.
+`mon-coaching.md` ou sur le site : lieu (Huy), coaching à distance
+(PUR ONLINE, PUR ONLINE+), moyens de paiement, ce que contient une
+formule, prix de la grille.
 
 > Salut [prénom],
 >
@@ -162,4 +181,4 @@ concerné ci-dessus.)
 
 | Date | Modèle | Correction |
 |---|---|---|
-| | | |
+| 2026-10-08 | M1, M2, M4 | Ajout des formules à distance PUR ONLINE (69 €/mois) et PUR ONLINE+ (109 €/mois), validées par simo le même jour pour le site |

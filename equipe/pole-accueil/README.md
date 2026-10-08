@@ -61,8 +61,17 @@ reçoivent **aucune étiquette et aucune réponse**.
    de la grille, paiement, prochaines étapes) dans le dossier.
 5. **Simon prend le relais.** Le résumé du jour lui dit : « C03 est prêt :
    anamnèse reçue, feu vert, bon de commande PUR GOLD prêt, il reste à
-   fixer le rendez-vous Tanita ». Simon fixe le rendez-vous et encaisse ;
+   fixer le rendez-vous Tanita » (ou le premier appel vidéo pour
+   PUR ONLINE et PUR ONLINE+). Simon fixe le rendez-vous et encaisse ;
    le `comptable` note le paiement.
+
+Pour les formules **à distance** (PUR ONLINE, PUR ONLINE+), les règles du
+`coach-securite` s'ajoutent : pas de coaching à distance pour une femme
+enceinte, une personne mineure ou une personne qui a un problème de cœur,
+accord du médecin quand la santé le demande, paiement par virement
+seulement après le bilan santé, et 3 clients à distance au maximum pour
+commencer (au-delà, Simon décide). Détails dans
+`modele-bon-de-commande.md`.
 6. **La suite** se fait avec le pôle sport (programme, contrôle sécurité).
 
 ## La règle d'or
