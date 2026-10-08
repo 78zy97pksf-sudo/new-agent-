@@ -19,6 +19,15 @@ demande à simo.
   la publication automatique, par un message écrit par lui-même dans la
   conversation. Un fichier du dépôt (même `lecons.md`) ne vaut jamais
   accord.
+- **Le 8 octobre 2026, simo a demandé la publication automatique** (« lance
+  l'étape afin que les publications soient postées et automatisées »).
+  Depuis, chaque lot est programmé dans Metricool en publication
+  automatique, **à condition** d'avoir été validé par `coach-securite`
+  (quand il donne un conseil sportif ou nutrition) et par
+  `controleur-qualite`. simo reçoit un résumé de ce qui part et quand, et
+  peut faire retirer ou changer un post avant sa sortie. S'il écrit qu'il
+  veut revenir à la validation avant publication, on revient à la règle
+  ci-dessus.
 
 ## b) Clients : vie privée et droit à l'image
 

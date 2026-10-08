@@ -16,9 +16,22 @@ Rangement conseillé dans Google Drive `[À CONFIRMER PAR SIMO]` :
 
 ## Publication sur Instagram et TikTok
 
-**Pour l'instant : pas de connexion.**
+**Depuis le 8 octobre 2026 : Metricool est branché et la publication est
+automatique** (comptes Instagram « simon_ruisseau » et TikTok
+« Simson_laD », marque Metricool 7201871, fuseau Europe/Brussels).
 
-### Sans connexion (situation actuelle)
+### Comment un post est programmé (situation actuelle)
+1. Le post est écrit, illustré, puis validé par `coach-securite` (s'il
+   donne un conseil) et `controleur-qualite`.
+2. Les images sont mises dans le dépôt, dans
+   `equipe/pole-marketing/medias/<semaine>/`, pour avoir un lien public
+   que Metricool peut lire (Metricool en garde ensuite sa propre copie).
+3. Claude programme le post dans Metricool en publication automatique.
+4. simo reçoit le résumé dans la conversation et peut faire retirer ou
+   changer un post avant sa sortie.
+5. Les vidéos attendent les prises filmées par simo, puis le montage.
+
+### Sans connexion (si Metricool ne marche plus)
 1. Les agents préparent le post **prêt à copier-coller** (texte, légende,
    hashtags) et le visuel (exporté depuis Canva).
 2. simo valide.
@@ -38,7 +51,8 @@ Rangement conseillé dans Google Drive `[À CONFIRMER PAR SIMO]` :
   (règle budget de simo) : on revient à la publication à la main.
 - Utile pour : programmer les posts validés, et récupérer les statistiques
   pour le bilan de `responsable-marque`.
-- Même avec Metricool, **rien n'est programmé sans l'accord de simo**.
+- Avec Metricool, la publication automatique ne vaut que parce que simo
+  l'a demandée lui-même (voir `regles-publication.md`, partie a).
 
 Ces informations sur Metricool sont à revérifier par simo au moment de
 l'inscription (les offres peuvent changer).

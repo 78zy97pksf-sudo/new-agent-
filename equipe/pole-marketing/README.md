@@ -5,11 +5,13 @@ Instagram (**@pur.coaching**) et TikTok : il prépare les publications, les
 visuels, les réponses aux messages, et améliore la marque au fil du temps
 grâce aux statistiques.
 
-## ATTENTION : rien n'est publié sans l'accord de simo
+## ATTENTION : qui décide de publier
 
-Aucun agent ne publie lui-même. Chaque post (ou chaque lot de posts) est
-**validé par simo** avant d'être publié ou programmé. Voir
-`regles-publication.md`.
+Aucun agent ne publie lui-même. Depuis le 8 octobre 2026, à la demande de
+simo, la conversation principale programme les posts dans Metricool en
+publication automatique, mais **seulement** après les contrôles
+(`coach-securite` si conseil, `controleur-qualite`). simo reçoit un
+résumé et peut faire retirer un post. Voir `regles-publication.md`.
 
 ## ATTENTION : le dépôt GitHub est PUBLIC
 
@@ -62,10 +64,10 @@ données de santé, statistiques privées détaillées, mots de passe.
    ou de nutrition) — `coach-securite`.
 5. **Contrôle de la forme** — `controleur-qualite`
    Vérifie la clarté, les fautes et le respect de `regles-publication.md`.
-6. **Validation de simo** — simo relit et dit « OK » (ou demande des
-   changements).
-7. **Publication** — simo publie lui-même, ou programme avec l'outil de
-   publication (voir `outils-et-connexions.md`).
+6. **Programmation automatique** — la conversation principale programme
+   le post dans Metricool et envoie le résumé à simo, qui peut demander un
+   changement avant la sortie (voir `outils-et-connexions.md`).
+7. **Publication** — Metricool publie le post à l'heure prévue.
 8. **Bilan** (chaque semaine ou chaque mois) — `responsable-marque`
    Analyse les statistiques et écrit les leçons dans `lecons.md`.
 
