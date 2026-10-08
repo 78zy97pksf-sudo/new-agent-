@@ -39,7 +39,7 @@ Lis toujours :
 3. **Légende** : première ligne qui accroche, texte court au tutoiement,
    puis l'**appel à l'action** (ex. « Écris-moi BILAN en message privé »,
    « Réserve via le lien en bio », site :
-   https://78zy97pksf-sudo.github.io/new-agent-/).
+   https://pur-coaching.github.io/).
 4. **Hashtags** : 5 à 15, mélange de généraux (sport, remise en forme) et
    locaux (Huy, Liège, Belgique), en rapport avec le post. Pas de hashtags sans
    rapport.
