@@ -9,9 +9,14 @@ soit prêt avant le premier rendez-vous avec Simon.
 Ici, jamais d'adresse e-mail, de nom de client, d'information de santé ni
 de montant réel. Les vrais dossiers clients vont dans le **Google Drive
 privé de simo**, dossier `Pur Coaching / Clients` :
-- le tableau `Suivi clients PUR COACHING` (une ligne par client) ;
-- un sous-dossier par client, nommé avec son code (`C01`, `C02`…), qui
-  contient son anamnèse et son bon de commande.
+- un sous-dossier par client, dont le **nom indique où il en est**, par
+  exemple `C01 - Julie - PUR GOLD - 3 Prêt pour le rendez-vous` ;
+- dans ce dossier : sa fiche contact, son anamnèse, son bilan et son bon
+  de commande.
+
+Il suffit d'ouvrir `Pur Coaching / Clients` pour voir tous les clients et
+leur étape. (Les outils des agents ne peuvent pas écrire dans un tableau
+Google Sheets, d'où ce système de noms de dossiers.)
 
 ## Qui fait quoi
 
@@ -50,9 +55,8 @@ reçoivent **aucune étiquette et aucune réponse**.
 1. **Le mail arrive.** `secretaire-mails` le reconnaît comme une demande
    de coaching, lui met l'étiquette `1 Prospect` et répond avec le modèle
    « premier contact » (formules, prix, questionnaire d'anamnèse).
-2. **Le dossier est ouvert.** `agent-accueil` donne un code client, ajoute
-   une ligne au tableau de suivi et crée le dossier du client dans le
-   Drive.
+2. **Le dossier est ouvert.** `agent-accueil` donne un code client et
+   crée le dossier du client dans le Drive (étape `1 Contact`).
 3. **L'anamnèse revient.** `agent-accueil` range les réponses dans le
    dossier, puis la conversation principale demande à `coach-bilan`
    l'état du bilan (incomplet, vert, orange, rouge).

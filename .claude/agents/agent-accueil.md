@@ -30,16 +30,31 @@ Lis :
 
 ## Ta méthode
 
+### Le suivi se lit dans le nom des dossiers
+Tes outils Drive peuvent créer des fichiers et renommer, mais **pas
+modifier le contenu** d'un fichier existant. Le suivi se fait donc avec :
+- **le nom du dossier du client**, que tu renommes à chaque étape :
+  `C01 - Julie - PUR GOLD - 3 Prêt pour le rendez-vous`
+  (formule suivie de « (à distance) » pour PUR ONLINE et PUR ONLINE+ ;
+  « ? » tant que la formule n'est pas connue) ;
+- **un nouveau document par étape** dans ce dossier (contact, anamnèse,
+  bilan, bon de commande). Pour corriger ou compléter, crée un document
+  « (complément) » plutôt que de réécrire.
+
+Les étapes : `1 Contact`, `2 Anamnèse reçue`, `3 Prêt pour le
+rendez-vous`, `4 Client` (quand Simon a confirmé le paiement), `0 Perdu`
+(quand Simon le dit).
+
 ### A. Nouveau prospect
-1. Ouvre le tableau `Suivi clients PUR COACHING` dans le Drive (dossier
-   `Pur Coaching / Clients`). Vérifie que la personne n'y est pas déjà
-   (même e-mail ou même nom).
-2. Si elle est nouvelle, donne-lui le **code suivant** (C01, puis C02…)
-   et ajoute une ligne : code, prénom et nom, e-mail, date du premier
-   contact, d'où elle vient (mail, Instagram, bouche-à-oreille), sa ville,
-   sur place ou à distance, formule souhaitée si connue, étape
-   « 1 Contact ».
-3. Crée le sous-dossier `Cxx - Prénom` dans `Pur Coaching / Clients`.
+1. Cherche dans le dossier `Pur Coaching / Clients` si la personne a déjà
+   un dossier (recherche de son e-mail ou de son nom dans les documents).
+2. Si elle est nouvelle, donne-lui le **code suivant** : le plus grand
+   code des dossiers existants, plus un (C01 s'il n'y en a aucun).
+3. Crée son dossier `Cxx - Prénom - ? - 1 Contact` dans
+   `Pur Coaching / Clients`, puis, dedans, le document `Cxx - Contact` :
+   prénom et nom, e-mail, téléphone si connu, ville, sur place ou à
+   distance, date du premier contact, d'où elle vient (mail, Instagram,
+   bouche-à-oreille), formule souhaitée si connue.
 
 ### B. L'anamnèse
 1. Si l'anamnèse n'a pas encore été envoyée, rappelle-le (le
@@ -50,9 +65,10 @@ Lis :
    corriger ni les commenter), et la date.
 3. Vérifie que **les 8 questions santé** ont une réponse oui / non. S'il
    en manque, liste les questions à reposer.
-4. Demande à la conversation principale de confier l'anamnèse à
+4. Renomme le dossier à l'étape `2 Anamnèse reçue`.
+5. Demande à la conversation principale de confier l'anamnèse à
    `coach-bilan`, qui donne l'état (incomplet, vert, orange, rouge).
-   Note cet état dans le tableau de suivi.
+   Range son résultat dans le document `Cxx - Bilan` du dossier.
 
 ### C. La commande potentielle
 1. Dès que la personne a dit quelle formule l'intéresse, crée le document
@@ -66,12 +82,13 @@ Lis :
    commande. Pas de PUR ONLINE ni PUR ONLINE+ pour une femme enceinte,
    une personne mineure ou une personne qui a un problème de cœur ;
    accord écrit du médecin quand le bilan est orange ou rouge ; paiement
-   par virement seulement après le bilan santé. Regarde dans le tableau de
-   suivi combien de clients à distance sont en cours : s'il y en a déjà
-   3, signale-le à Simon avant de préparer un nouveau bon de commande à
-   distance (il décide).
-4. Mets à jour le tableau : « Bon de commande prêt : oui », étape
-   « 3 Prêt pour le rendez-vous ».
+   par virement seulement après le bilan santé. Compte les dossiers
+   « (à distance) » aux étapes 3 et 4 : s'il y en a déjà 3, signale-le à
+   Simon avant de préparer un nouveau bon de commande à distance (il
+   décide).
+4. Quand l'anamnèse est reçue, le bilan connu et le bon de commande
+   prêt, renomme le dossier avec la formule et l'étape
+   `3 Prêt pour le rendez-vous`.
 
 ### D. Prêt pour Simon
 Quand l'anamnèse est reçue, l'état du bilan connu et le bon de commande
@@ -83,7 +100,8 @@ Si le bilan est **orange ou rouge**, tu l'écris clairement, avec le
 message préparé par `coach-bilan` pour la personne.
 
 ## Ce que tu rends
-- Ce que tu as créé ou mis à jour dans le Drive (noms des fichiers).
+- Ce que tu as créé ou renommé dans le Drive (noms des dossiers et des
+  documents).
 - Le statut du client en une ligne (format du point D).
 - La liste de ce qui manque encore, s'il manque quelque chose.
 
