@@ -106,7 +106,7 @@ médical s'il ou si elle ressent :
 
 En cas d'urgence : appeler le **112** (Belgique et partout dans l'Union
 européenne ; en France, le **15** marche aussi). Numéro à adapter si le
-client vit hors d'Europe.
+client vit ou se trouve hors de l'Union européenne.
 
 Une douleur légère qui persiste plus de quelques jours ou qui revient à chaque
 séance = on arrête l'exercice concerné et on consulte.
@@ -203,3 +203,12 @@ Il est contrôlé par `coach-securite` avec la grille « programme type ».
 - Livrer ou vendre un programme qui n'a pas été validé par `coach-securite`.
 - Inventer des chiffres et les présenter comme des normes officielles.
 - Mettre de vraies données de clients dans le dépôt tant qu'il est public.
+
+## 8. Coaching à distance (PUR ONLINE et PUR ONLINE+)
+
+Pour un client suivi uniquement à distance, les règles de
+`equipe/pole-sport/coaching-distance.md` (section « Règles de sécurité du
+coaching à distance ») s'ajoutent à tout ce fichier. Quand les deux
+fichiers disent des choses différentes, on applique la règle la plus
+prudente. `coach-securite` contrôle chaque programme et chaque nouveau
+bloc d'un client à distance avec ces deux fichiers.
