@@ -18,7 +18,7 @@ Signature commune (à la fin de chaque modèle) :
 
 > Simon
 > PUR COACHING · Coach sportif à Huy
-> https://pur-coaching.github.io/ · Instagram @pur.coaching
+> https://pur-coaching.github.io/ · Instagram @simon_ruisseau
 
 ---
 
@@ -181,4 +181,5 @@ concerné ci-dessus.)
 
 | Date | Modèle | Correction |
 |---|---|---|
+| 2026-10-08 | Signature | Instagram de Simon (@simon_ruisseau) au lieu de @pur.coaching, à la demande de simo |
 | 2026-10-08 | M1, M2, M4 | Ajout des formules à distance PUR ONLINE (69 €/mois) et PUR ONLINE+ (109 €/mois), validées par simo le même jour pour le site |
