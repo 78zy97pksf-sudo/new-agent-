@@ -1,7 +1,7 @@
 # Le pôle marketing et commercial
 
 Le pôle marketing et commercial fait vivre la marque **PUR COACHING** sur
-Instagram (**@pur.coaching**) et TikTok : il prépare les publications, les
+Instagram (compte officiel de Simon, **@simon_ruisseau**) et TikTok (**@Simson_laD**) : il prépare les publications, les
 visuels, les réponses aux messages, et améliore la marque au fil du temps
 grâce aux statistiques.
 
