@@ -29,6 +29,7 @@ simo peut les remplacer à tout moment.
 - Instagram : **@pur.coaching**.
 - Signature en fin de programme : « Simon, PUR COACHING ».
 - Paiement : par virement, ou en liquide pour les séances en présentiel.
+  À distance : virement uniquement, avant chaque mois de suivi.
 - Logo et grille de tarifs : fournis par Simon (fichiers « pur logo
   nouveau » et « Pur tarif »).
 
@@ -40,6 +41,16 @@ simo peut les remplacer à tout moment.
 | **PUR GOLD** (la plus populaire) | 150 € / mois | Analyse Tanita 1 fois par mois + rapport PDF, test VMA et tests physiques, plan d'entraînement 100 % personnalisé sur 3 mois, conseils nutritionnels adaptés aux objectifs, 2 séances d'accompagnement pratique par mois |
 | **PUR TRACK** | 35 € la séance d'1 h 30 ; 300 € les 12 séances (25 €/séance) ; 750 € les 36 séances (20,8 €/séance) | Accompagnement en présentiel, plan alimentaire de base, analyse Tanita en début et en fin de suivi, horaires selon les disponibilités |
 | Analyse Tanita seule | 15 € | Une analyse |
+| **PUR ONLINE** (100 % à distance) | 69 € / mois, 3 mois minimum puis mois par mois | Appel vidéo de bilan gratuit, plan 100 % personnalisé ajusté toutes les 4 semaines, bilan chaque semaine (réponse de Simon sous 2 jours ouvrables, soit 48 h en semaine), correction de la technique en vidéo, 1 visio de suivi par mois, tests de forme maison toutes les 4 semaines, conseils alimentaires généraux. Pas de Tanita ni de séance sur place |
+| **PUR ONLINE+** (100 % à distance, suivi renforcé) | 109 € / mois, 3 mois minimum puis mois par mois | Tout PUR ONLINE, plus : plan ajusté chaque semaine, réponse sous 1 jour ouvrable (24 h en semaine), 2 visios par mois (dont 1 séance de technique en direct), jusqu'à 2 vidéos de technique corrigées par semaine, préparation semi-marathon et marathon (allures, stratégie de course) |
+
+Formules à distance validées par Simon le 2026-10-08. Paiement par
+virement avant chaque mois de suivi, seulement après le feu final du
+bilan. Option pour un client à distance qui passe par Huy : analyse Tanita
+(15 €) ou séance PUR TRACK (35 €). Tout le fonctionnement (parcours,
+bilan, suivi, sécurité, temps de Simon) est dans
+`equipe/pole-sport/coaching-distance.md`, que chaque agent lit avant de
+travailler pour un client à distance.
 
 Ce que ça change pour les agents :
 - **coach-bilan** : le bilan correspond à l'« anamnèse complète ». Si une
@@ -52,6 +63,9 @@ Ce que ça change pour les agents :
 - **coach-nutrition** : « conseils nutritionnels » (PUR GOLD) et « plan
   alimentaire de base » (PUR TRACK) restent des conseils généraux non
   médicaux, selon `regles-securite.md`.
+- **Clients à distance (PUR ONLINE et PUR ONLINE+)** : pas de Tanita ni
+  de test VMA en labo ; on suit des tests maison. Les règles de
+  `coaching-distance.md` s'ajoutent à celles de `regles-securite.md`.
 - On ne promet jamais un résultat chiffré (kilos perdus, etc.).
 
 ## Ma spécialité
