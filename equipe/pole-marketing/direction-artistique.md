@@ -1,6 +1,6 @@
 # Direction artistique des couvertures illustrées
 
-Depuis le lot du 19 octobre 2026. Le `graphiste` suit ce fichier ; `responsable-marque` en est le
+Depuis le lot du 19 octobre 2026. Couleurs et polices : celles de `charte-marque.md`. Le `graphiste` suit ce fichier ; `responsable-marque` en est le
 gardien et simo valide les changements.
 
 But : arrêter le pouce qui fait défiler. Chaque couverture a UNE illustration originale, forte, lisible en
@@ -19,12 +19,14 @@ d'images en ligne ne sont pas accessibles depuis le projet.
 - Contraste fort : le sujet doit ressortir sur le fond.
 
 ## Couleurs
-- Base de la marque : bleu foncé #12304F, bleu #2B5A96, bleu ciel #DCEFF8, très clair #F4FAFD, blanc.
+- Base de la marque (couleurs exactes du site) : bleu foncé #12304F, bleu #2B5A96, bleu ciel #DCEFF8, très clair
+  #F4FAFD, blanc, bleu clair #9CC7EE.
 - Accents permis selon le thème :
   - automne et course de jour : orangé chaud #F2B56B et #E07A3F, en touches ;
   - nuit et heure d'hiver : bleus très foncés, lumière de lampe jaune pâle #FFE9A8, bandes réfléchissantes
     gris clair brillant ou jaune fluo doux #E9F27A ;
-  - l'or (#C9A24A, #E8C770) est RÉSERVÉ à PUR GOLD : seulement IG9 (si PUR GOLD y figure) et IG13 / TT13.
+  - l'or #B08A22 (et ses nuances plus claires ou plus foncées pour les dégradés) est RÉSERVÉ à PUR GOLD :
+    seulement les posts (ou la partie d'un post) qui présentent PUR GOLD.
 - Le bas de l'image doit tirer vers le bleu foncé #12304F (un voile bleu foncé y est ajouté pour le texte).
 
 ## Ce qui est interdit

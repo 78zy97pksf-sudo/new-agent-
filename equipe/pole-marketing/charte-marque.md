@@ -36,18 +36,32 @@ toujours les lire là-bas, pour éviter les erreurs de prix.
 
 ## Couleurs
 
+Ce sont les couleurs exactes du site refait, publié par simo le 9 octobre
+2026. Les visuels des posts utilisent les mêmes.
+
 | Couleur | Usage | Code exact |
 |---|---|---|
-| Bleu ciel | Couleur principale, fonds clairs | `[À CONFIRMER PAR SIMO]` |
-| Bleu foncé | Titres, textes, fonds foncés | `[À CONFIRMER PAR SIMO]` |
-| Or | Réservé à l'offre **PUR GOLD** et aux touches « premium » | `[À CONFIRMER PAR SIMO]` |
+| Bleu foncé | Titres, textes, fonds foncés | `#12304F` |
+| Bleu | Liens, icônes, petits titres sur fond clair | `#2B5A96` |
+| Bleu ciel | Couleur principale des fonds clairs, encadrés | `#DCEFF8` |
+| Fond très clair | Grand fond des pages | `#F4FAFD` |
 | Blanc | Fonds et textes sur fond foncé | `#FFFFFF` |
+| Bleu clair | Sur-titres (petits mots en capitales) sur fond foncé | `#9CC7EE` |
+| Or | **Réservé à l'offre PUR GOLD**, nulle part ailleurs | `#B08A22` |
+| Vert WhatsApp | Seulement l'icône WhatsApp | `#25D366` |
 
 ## Polices
 
-- Titres : `[À CONFIRMER]`
-- Textes : `[À CONFIRMER]`
-- Règle : 2 polices maximum, lisibles sur téléphone.
+- **Montserrat** pour tout : titres, textes, boutons et chiffres. Dans les
+  visuels : 800 pour les grands titres, 700 pour les sous-titres et
+  boutons, 500 pour le texte. Sur le site : 700 pour les titres et 400
+  pour le texte.
+- **Cormorant Garamond 600** uniquement pour le nom « PUR COACHING » en
+  capitales espacées, et pour le slogan en italique (vraie police italique,
+  pas des lettres droites penchées).
+- Règle : 2 polices maximum, lisibles sur téléphone, et des tailles
+  mesurées : un texte trop grand ne fait pas pro (remarque de simo du
+  9 octobre 2026).
 
 ## Ton
 
@@ -95,3 +109,4 @@ toujours les lire là-bas, pour éviter les erreurs de prix.
 (Chaque changement validé par simo est noté ici avec sa date.)
 
 - 2026-10-02 : création de la charte.
+- 2026-10-09 : couleurs exactes et polices alignées sur le site refait (publié par simo le 9 octobre 2026) ; l'or est réservé à PUR GOLD.
