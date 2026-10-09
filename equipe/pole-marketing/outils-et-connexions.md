@@ -8,6 +8,7 @@ Règle : **outils gratuits uniquement** (voir `regles-publication.md`).
 | Outil | À quoi il sert | Qui l'utilise |
 |---|---|---|
 | **Canva** | Créer les visuels (posts, carrousels, stories, couvertures de Reels/TikTok), kit de marque | `graphiste` |
+| **IA d'images de Canva** (`generate-image`) | Créer des images originales pour les couvertures (demande de simo du 9 octobre 2026). Crédit gratuit mensuel, qui revient le 1er de chaque mois ; épuisé le 9 octobre 2026. Sans crédit, le `graphiste` dessine l'illustration en SVG (voir `direction-artistique.md`) | `graphiste` |
 | **Google Drive** | Ranger les photos, vidéos et visuels exportés (hors du dépôt public) | simo, `graphiste` |
 | **Notion** ou **Google Agenda** (possible) | Suivre le calendrier éditorial si simo préfère à `calendrier-editorial.md` | `responsable-marque`, simo |
 
@@ -23,6 +24,10 @@ automatique** (comptes Instagram « simon_ruisseau » et TikTok
 ### Comment un post est programmé (situation actuelle)
 1. Le post est écrit, illustré, puis validé par `coach-securite` (s'il
    donne un conseil) et `controleur-qualite`.
+   Depuis le 19 octobre 2026, la première image porte une illustration
+   originale (IA de Canva ou dessin du `graphiste`). Si elle est
+   photoréaliste et créée par IA, le post Instagram est marqué « créé avec
+   l'IA » dans Metricool.
 2. Les images sont mises dans le dépôt, dans
    `equipe/pole-marketing/medias/<semaine>/`, pour avoir un lien public
    que Metricool peut lire (Metricool en garde ensuite sa propre copie).
