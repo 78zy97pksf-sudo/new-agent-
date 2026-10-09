@@ -37,22 +37,35 @@ passage de PUR ONLINE à PUR ONLINE+.
 **Paiement**
 - Formules à Huy : virement, ou liquide pour les séances en présentiel.
   Quand : `[À DÉCIDER PAR SIMON]` (par défaut : au premier rendez-vous).
-- PUR ONLINE et PUR ONLINE+ : **virement seulement**, et **seulement
-  après le bilan santé** (anamnèse reçue et état donné par
-  `coach-bilan`).
+- PUR ONLINE et PUR ONLINE+ : **virement seulement**, avant chaque mois
+  de suivi, et le premier paiement **seulement après le feu final du
+  bilan** (questionnaire, appel vidéo de bilan gratuit, confirmation
+  écrite). Pas de liquide à distance. Les conditions écrites et les
+  coordonnées bancaires sont envoyées par Simon lui-même.
 - Facture ou reçu : préparé(e) par le `comptable` après paiement.
 
-**Coaching à distance : quand ce n'est pas possible** (règle du
-`coach-securite`)
-- Pas de PUR ONLINE ni PUR ONLINE+ pour une femme enceinte, une personne
-  mineure ou une personne qui a un problème de cœur. Dans ces cas, pas de
-  bon de commande à distance : on l'écrit clairement et Simon en parle
-  lui-même avec la personne.
-- Quand la santé le demande (bilan orange ou rouge), il faut l'accord
-  écrit du médecin avant de commencer.
-- Pour démarrer, l'équipe conseille **3 clients à distance au maximum**
-  en même temps. Si ce nombre est atteint, on le signale à Simon : il
-  décide.
+**Coaching à distance : les règles** (tout le détail dans
+`../pole-sport/coaching-distance.md`, sections 1.3, 5.1, 7.3 et 8)
+- Adultes seulement. Le tri du bilan, donné par `coach-bilan`, décide :
+  - **cas A, jamais à distance** (par exemple bilan incomplet ou feu
+    rouge, grossesse, personne mineure, maladie du cœur ou pacemaker,
+    malaise à l'effort ; liste complète en section 5.1) : pas de bon de
+    commande à distance, on l'écrit clairement et Simon propose Huy ou un
+    professionnel près de chez la personne ;
+  - **cas B** : accord écrit du médecin (ou de la sage-femme) avant de
+    commencer ;
+  - **cas B bis** (douleur ancienne, légère et stable) : programme très
+    léger, seulement si la personne le souhaite ;
+  - **cas C** : feu vert.
+- Places : pendant la phase test, **3 clients à distance au maximum** ;
+  1 nouveau client toutes les 2 semaines au maximum ; aucun nouveau
+  client pendant le blocus et les examens. Si c'est complet, on le
+  signale à Simon (liste d'attente honnête, sans fausse urgence).
+- Personne qui vit hors de Belgique : les pays ouverts restent à décider
+  par simo (section 8, point 5). On le signale à Simon.
+- Avant le **tout premier** client à distance, simo doit avoir réglé les
+  points 2 à 5 de la section 8 (assurance, facturation, heures, pays
+  ouverts) : le rappeler à Simon dans ce bon de commande.
 
 **Ce qui est prêt**
 - Anamnèse reçue : oui / non
@@ -60,8 +73,9 @@ passage de PUR ONLINE à PUR ONLINE+.
 - Si orange ou rouge : avis médical écrit demandé le ____
 
 **Ce qu'il reste à faire pour Simon**
-1. Fixer le premier rendez-vous : à Huy (analyse Tanita, signature de
-   l'anamnèse), ou premier appel vidéo pour PUR ONLINE et PUR ONLINE+.
+1. Fixer le premier rendez-vous (analyse Tanita à Huy, signature de
+   l'anamnèse) ou, à distance, l'appel vidéo de bilan et la confirmation
+   écrite.
 2. Confirmer la formule et le prix avec le client.
 3. Encaisser, puis dire au `comptable` de noter le paiement.
 

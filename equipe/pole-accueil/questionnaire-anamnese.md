@@ -5,8 +5,12 @@ et y ajoute les questions de sécurité du pôle sport (inspirées du PAR-Q+),
 pour que `coach-bilan` puisse donner un état sans devoir reposer de
 questions.
 
-- Il est collé tel quel à la fin du modèle de mail M1 ou M2 (le client
-  répond directement dans sa réponse au mail).
+- Il est collé tel quel à la fin du modèle de mail M1, M2 ou M6 (le
+  client répond directement dans sa réponse au mail). La partie 7
+  « À distance » est gardée seulement pour un client qui veut être suivi
+  à distance (M6, ou M1 et M2 quand la personne parle de PUR ONLINE ou
+  PUR ONLINE+). Règles complètes du coaching à distance :
+  `../pole-sport/coaching-distance.md` (section 3.2).
 - Si Simon donne le lien public (« Envoyer », puis l'icône lien) de son
   formulaire Google, on peut envoyer le lien à la place, **avec en plus la
   partie 4** (les 8 questions de sécurité), qui n'est pas dans le
@@ -26,7 +30,8 @@ pas, écris « je ne sais pas » : Simon en parlera avec toi.
 - Prénom et nom :
 - Date de naissance :
 - Téléphone :
-- Ta ville (pour savoir si on se voit à Huy ou à distance) :
+- Ta ville et ton pays, pas ton adresse (pour savoir si on se voit à Huy
+  ou à distance) :
 - Profession (et est-ce un travail plutôt assis, debout ou physique ?) :
 
 **2. Ton objectif**
@@ -59,8 +64,9 @@ pas, écris « je ne sais pas » : Simon en parlera avec toi.
    poumons, des reins…) ?
 8. Y a-t-il une autre raison pour laquelle tu ne devrais pas faire de
    sport ?
-- As-tu un pacemaker ou un autre appareil électronique implanté ? (utile
-  pour l'analyse Tanita)
+- As-tu un pacemaker, un défibrillateur ou un autre appareil électronique
+  implanté ? (important pour l'analyse Tanita et pour le coaching à
+  distance)
 - Es-tu suivi(e) par un médecin en ce moment ? Si oui, pour quoi (en
   quelques mots) :
 - Blessures ou douleurs qui reviennent :
@@ -81,4 +87,35 @@ pas, écris « je ne sais pas » : Simon en parlera avec toi.
   PUR COACHING (oui / non) :
 - Je confirme avoir répondu honnêtement (oui / non) :
 
-Tu signeras cette anamnèse avec Simon lors de votre premier rendez-vous.
+**7. Seulement si tu veux être suivi(e) à distance (PUR ONLINE ou
+PUR ONLINE+)**
+- Ton fuseau horaire et tes créneaux libres pour les appels vidéo :
+- As-tu un médecin que tu peux joindre facilement (oui / non, pas besoin
+  de son nom) ?
+- Un contact d'urgence : prénom et numéro d'une personne d'accord pour
+  l'être (facultatif ; sans contact, si tu vis ou te trouves hors de
+  Belgique, tu ne fais pas d'exercice en direct pendant les appels
+  vidéo) :
+- Où tu t'entraînes : à la maison (place, type de sol, sauts possibles
+  ou non), en salle (machines) ou dehors (parc, piste, parcours plat) :
+- Ton matériel réel (poids des haltères, élastiques, banc, barre, montre,
+  smartphone). Tu peux joindre une photo de ton matériel (jamais de
+  toi) :
+- Ton outil préféré pour le suivi (WhatsApp ou e-mail) :
+- As-tu un compte Google ? (un compte gratuit est nécessaire pour ouvrir
+  ton carnet ; tu peux le créer avec ton adresse e-mail actuelle)
+- Strava (facultatif) : oui / non
+- Peux-tu faire un appel vidéo et filmer tes exercices (oui / non) ?
+- Si tu cours : y a-t-il une personne prévenue quand tu cours seul(e) ?
+
+**Pour terminer**
+- **Si on se voit à Huy** : tu signeras cette anamnèse avec Simon lors
+  de votre premier rendez-vous.
+- **Si tu es suivi(e) à distance** : coche ces 2 cases, confirme tes
+  réponses à voix haute pendant l'appel vidéo de bilan, puis envoie-moi
+  un e-mail « je confirme mes réponses ».
+  - [ ] Je confirme avoir répondu honnêtement au questionnaire santé et
+    je préviendrai Simon de tout changement.
+  - [ ] J'accepte que mes vidéos servent uniquement à mon suivi ; elles
+    restent privées et sont supprimées après correction, au plus tard à
+    la fin du suivi.

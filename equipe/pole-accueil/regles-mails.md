@@ -36,7 +36,7 @@ message depuis.
 | Famille | Exemples | Ce qu'on fait |
 |---|---|---|
 | **A. Demande de coaching** | « Bonjour, je voudrais des infos sur vos formules », « Combien coûte un bilan ? », réponse à une de nos réponses automatiques | Étiquette `1 Prospect` (ou `2 Client`) + réponse avec le bon modèle + `agent-accueil` ouvre ou met à jour le dossier |
-| **B. À voir par Simon** | Question de santé ou douleur, plainte, demande de remboursement, partenariat, presse, question à laquelle aucun modèle ne répond, mail en colère | Étiquette `3 A voir par Simon` + seulement le modèle « accusé de réception » s'il s'agit d'un futur client ; rien d'autre. Signalé dans le résumé du jour |
+| **B. À voir par Simon** | Question de santé ou douleur, plainte, demande de remboursement, partenariat, presse, question à laquelle aucun modèle ne répond, mail en colère, demande de coaching à distance d'une personne qui vit hors de Belgique (pays pas encore ouverts) | Étiquette `3 A voir par Simon` + seulement le modèle « accusé de réception » s'il s'agit d'un futur client ; rien d'autre. Signalé dans le résumé du jour |
 | **C. Personnel ou école** | École, stage, incubateur, famille, amis, banque, administration | **Aucune réponse, aucune étiquette.** Si le mail semble important ou urgent (date limite, rendez-vous, rappel), une ligne dans le résumé du jour |
 | **D. Publicité et notifications** | Newsletters, promotions, Strava, Apple, réseaux sociaux, confirmations automatiques | **Rien.** On n'en parle pas dans le résumé |
 | **E. Douteux** | Arnaque, lien bizarre, demande de mot de passe ou de paiement | **Rien.** Une ligne « mail douteux, ne clique pas » dans le résumé. On ne le supprime pas |
@@ -91,7 +91,8 @@ Après chaque vérification, un message court dans le projet :
 2. **Ce qui attend Simon** : une ligne par mail de la famille B, et les
    mails personnels importants (famille C), avec ce qu'il faut faire.
 3. **Les clients prêts** : les dossiers où l'anamnèse et le bon de
-   commande sont prêts et où il reste seulement à fixer le rendez-vous.
+   commande sont prêts et où il reste seulement à fixer le rendez-vous
+   (ou, à distance, l'appel vidéo de bilan gratuit).
 
 Pas de nom complet ni d'information de santé dans le résumé : le code
 client et le prénom suffisent.

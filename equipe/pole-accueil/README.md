@@ -37,6 +37,8 @@ Google Sheets, d'où ce système de noms de dossiers.)
 - `modele-bon-de-commande.md` : le modèle de la commande potentielle.
 - `../pole-sport/mon-coaching.md` : offres et prix (la seule source des
   prix).
+- `../pole-sport/coaching-distance.md` : le protocole du coaching à
+  distance (parcours, sécurité, places).
 
 ## Les étiquettes Gmail
 
@@ -54,7 +56,8 @@ reçoivent **aucune étiquette et aucune réponse**.
 
 1. **Le mail arrive.** `secretaire-mails` le reconnaît comme une demande
    de coaching, lui met l'étiquette `1 Prospect` et répond avec le modèle
-   « premier contact » (formules, prix, questionnaire d'anamnèse).
+   « premier contact » (formules, prix, questionnaire d'anamnèse), ou
+   « premier contact à distance » pour une personne qui vit loin de Huy.
 2. **Le dossier est ouvert.** `agent-accueil` donne un code client et
    crée le dossier du client dans le Drive (étape `1 Contact`).
 3. **L'anamnèse revient.** `agent-accueil` range les réponses dans le
@@ -65,18 +68,18 @@ reçoivent **aucune étiquette et aucune réponse**.
    de la grille, paiement, prochaines étapes) dans le dossier.
 5. **Simon prend le relais.** Le résumé du jour lui dit : « C03 est prêt :
    anamnèse reçue, feu vert, bon de commande PUR GOLD prêt, il reste à
-   fixer le rendez-vous Tanita » (ou le premier appel vidéo pour
+   fixer le rendez-vous Tanita » (ou l'appel vidéo de bilan gratuit pour
    PUR ONLINE et PUR ONLINE+). Simon fixe le rendez-vous et encaisse ;
    le `comptable` note le paiement.
-
-Pour les formules **à distance** (PUR ONLINE, PUR ONLINE+), les règles du
-`coach-securite` s'ajoutent : pas de coaching à distance pour une femme
-enceinte, une personne mineure ou une personne qui a un problème de cœur,
-accord du médecin quand la santé le demande, paiement par virement
-seulement après le bilan santé, et 3 clients à distance au maximum pour
-commencer (au-delà, Simon décide). Détails dans
-`modele-bon-de-commande.md`.
 6. **La suite** se fait avec le pôle sport (programme, contrôle sécurité).
+
+Pour les formules **à distance** (PUR ONLINE, PUR ONLINE+), le parcours
+complet est dans `../pole-sport/coaching-distance.md` : questionnaire avec
+la partie « À distance », appel vidéo de bilan gratuit, confirmation
+écrite, feu final de `coach-bilan` (tri A / B / B bis / C), puis seulement
+les conditions et le premier paiement par virement. Pendant la phase
+test : 3 clients à distance au maximum (au-delà, Simon décide). Résumé
+des règles dans `modele-bon-de-commande.md`.
 
 ## La règle d'or
 

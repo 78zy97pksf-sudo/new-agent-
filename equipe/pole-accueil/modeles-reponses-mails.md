@@ -50,18 +50,19 @@ prix, ou comment ça se passe, sans avoir encore choisi de formule.
 > Tu peux aussi faire une analyse Tanita seule (15 €).
 > Les séances et les analyses ont lieu à Huy.
 >
-> Tu n'habites pas près de Huy ? Je te suis aussi **100 % à distance** :
+> Tu n'habites pas près de Huy ? Je te suis aussi **100 % à distance**,
+> après un appel vidéo de bilan gratuit :
 >
 > - **PUR ONLINE (69 € par mois)** : pour les sportifs plutôt autonomes.
->   Plan sur mesure ajusté toutes les 4 semaines, un bilan chaque semaine
->   avec ma réponse sous 48 h, correction de ta technique en vidéo et
->   1 appel vidéo par mois.
-> - **PUR ONLINE+ (109 € par mois)** : un suivi serré à distance. Plan
->   ajusté chaque semaine, réponse sous 24 h, 2 appels vidéo par mois,
->   et préparation au semi-marathon ou au marathon si c'est ton objectif.
+>   Plan personnalisé ajusté toutes les 4 semaines, un bilan chaque
+>   semaine avec ma réponse sous 2 jours ouvrables, correction de ta
+>   technique en vidéo et 1 visio de suivi par mois.
+> - **PUR ONLINE+ (109 € par mois)** : un suivi serré. Plan ajusté chaque
+>   semaine, ma réponse sous 1 jour ouvrable, 2 visios par mois et
+>   préparation au semi-marathon ou au marathon si c'est ton objectif.
 >
 > Les formules à distance durent 3 mois minimum, puis se continuent mois
-> par mois. On les démarre après ton anamnèse.
+> par mois. Tu ne paies rien avant la fin de ton bilan.
 >
 > Pour gagner du temps, tu peux déjà remplir ton anamnèse (le
 > questionnaire de départ) : il est juste en dessous. Réponds simplement
@@ -92,9 +93,11 @@ correspondent à sa formule.
 > une ligne].
 > [Formule à Huy :] Le paiement se fait par virement, ou en liquide pour
 > les séances en présentiel. On en parle ensemble au premier rendez-vous.
-> [PUR ONLINE ou PUR ONLINE+ :] L'engagement est de 3 mois minimum, puis
-> mois par mois. Le paiement se fait par virement, seulement une fois ton
-> anamnèse lue : je t'envoie les infos à ce moment-là.
+> [PUR ONLINE ou PUR ONLINE+ :] On commence par ton questionnaire, puis un
+> appel vidéo de bilan gratuit. Tu ne paies rien avant que ce bilan soit
+> complet : je t'envoie alors les conditions et les infos de paiement.
+> Ensuite, le paiement se fait par virement, avant chaque mois de suivi.
+> L'engagement est de 3 mois minimum, puis mois par mois.
 >
 > [Si l'anamnèse n'est pas encore reçue :] La prochaine étape : remplir
 > ton anamnèse (le questionnaire juste en dessous) et me la renvoyer en
@@ -102,8 +105,8 @@ correspondent à sa formule.
 > sécurité.
 > [Si l'anamnèse est déjà reçue :] J'ai bien ton anamnèse, merci.
 >
-> Je reviens vers toi personnellement pour fixer notre premier rendez-vous
-> [à Huy / en appel vidéo].
+> Je reviens vers toi personnellement pour fixer [notre premier
+> rendez-vous à Huy / notre appel vidéo de bilan gratuit].
 >
 > À très vite,
 > [signature]
@@ -120,8 +123,8 @@ correspondent à sa formule.
 >
 > Merci, j'ai bien reçu ton anamnèse !
 > Ceci est une réponse automatique : je la lis attentivement et je
-> reviens vers toi personnellement pour la suite et pour fixer notre
-> premier rendez-vous.
+> reviens vers toi personnellement pour la suite et pour fixer [notre
+> premier rendez-vous / notre appel vidéo de bilan gratuit].
 >
 > À très vite,
 > [signature]
@@ -137,7 +140,8 @@ par `coach-bilan`.
 **Quand :** une question dont la réponse est écrite noir sur blanc dans
 `mon-coaching.md` ou sur le site : lieu (Huy), coaching à distance
 (PUR ONLINE, PUR ONLINE+), moyens de paiement, ce que contient une
-formule, prix de la grille.
+formule, prix de la grille. Une personne qui écrit pour la première fois
+pour un coaching à distance reçoit M6, pas M4.
 
 > Salut [prénom],
 >
@@ -172,6 +176,61 @@ réponse écrite.
 
 On ne reprend **pas** le contenu santé du mail dans la réponse.
 
+## M6. Premier contact à distance
+
+**Statut : à valider**
+**Quand :** la personne habite en Belgique, loin de Huy, ou demande un
+coaching en ligne ou à distance. Si elle vit **hors de Belgique** : pas
+de M6 pour l'instant (les pays hors Belgique ne sont pas encore ouverts,
+section 8 de `../pole-sport/coaching-distance.md`) ; on utilise M5 et
+l'étiquette `3 A voir par Simon`.
+**Objet :** reprendre l'objet du mail (« Re: … »).
+
+> Salut [prénom],
+>
+> Merci pour ton message, et bienvenue chez PUR COACHING !
+> Ceci est une première réponse automatique pour que tu aies tout de
+> suite les infos. Je reviens ensuite vers toi personnellement.
+>
+> Tu n'habites pas près de Huy ? Je te suis **100 % à distance**, avec un
+> plan fait pour toi, à la maison, en salle ou dehors :
+>
+> - **PUR ONLINE (69 € par mois)** : pour les sportifs plutôt autonomes.
+>   Plan personnalisé ajusté toutes les 4 semaines, un bilan chaque
+>   semaine avec ma réponse sous 2 jours ouvrables, correction de ta
+>   technique en vidéo, 1 visio de suivi par mois, tests de forme maison
+>   toutes les 4 semaines et conseils alimentaires généraux.
+> - **PUR ONLINE+ (109 € par mois)** : un suivi serré. Tout PUR ONLINE,
+>   plus un plan ajusté chaque semaine, ma réponse sous 1 jour ouvrable,
+>   2 visios par mois (dont une séance de technique en direct), jusqu'à
+>   2 vidéos de technique corrigées par semaine, et la préparation au
+>   semi-marathon ou au marathon.
+>
+> Les deux formules durent 3 mois minimum, puis se continuent mois par
+> mois. Tout se fait avec des outils gratuits : WhatsApp ou e-mail,
+> Google Meet, et un carnet en ligne (il te faudra un compte Google
+> gratuit).
+>
+> Comment on commence :
+> 1. Tu remplis ton questionnaire de départ, juste en dessous, et tu me
+>    le renvoies en répondant à ce mail.
+> 2. On fait un appel vidéo de bilan gratuit (30 à 45 min) pour faire
+>    connaissance, relire tes réponses et choisir ta formule.
+> 3. Si le coaching à distance est possible pour toi, je t'envoie
+>    ensuite les conditions. Tu ne paies rien avant la fin de ton bilan ;
+>    après, le paiement se fait par virement, avant chaque mois de suivi.
+>
+> Le coaching à distance est réservé aux adultes et, pour ta sécurité,
+> il n'est pas possible dans certaines situations de santé. Si c'est ton
+> cas, je te le dirai honnêtement et je te proposerai une autre
+> solution.
+>
+> À très vite,
+> [signature]
+>
+> [questionnaire d'anamnèse : `questionnaire-anamnese.md`, partie
+> « Ton anamnèse PUR COACHING », avec la partie 7 « À distance »]
+
 ---
 
 ## Corrections de simo sur les modèles
@@ -181,5 +240,6 @@ concerné ci-dessus.)
 
 | Date | Modèle | Correction |
 |---|---|---|
+| 2026-10-09 | M1, M2, M3, M6 | Alignés sur `coaching-distance.md` : appel vidéo de bilan gratuit, délais en jours ouvrables, paiement après le bilan ; nouveau modèle M6 (à valider par simo) |
 | 2026-10-08 | Signature | Instagram de Simon (@simon_ruisseau) au lieu de @pur.coaching, à la demande de simo |
 | 2026-10-08 | M1, M2, M4 | Ajout des formules à distance PUR ONLINE (69 €/mois) et PUR ONLINE+ (109 €/mois), validées par simo le même jour pour le site |
