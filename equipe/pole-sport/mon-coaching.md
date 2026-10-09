@@ -26,7 +26,8 @@ simo peut les remplacer à tout moment.
 
 - Nom de la marque : **PUR COACHING**.
 - Slogan : « De la remise en forme au dépassement de soi ».
-- Instagram : **@pur.coaching**.
+- Instagram officiel : **@simon_ruisseau**. Le site renvoie vers ce compte
+  depuis le 2026-10-08, à la demande de Simon (il remplace @pur.coaching).
 - Signature en fin de programme : « Simon, PUR COACHING ».
 - Paiement : par virement, ou en liquide pour les séances en présentiel.
   À distance : virement uniquement, avant chaque mois de suivi.
