@@ -22,4 +22,6 @@ chiffres personnels d'un client.
 
 ## Leçons
 
-(Vide pour l'instant.)
+| Date | Ce qu'on a testé (ou correction de simo) | Résultat | Décision |
+|---|---|---|---|
+| 2026-10-09 | Mini-bilan de la semaine 1 : première publication automatique par Metricool, le jeudi 8 octobre (carrousel Instagram IG1 à 18:00 sur @simon_ruisseau, carrousel photo TikTok TT1 à 19:00 sur @Simson_laD). | La publication automatique fonctionne sur les deux comptes. Point de départ : 85 abonnés Instagram (stable du 2 au 7 octobre) et 12 abonnés TikTok. Les chiffres des posts du 8 octobre ne sont pas encore arrivés dans Metricool : trop tôt pour juger les posts. Les 3 vidéos de la semaine 1 (TT2, IG3, TT3) ne sont pas tournées. | Semaine 2 : on garde les sujets du plan, mais seulement en carrousels (Instagram 4:5, carrousel photo TikTok 9:16), car aucune vidéo n'est tournée. Un seul post « vente » sur trois par réseau (PUR HEALTH). Même sujet et même format sur les deux réseaux : on pourra comparer Instagram et TikTok. Premier vrai bilan des posts le vendredi 16 octobre. Une seule semaine ne prouve rien. |
