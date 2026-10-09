@@ -17,6 +17,11 @@ automatique**, étiquette `3 A voir par Simon`.
 Seul simo peut faire passer en ENVOI AUTOMATIQUE (ou revenir en
 BROUILLONS). Il suffit qu'il le dise à Claude.
 
+Premier contact à distance (modèle M6) : **envoi automatique** aussi,
+décidé par simo le 2026-10-09. Cette décision remplace les « brouillons »
+prévus pour ce mail dans `../pole-sport/coaching-distance.md`
+(section 2).
+
 ## Quand vérifier la boîte
 
 Une fois par jour (routine automatique), vers midi. simo peut demander

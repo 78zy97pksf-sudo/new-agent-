@@ -186,7 +186,7 @@ On ne reprend **pas** le contenu santé du mail dans la réponse.
 
 ## M6. Premier contact à distance
 
-**Statut : à valider**
+**Statut : validé par simo (2026-10-09)**
 **Quand :** la personne vit en Belgique, loin de Huy, ou demande un
 suivi à distance. Si elle vit **hors de Belgique** (sauf si elle veut
 venir à Huy) : pas de M6 pour l'instant, car les pays hors Belgique ne
@@ -251,6 +251,7 @@ correction de simo ou une mise à jour de l'équipe à relire par simo.)
 
 | Date | Modèle | D'où ça vient | Changement |
 |---|---|---|---|
-| 2026-10-09 | M1, M2, M3, M4, M6 | Mise à jour de l'équipe d'après `coaching-distance.md` (validé par simo), à relire par simo | Appel vidéo de bilan gratuit, délais en jours ouvrables, rien à payer avant la fin du bilan, semi et marathon seulement si le bilan le permet, « en tenant compte de ta santé » au lieu de « en toute sécurité », M4 renvoie vers M6 ; nouveau modèle M6 (à valider) |
+| 2026-10-09 | M6 | Accord de simo (carte de décision : « Oui, envoi auto ») | M6 part automatiquement, comme les autres modèles validés |
+| 2026-10-09 | M1, M2, M3, M4, M6 | Mise à jour de l'équipe d'après `coaching-distance.md` (validé par simo), à relire par simo | Appel vidéo de bilan gratuit, délais en jours ouvrables, rien à payer avant la fin du bilan, semi et marathon seulement si le bilan le permet, « en tenant compte de ta santé » au lieu de « en toute sécurité », M4 renvoie vers M6 ; nouveau modèle M6 |
 | 2026-10-08 | Signature | Demande de simo | Instagram de Simon (@simon_ruisseau) au lieu de @pur.coaching |
 | 2026-10-08 | M1, M2, M4 | Formules validées par simo pour le site | Ajout des formules à distance PUR ONLINE (69 €/mois) et PUR ONLINE+ (109 €/mois) |
