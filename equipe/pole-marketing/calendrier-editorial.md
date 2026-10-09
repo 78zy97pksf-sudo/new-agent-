@@ -38,14 +38,18 @@ partie a).
 Aucune vidéo n'est tournée : toute la semaine est en carrousels (rien à
 filmer). 1 post « vente » sur 3 par réseau.
 
+Les 6 posts ont été validés par `coach-securite` et `controleur-qualite`
+puis programmés dans Metricool le 9 octobre 2026, en publication
+automatique. Visuels : `medias/semaine-2026-10-12/`.
+
 | Date | Réseau | Format | Pilier | Sujet | Accroche (idée) | Statut |
 |---|---|---|---|---|---|---|
-| mar. 13/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG4 Un échauffement simple avant ta séance | « Avant ta séance, fais juste ces mouvements. » | idée |
-| mar. 13/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT4 Même idée que IG4 | « Avant ta séance : fais juste ça. » | idée |
-| jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | idée |
-| jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | idée |
-| ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | idée |
-| dim. 18/10 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT6 Version TikTok de IG6 | « Ce qui est compris dans PUR HEALTH. » | idée |
+| mar. 13/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG4 Un échauffement simple avant ta séance | « Avant ta séance, commence par ces mouvements. » | programmé |
+| mar. 13/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT4 Même idée que IG4 | « Avant ta séance : commence par ça. » | programmé |
+| jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | programmé |
+| jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | programmé |
+| ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
+| dim. 18/10 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT6 Version TikTok de IG6 | « Ce qui est compris dans PUR HEALTH. » | programmé |
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
