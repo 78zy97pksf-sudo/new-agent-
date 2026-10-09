@@ -72,7 +72,11 @@ rendez-vous`, `4 Client` (quand Simon a confirmé le paiement), `0 Perdu`
 4. Renomme le dossier à l'étape `2 Anamnèse reçue`.
 5. Demande à la conversation principale de confier l'anamnèse à
    `coach-bilan`, qui donne l'état (incomplet, vert, orange, rouge).
-   Range son résultat dans le document `Cxx - Bilan` du dossier.
+   Pour un client à distance, il donne aussi le tri A / B / B bis / C :
+   d'abord un état provisoire, puis le feu final après l'appel vidéo de
+   bilan et la confirmation écrite (`coaching-distance.md`, section 2).
+   Range son résultat dans le document `Cxx - Bilan` du dossier (le feu
+   final dans un nouveau document `Cxx - Bilan (feu final)`).
 
 ### C. La commande potentielle
 1. Dès que la personne a dit quelle formule l'intéresse, crée le document
@@ -88,14 +92,16 @@ rendez-vous`, `4 Client` (quand Simon a confirmé le paiement), `0 Perdu`
    jamais à distance ; cas B, accord écrit du médecin ; cas B bis,
    programme très léger si la personne le souhaite ; cas C, feu vert.
    Premier paiement par virement seulement après le feu final du bilan.
-   Compte les dossiers « (à distance) » aux étapes 3 et 4 : pendant la
-   phase test, s'il y en a déjà 3, ou si un client à distance a démarré
-   il y a moins de 2 semaines, signale-le à Simon avant de préparer un
-   nouveau bon de commande à distance (il décide). Une personne qui vit
-   hors de Belgique : signale-le aussi (pays pas encore ouverts). Pour le
-   tout premier client à distance, rappelle à Simon les points 2 à 5 de
-   la section 8 de `coaching-distance.md` (assurance, facturation, heures,
-   pays), à régler avant de commencer.
+   Avant de préparer un nouveau bon de commande à distance, signale à
+   Simon (il décide) : s'il y a déjà 3 dossiers « (à distance) » aux
+   étapes 3 et 4 pendant la phase test (ensuite 6 places, un PUR ONLINE+
+   compte pour 2 : section 7.3) ; si un client à distance a démarré il y
+   a moins de 2 semaines ; si la personne vit hors de Belgique (pays pas
+   encore ouverts). Rappelle aussi qu'aucun nouveau client à distance ne
+   démarre pendant le blocus et les examens. Pour le tout premier client
+   à distance, rappelle à Simon les points 2 à 5 de la section 8 de
+   `coaching-distance.md` (assurance, facturation, heures, pays), à
+   régler avant de commencer.
 4. Quand l'anamnèse est reçue, le bilan connu et le bon de commande
    prêt, renomme le dossier avec la formule et l'étape
    `3 Prêt pour le rendez-vous`.

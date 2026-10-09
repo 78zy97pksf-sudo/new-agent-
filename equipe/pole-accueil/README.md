@@ -57,7 +57,9 @@ reçoivent **aucune étiquette et aucune réponse**.
 1. **Le mail arrive.** `secretaire-mails` le reconnaît comme une demande
    de coaching, lui met l'étiquette `1 Prospect` et répond avec le modèle
    « premier contact » (formules, prix, questionnaire d'anamnèse), ou
-   « premier contact à distance » pour une personne qui vit loin de Huy.
+   « premier contact à distance » pour une personne qui vit en Belgique
+   loin de Huy ou qui demande un suivi à distance (hors de Belgique :
+   Simon répond lui-même).
 2. **Le dossier est ouvert.** `agent-accueil` donne un code client et
    crée le dossier du client dans le Drive (étape `1 Contact`).
 3. **L'anamnèse revient.** `agent-accueil` range les réponses dans le
@@ -77,9 +79,11 @@ Pour les formules **à distance** (PUR ONLINE, PUR ONLINE+), le parcours
 complet est dans `../pole-sport/coaching-distance.md` : questionnaire avec
 la partie « À distance », appel vidéo de bilan gratuit, confirmation
 écrite, feu final de `coach-bilan` (tri A / B / B bis / C), puis seulement
-les conditions et le premier paiement par virement. Pendant la phase
-test : 3 clients à distance au maximum (au-delà, Simon décide). Résumé
-des règles dans `modele-bon-de-commande.md`.
+les conditions et le premier paiement par virement. Places : 3 clients
+à distance au maximum pendant la phase test (au-delà, Simon décide),
+1 nouveau client toutes les 2 semaines au maximum, aucun nouveau client
+pendant le blocus et les examens. Résumé des règles dans
+`modele-bon-de-commande.md`.
 
 ## La règle d'or
 

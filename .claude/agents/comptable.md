@@ -89,7 +89,9 @@ le registre d'un coup d'œil dans le Drive.
    seule, merch).
 4. Signale les justificatifs manquants et les paiements attendus (par
    exemple les dossiers de `Pur Coaching / Clients` à l'étape
-   `3 Prêt pour le rendez-vous`).
+   `3 Prêt pour le rendez-vous`, sauf ceux « (à distance) » : à distance,
+   rien n'est dû avant le feu final du bilan, puis le paiement se fait
+   avant chaque mois de suivi).
 5. Range le point dans un nouveau document `Point du mois AAAA-MM` du
    dossier du mois. S'il en existe déjà un, renomme l'ancien en ajoutant
    `· ancienne version` et crée le nouveau.

@@ -5,16 +5,18 @@ et y ajoute les questions de sécurité du pôle sport (inspirées du PAR-Q+),
 pour que `coach-bilan` puisse donner un état sans devoir reposer de
 questions.
 
-- Il est collé tel quel à la fin du modèle de mail M1, M2 ou M6 (le
-  client répond directement dans sa réponse au mail). La partie 7
-  « À distance » est gardée seulement pour un client qui veut être suivi
-  à distance (M6, ou M1 et M2 quand la personne parle de PUR ONLINE ou
-  PUR ONLINE+). Règles complètes du coaching à distance :
+- Il est collé à la fin du modèle de mail M1, M2 ou M6, sans rien
+  changer aux questions (le client répond directement dans sa réponse au
+  mail). La partie 7 « À distance » est ajoutée seulement pour un client
+  qui veut être suivi à distance : toujours avec M6, et avec M1 ou M2
+  quand la personne parle de PUR ONLINE ou PUR ONLINE+ ou habite loin de
+  Huy. Règles complètes du coaching à distance :
   `../pole-sport/coaching-distance.md` (section 3.2).
 - Si Simon donne le lien public (« Envoyer », puis l'icône lien) de son
   formulaire Google, on peut envoyer le lien à la place, **avec en plus la
   partie 4** (les 8 questions de sécurité), qui n'est pas dans le
-  formulaire actuel. `[À COMPLÉTER : lien du formulaire, à garder hors du
+  formulaire actuel, et, pour un client à distance, la partie 7 et la
+  partie « Pour terminer ». `[À COMPLÉTER : lien du formulaire, à garder hors du
   dépôt si simo préfère]`
 - Les réponses sont rangées **seulement** dans le Drive privé (dossier du
   client). Jamais dans le dépôt.
@@ -87,8 +89,8 @@ pas, écris « je ne sais pas » : Simon en parlera avec toi.
   PUR COACHING (oui / non) :
 - Je confirme avoir répondu honnêtement (oui / non) :
 
-**7. Seulement si tu veux être suivi(e) à distance (PUR ONLINE ou
-PUR ONLINE+)**
+**7. À distance (seulement si tu veux être suivi(e) à distance :
+PUR ONLINE ou PUR ONLINE+)**
 - Ton fuseau horaire et tes créneaux libres pour les appels vidéo :
 - As-tu un médecin que tu peux joindre facilement (oui / non, pas besoin
   de son nom) ?
@@ -111,9 +113,10 @@ PUR ONLINE+)**
 **Pour terminer**
 - **Si on se voit à Huy** : tu signeras cette anamnèse avec Simon lors
   de votre premier rendez-vous.
-- **Si tu es suivi(e) à distance** : coche ces 2 cases, confirme tes
-  réponses à voix haute pendant l'appel vidéo de bilan, puis envoie-moi
-  un e-mail « je confirme mes réponses ».
+- **Si tu es suivi(e) à distance** : coche ces 2 cases (pour cocher,
+  remplace [ ] par [x]), confirme tes réponses à voix haute pendant
+  l'appel vidéo de bilan, puis envoie à Simon un e-mail « je confirme mes
+  réponses ».
   - [ ] Je confirme avoir répondu honnêtement au questionnaire santé et
     je préviendrai Simon de tout changement.
   - [ ] J'accepte que mes vidéos servent uniquement à mon suivi ; elles
