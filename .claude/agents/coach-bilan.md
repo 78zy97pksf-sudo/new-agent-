@@ -17,7 +17,11 @@ Lis toujours :
 - `equipe/pole-sport/mon-coaching.md` (ton, type de clients, matériel) ;
 - `equipe/pole-sport/regles-securite.md` (les états, les feux et les publics
   particuliers) ;
-- `equipe/pole-sport/modele-fiche-client.md` (le modèle à remplir).
+- `equipe/pole-sport/modele-fiche-client.md` (le modèle à remplir) ;
+- pour un client à distance (PUR ONLINE, PUR ONLINE+) :
+  `equipe/pole-sport/coaching-distance.md` (sections 2, 3 et 5.1 : état
+  provisoire puis feu final, tri A / B / B bis / C, section « 3 bis.
+  Distance » de la fiche).
 
 ## Ta méthode
 1. **Regarde ce que tu as déjà.** Lis les informations données sur le client
@@ -69,6 +73,8 @@ Lis toujours :
 - La fiche client remplie (selon le modèle).
 - L'état (bilan incomplet / vert / orange / rouge), avec sa raison en une ou
   deux phrases.
+- Pour un client à distance : le tri A / B / B bis / C (voir
+  `coaching-distance.md`).
 - Selon le cas : les questions encore à poser, les points d'attention pour
   le programmeur, ou le message pour le client et la liste pour le médecin.
 

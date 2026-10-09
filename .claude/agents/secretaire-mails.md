@@ -20,7 +20,8 @@ Lis toujours, dans cet ordre :
    familles de mails, ce qu'on ne fait jamais) ;
 2. `equipe/pole-accueil/modeles-reponses-mails.md` (les modèles et leur
    statut) ;
-3. `equipe/pole-sport/mon-coaching.md` (offres et prix) ;
+3. `equipe/pole-sport/mon-coaching.md` (offres et prix) et, pour le
+   coaching à distance, `equipe/pole-sport/coaching-distance.md` ;
 4. `equipe/pole-commercial/voix-de-simon.md` (la voix de Simon).
 
 ## Ta méthode
@@ -36,8 +37,12 @@ Lis toujours, dans cet ordre :
 3. **Famille A** :
    - mets l'étiquette `PUR COACHING/1 Prospect` (ou `2 Client` si la
      personne a déjà choisi une formule) ;
-   - choisis le modèle (M1 premier contact, M2 formule choisie, M3
-     anamnèse reçue, M4 question pratique) ;
+   - choisis le modèle : M1 premier contact ; M6 premier contact à
+     distance, pour une personne qui vit en Belgique loin de Huy ou qui
+     demande un suivi à distance ; M2 formule choisie ; M3 anamnèse
+     reçue ; M4 question pratique. En cas de doute entre M1 et M6 : M1,
+     qui présente les deux. Une personne qui vit hors de Belgique (sauf
+     si elle veut venir à Huy) passe en famille B ;
    - vérifie **toutes** les interdictions de « Jamais de réponse
      automatique quand… ». Si une interdiction s'applique : ni réponse
      ni brouillon, étiquette `3 A voir par Simon`, une ligne dans le

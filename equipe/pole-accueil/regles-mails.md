@@ -6,7 +6,7 @@ automatique**, étiquette `3 A voir par Simon`.
 
 ## Le mode actuel
 
-**MODE : BROUILLONS** `[À CHANGER QUAND SIMO AURA VALIDÉ LES MODÈLES]`
+**MODE : ENVOI AUTOMATIQUE** (accord de simo le 2026-10-08)
 
 - **BROUILLONS** : les réponses sont préparées en brouillon dans Gmail.
   Rien ne part. Simon relit et clique sur « Envoyer » s'il est d'accord.
@@ -16,6 +16,11 @@ automatique**, étiquette `3 A voir par Simon`.
 
 Seul simo peut faire passer en ENVOI AUTOMATIQUE (ou revenir en
 BROUILLONS). Il suffit qu'il le dise à Claude.
+
+Premier contact à distance (modèle M6) : **envoi automatique** aussi,
+décidé par simo le 2026-10-09. Cette décision remplace les « brouillons »
+prévus pour ce mail dans `../pole-sport/coaching-distance.md`
+(section 2).
 
 ## Quand vérifier la boîte
 
@@ -36,7 +41,7 @@ message depuis.
 | Famille | Exemples | Ce qu'on fait |
 |---|---|---|
 | **A. Demande de coaching** | « Bonjour, je voudrais des infos sur vos formules », « Combien coûte un bilan ? », réponse à une de nos réponses automatiques | Étiquette `1 Prospect` (ou `2 Client`) + réponse avec le bon modèle + `agent-accueil` ouvre ou met à jour le dossier |
-| **B. À voir par Simon** | Question de santé ou douleur, plainte, demande de remboursement, partenariat, presse, question à laquelle aucun modèle ne répond, mail en colère | Étiquette `3 A voir par Simon` + seulement le modèle « accusé de réception » s'il s'agit d'un futur client ; rien d'autre. Signalé dans le résumé du jour |
+| **B. À voir par Simon** | Question de santé ou douleur, plainte, demande de remboursement, partenariat, presse, question à laquelle aucun modèle ne répond, mail en colère, personne qui vit hors de Belgique, sauf si elle veut venir à Huy (le coaching à distance n'y est pas encore ouvert) | Étiquette `3 A voir par Simon` + seulement le modèle « accusé de réception » s'il s'agit d'un futur client ; rien d'autre. Signalé dans le résumé du jour |
 | **C. Personnel ou école** | École, stage, incubateur, famille, amis, banque, administration | **Aucune réponse, aucune étiquette.** Si le mail semble important ou urgent (date limite, rendez-vous, rappel), une ligne dans le résumé du jour |
 | **D. Publicité et notifications** | Newsletters, promotions, Strava, Apple, réseaux sociaux, confirmations automatiques | **Rien.** On n'en parle pas dans le résumé |
 | **E. Douteux** | Arnaque, lien bizarre, demande de mot de passe ou de paiement | **Rien.** Une ligne « mail douteux, ne clique pas » dans le résumé. On ne le supprime pas |
@@ -91,7 +96,8 @@ Après chaque vérification, un message court dans le projet :
 2. **Ce qui attend Simon** : une ligne par mail de la famille B, et les
    mails personnels importants (famille C), avec ce qu'il faut faire.
 3. **Les clients prêts** : les dossiers où l'anamnèse et le bon de
-   commande sont prêts et où il reste seulement à fixer le rendez-vous.
+   commande sont prêts et où il reste seulement à fixer le rendez-vous
+   (ou, à distance, l'appel vidéo de bilan gratuit).
 
 Pas de nom complet ni d'information de santé dans le résumé : le code
 client et le prénom suffisent.

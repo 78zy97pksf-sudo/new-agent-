@@ -9,9 +9,14 @@ soit prêt avant le premier rendez-vous avec Simon.
 Ici, jamais d'adresse e-mail, de nom de client, d'information de santé ni
 de montant réel. Les vrais dossiers clients vont dans le **Google Drive
 privé de simo**, dossier `Pur Coaching / Clients` :
-- le tableau `Suivi clients PUR COACHING` (une ligne par client) ;
-- un sous-dossier par client, nommé avec son code (`C01`, `C02`…), qui
-  contient son anamnèse et son bon de commande.
+- un sous-dossier par client, dont le **nom indique où il en est**, par
+  exemple `C01 - Julie - PUR GOLD - 3 Prêt pour le rendez-vous` ;
+- dans ce dossier : sa fiche contact, son anamnèse, son bilan et son bon
+  de commande.
+
+Il suffit d'ouvrir `Pur Coaching / Clients` pour voir tous les clients et
+leur étape. (Les outils des agents ne peuvent pas écrire dans un tableau
+Google Sheets, d'où ce système de noms de dossiers.)
 
 ## Qui fait quoi
 
@@ -32,6 +37,8 @@ privé de simo**, dossier `Pur Coaching / Clients` :
 - `modele-bon-de-commande.md` : le modèle de la commande potentielle.
 - `../pole-sport/mon-coaching.md` : offres et prix (la seule source des
   prix).
+- `../pole-sport/coaching-distance.md` : le protocole du coaching à
+  distance (parcours, sécurité, places).
 
 ## Les étiquettes Gmail
 
@@ -49,10 +56,12 @@ reçoivent **aucune étiquette et aucune réponse**.
 
 1. **Le mail arrive.** `secretaire-mails` le reconnaît comme une demande
    de coaching, lui met l'étiquette `1 Prospect` et répond avec le modèle
-   « premier contact » (formules, prix, questionnaire d'anamnèse).
-2. **Le dossier est ouvert.** `agent-accueil` donne un code client, ajoute
-   une ligne au tableau de suivi et crée le dossier du client dans le
-   Drive.
+   « premier contact » (formules, prix, questionnaire d'anamnèse), ou
+   « premier contact à distance » pour une personne qui vit en Belgique
+   loin de Huy ou qui demande un suivi à distance (hors de Belgique :
+   Simon répond lui-même).
+2. **Le dossier est ouvert.** `agent-accueil` donne un code client et
+   crée le dossier du client dans le Drive (étape `1 Contact`).
 3. **L'anamnèse revient.** `agent-accueil` range les réponses dans le
    dossier, puis la conversation principale demande à `coach-bilan`
    l'état du bilan (incomplet, vert, orange, rouge).
@@ -61,9 +70,20 @@ reçoivent **aucune étiquette et aucune réponse**.
    de la grille, paiement, prochaines étapes) dans le dossier.
 5. **Simon prend le relais.** Le résumé du jour lui dit : « C03 est prêt :
    anamnèse reçue, feu vert, bon de commande PUR GOLD prêt, il reste à
-   fixer le rendez-vous Tanita ». Simon fixe le rendez-vous et encaisse ;
+   fixer le rendez-vous Tanita » (ou l'appel vidéo de bilan gratuit pour
+   PUR ONLINE et PUR ONLINE+). Simon fixe le rendez-vous et encaisse ;
    le `comptable` note le paiement.
 6. **La suite** se fait avec le pôle sport (programme, contrôle sécurité).
+
+Pour les formules **à distance** (PUR ONLINE, PUR ONLINE+), le parcours
+complet est dans `../pole-sport/coaching-distance.md` : questionnaire avec
+la partie « À distance », appel vidéo de bilan gratuit, confirmation
+écrite, feu final de `coach-bilan` (tri A / B / B bis / C), puis seulement
+les conditions et le premier paiement par virement. Places : 3 clients
+à distance au maximum pendant la phase test (au-delà, Simon décide),
+1 nouveau client toutes les 2 semaines au maximum, aucun nouveau client
+pendant le blocus et les examens. Résumé des règles dans
+`modele-bon-de-commande.md`.
 
 ## La règle d'or
 
