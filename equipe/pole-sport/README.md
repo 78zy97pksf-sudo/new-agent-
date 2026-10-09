@@ -26,6 +26,9 @@ Voir `clients/README.md`.
   matériel). C'est ici que simo écrit ses corrections.
 - `regles-securite.md` : les règles de sécurité communes. Elles passent
   avant tout le reste.
+- `coaching-distance.md` : tout le fonctionnement des formules 100 % à
+  distance PUR ONLINE et PUR ONLINE+ (parcours, bilan, suivi, sécurité).
+  À lire pour chaque client suivi à distance.
 - `modele-fiche-client.md` et `modele-programme.md` : les modèles à remplir.
 - `clients/<prenom-ou-code>/` : un dossier par client.
 - `programmes-a-vendre/` : les programmes types destinés à la vente.
