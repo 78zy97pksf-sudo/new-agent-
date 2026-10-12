@@ -41,11 +41,15 @@ filmer). 1 post « vente » sur 3 par réseau.
 Les 6 posts ont été validés par `coach-securite` et `controleur-qualite`
 puis programmés dans Metricool le 9 octobre 2026, en publication
 automatique. Visuels : `medias/semaine-2026-10-12/`.
+Le 12 octobre, le Reel « Séance du soir » (vidéo de la salle envoyée par
+simo) a été ajouté le mercredi 14, après les mêmes contrôles.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche (idée) | Statut |
 |---|---|---|---|---|---|---|
 | mar. 13/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG4 Un échauffement simple avant ta séance | « Avant ta séance, commence par ces mouvements. » | programmé |
 | mar. 13/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT4 Même idée que IG4 | « Avant ta séance : commence par ça. » | programmé |
+| mer. 14/10 18:00 | Instagram | Reel 9:16 (sans son) | Simon en avant | REEL1 Séance du soir : extension triceps à la salle (vidéo de simo) | « Viens t'entraîner avec moi » | programmé |
+| mer. 14/10 19:00 | TikTok | Vidéo 9:16 (sans son) | Simon en avant | REEL1 Même vidéo sur TikTok | « Viens t'entraîner avec moi » | programmé |
 | jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | programmé |
 | jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | programmé |
 | ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
