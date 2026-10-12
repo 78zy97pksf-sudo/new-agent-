@@ -43,6 +43,8 @@ puis programmés dans Metricool le 9 octobre 2026, en publication
 automatique. Visuels : `medias/semaine-2026-10-12/`.
 Le 12 octobre, le Reel « Séance du soir » (vidéo de la salle envoyée par
 simo) a été ajouté le mercredi 14, après les mêmes contrôles.
+Le 13 octobre, un 2e Reel (5 exercices pecs et bras avec l'ami de Simon,
+avec son accord) a été ajouté le samedi 17, après les mêmes contrôles.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche (idée) | Statut |
 |---|---|---|---|---|---|---|
@@ -53,6 +55,8 @@ simo) a été ajouté le mercredi 14, après les mêmes contrôles.
 | jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | programmé |
 | jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | programmé |
 | ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
+| sam. 17/10 18:00 | Instagram | Reel 9:16 (sans son) | Simon en avant | REEL2 Séance du soir avec mon pote : 5 exos pecs et bras (vidéo de simo) | « 5 exos pecs et bras avec mon pote » | programmé |
+| sam. 17/10 19:00 | TikTok | Vidéo 9:16 (sans son) | Simon en avant | REEL2 Même vidéo sur TikTok | « 5 exos pecs et bras avec mon pote » | programmé |
 | dim. 18/10 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT6 Version TikTok de IG6 | « Ce qui est compris dans PUR HEALTH. » | programmé |
 
 ## Semaine 3 (19 au 25 octobre) : course à pied, offres PUR GOLD et PUR TRACK
@@ -76,6 +80,10 @@ Images : `medias/semaine-2026-10-19/`.
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
 
 Même méthode que la semaine 3. Images : `medias/semaine-2026-10-26/`.
+
+Attention au forfait gratuit de Metricool (20 posts par mois) : octobre en
+compte 13 avec les deux Reels, 19 si la semaine 3 part en entier. Il faudra
+donc alléger la fin d'octobre (choix à faire au point du vendredi).
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
