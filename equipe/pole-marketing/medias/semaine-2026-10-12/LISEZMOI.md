@@ -11,6 +11,8 @@ récupérer par un lien public au moment de programmer les posts.
 - `TT5-*.jpg` : carrousel photo TikTok squat (format 9:16)
 - `TT6-*.jpg` : carrousel photo TikTok PUR HEALTH (format 9:16)
 - `REEL1-triceps.mp4` et `REEL1-triceps-couverture.jpg` : Reel « Séance du soir », Simon à l'extension triceps (salle, 24,8 s, sans son, format 9:16), monté par le fil vidéo, prévu le mercredi 14 octobre (Instagram 18 h, TikTok 19 h)
+- `REEL2-pecs-bras.mp4` et `REEL2-pecs-bras-couverture.jpg` : Reel « Séance du soir avec mon pote », 5 exercices pecs et bras (salle, 35,3 s, sans son, format 9:16), monté par le fil vidéo, prévu le samedi 17 octobre (Instagram 18 h, TikTok 19 h)
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
-vont ici, jamais la photo d'un client.
+vont ici, jamais la photo d'un client. Exception : l'ami de Simon dans
+REEL2, avec son accord (donné via simo le 12 octobre 2026), sans son nom.
