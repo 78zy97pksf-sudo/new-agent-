@@ -51,6 +51,37 @@ automatique. Visuels : `medias/semaine-2026-10-12/`.
 | ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
 | dim. 18/10 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT6 Version TikTok de IG6 | « Ce qui est compris dans PUR HEALTH. » | programmé |
 
+## Semaine 3 (19 au 25 octobre) : course à pied, offres PUR GOLD et PUR TRACK
+
+Posts sans vidéo, préparés d'avance le 12 octobre 2026 à la demande de simo
+(9 octobre), avec une illustration originale du graphiste sur chaque
+couverture. Contrôlés par `coach-securite` et `controleur-qualite`. Pas
+encore programmés : on attend la réponse de simo sur la stratégie du
+12 octobre (mettre Simon en avant, sa photo sur certaines couvertures).
+Images : `medias/semaine-2026-10-19/`.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| mar. 20/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG7 (Re)commencer à courir : 3 conseils | « Tu veux (re)commencer à courir ? » | contrôlé |
+| mar. 20/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT7 Version TikTok de IG7 | « (Re)commencer à courir » | contrôlé |
+| jeu. 22/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG8 La VMA expliquée simplement | « Ta VMA, c'est quoi ? Et à quoi elle sert ? » | contrôlé |
+| jeu. 22/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT8 Version TikTok de IG8 | « Ta VMA, c'est quoi ? » | contrôlé |
+| ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
+| dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
+
+## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
+
+Même méthode que la semaine 3. Images : `medias/semaine-2026-10-26/`.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| mar. 27/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG11 La balance ne dit pas tout : d'autres repères | « Le chiffre sur la balance ne dit pas tout. » | contrôlé |
+| mar. 27/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT11 Version TikTok de IG11 | « La balance ne dit pas tout. » | contrôlé |
+| jeu. 29/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG12 Séance maison d'environ 20 minutes | « Il fait noir tôt ? Ta séance à la maison. » | contrôlé |
+| jeu. 29/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT12 Version TikTok de IG12 | « Il fait noir tôt ? Séance chez toi. » | contrôlé |
+| ven. 30/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG13 PUR GOLD : ce qui est compris, mot pour mot | « PUR GOLD : un suivi complet pendant 3 mois. » | contrôlé |
+| dim. 01/11 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT13 Version TikTok de IG13 | « PUR GOLD : ce qui est compris. » | contrôlé |
+
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
 
