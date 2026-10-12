@@ -10,6 +10,7 @@ récupérer par un lien public au moment de programmer les posts.
 - `TT4-*.jpg` : carrousel photo TikTok échauffement (format 9:16)
 - `TT5-*.jpg` : carrousel photo TikTok squat (format 9:16)
 - `TT6-*.jpg` : carrousel photo TikTok PUR HEALTH (format 9:16)
+- `REEL1-triceps.mp4` et `REEL1-triceps-couverture.jpg` : Reel « Séance du soir », Simon à l'extension triceps (salle, 24,8 s, sans son, format 9:16), monté par le fil vidéo, prévu le mercredi 14 octobre (Instagram 18 h, TikTok 19 h)
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
 vont ici, jamais la photo d'un client.
