@@ -43,20 +43,22 @@ puis programmés dans Metricool le 9 octobre 2026, en publication
 automatique. Visuels : `medias/semaine-2026-10-12/`.
 Le 12 octobre, le Reel « Séance du soir » (vidéo de la salle envoyée par
 simo) a été ajouté le mercredi 14, après les mêmes contrôles.
-Le 13 octobre, un 2e Reel (5 exercices pecs et bras avec l'ami de Simon,
-avec son accord) a été ajouté le samedi 17, après les mêmes contrôles.
+Le 13 octobre, à la demande de simo, la séance a été découpée en Reels
+courts (fil vidéo, contrôlés par coach-securite, controleur-qualite et les
+deux commerciaux) : le Reel triceps passe à 17 s et le Reel « écarté »
+remplace l'ancien Reel 2 de 35 s (jamais publié).
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche (idée) | Statut |
 |---|---|---|---|---|---|---|
 | mar. 13/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG4 Un échauffement simple avant ta séance | « Avant ta séance, commence par ces mouvements. » | programmé |
 | mar. 13/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT4 Même idée que IG4 | « Avant ta séance : commence par ça. » | programmé |
-| mer. 14/10 18:00 | Instagram | Reel 9:16 (sans son) | Simon en avant | REEL1 Séance du soir : extension triceps à la salle (vidéo de simo) | « Viens t'entraîner avec moi » | programmé |
-| mer. 14/10 19:00 | TikTok | Vidéo 9:16 (sans son) | Simon en avant | REEL1 Même vidéo sur TikTok | « Viens t'entraîner avec moi » | programmé |
+| mer. 14/10 18:00 | Instagram | Reel 9:16 (17 s, sans son) | Simon en avant | REEL1 Séance du soir : extension triceps (vidéo de simo) | « Viens t'entraîner avec moi » | programmé |
+| mer. 14/10 19:00 | TikTok | Vidéo 9:16 (17 s, sans son) | Simon en avant | REEL1 Même vidéo sur TikTok | « Viens t'entraîner avec moi » | programmé |
 | jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | programmé |
 | jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | programmé |
 | ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
-| sam. 17/10 18:00 | Instagram | Reel 9:16 (sans son) | Simon en avant | REEL2 Séance du soir avec mon pote : 5 exos pecs et bras (vidéo de simo) | « 5 exos pecs et bras avec mon pote » | programmé |
-| sam. 17/10 19:00 | TikTok | Vidéo 9:16 (sans son) | Simon en avant | REEL2 Même vidéo sur TikTok | « 5 exos pecs et bras avec mon pote » | programmé |
+| sam. 17/10 18:00 | Instagram | Reel 9:16 (12 s, sans son) | Conseils | REEL-A Écarté à la machine : 3 repères (vidéo de simo) | « Tu serres vraiment à l'écarté ? » | programmé |
+| sam. 17/10 19:00 | TikTok | Vidéo 9:16 (12 s, sans son) | Conseils | REEL-A Même vidéo sur TikTok | « Tu serres vraiment à l'écarté ? » | programmé |
 | dim. 18/10 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT6 Version TikTok de IG6 | « Ce qui est compris dans PUR HEALTH. » | programmé |
 
 ## Semaine 3 (19 au 25 octobre) : course à pied, offres PUR GOLD et PUR TRACK
@@ -70,11 +72,16 @@ Images : `medias/semaine-2026-10-19/`.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
+| lun. 19/10 18:00 | Instagram | Reel 9:16 (10,5 s, sans son) | Conseils | REEL-B Curl au pupitre sans élan (vidéo de simo) | « Tu prends de l'élan au curl ? » | programmé |
+| lun. 19/10 19:00 | TikTok | Vidéo 9:16 (10,5 s, sans son) | Conseils | REEL-B Même vidéo sur TikTok | « Tu prends de l'élan au curl ? » | programmé |
 | mar. 20/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG7 (Re)commencer à courir : 3 conseils | « Tu veux (re)commencer à courir ? » | contrôlé |
 | mar. 20/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT7 Version TikTok de IG7 | « (Re)commencer à courir » | contrôlé |
+| mer. 21/10 18:00 | Instagram | Reel 9:16 (8 s, sans son) | Conseils | REEL-C Développé couché vu d'en haut (vidéo de simo) | « Le développé couché vu d'en haut » | programmé |
+| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (8 s, sans son) | Conseils | REEL-C Même vidéo sur TikTok | « Le développé couché vu d'en haut » | programmé |
 | jeu. 22/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG8 La VMA expliquée simplement | « Ta VMA, c'est quoi ? Et à quoi elle sert ? » | contrôlé |
 | jeu. 22/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT8 Version TikTok de IG8 | « Ta VMA, c'est quoi ? » | contrôlé |
 | ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
+| sam. 24/10 18:00 et 19:00 | Instagram + TikTok | Reel 9:16 (12 s) | Simon en avant | REEL-D Séance pecs avec mon pote (vidéo de simo) | « Séance pecs avec mon pote » | attend le « oui » écrit de l'ami pour cette vidéo |
 | dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
 
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
@@ -82,8 +89,9 @@ Images : `medias/semaine-2026-10-19/`.
 Même méthode que la semaine 3. Images : `medias/semaine-2026-10-26/`.
 
 Attention au forfait gratuit de Metricool (20 posts par mois) : octobre en
-compte 13 avec les deux Reels, 19 si la semaine 3 part en entier. Il faudra
-donc alléger la fin d'octobre (choix à faire au point du vendredi).
+compte 17 avec les Reels de la salle (19 avec le Reel D). Le 13 octobre,
+simo a reçu une question : Reels d'abord (recommandé, les carrousels passent
+en novembre) ou carrousels d'abord.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
