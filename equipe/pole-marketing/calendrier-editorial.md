@@ -92,8 +92,8 @@ Même méthode que la semaine 3. Images : `medias/semaine-2026-10-26/`.
 
 Attention au forfait gratuit de Metricool (20 posts par mois) : octobre en
 compte 17 avec les Reels de la salle (19 avec le Reel D). Le 13 octobre,
-simo a reçu une question : Reels d'abord (recommandé, les carrousels passent
-en novembre) ou carrousels d'abord.
+simo a choisi « Reels d'abord » : les carrousels prêts des semaines 3 et 4
+passent en novembre.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
