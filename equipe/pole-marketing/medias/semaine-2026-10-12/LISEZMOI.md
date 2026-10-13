@@ -12,6 +12,7 @@ récupérer par un lien public au moment de programmer les posts.
 - `TT6-*.jpg` : carrousel photo TikTok PUR HEALTH (format 9:16)
 - `REEL1-triceps.mp4` et `REEL1-triceps-couverture.jpg` : Reel « Séance du soir », Simon à l'extension triceps (salle, 24,8 s, sans son, format 9:16), monté par le fil vidéo, prévu le mercredi 14 octobre (Instagram 18 h, TikTok 19 h)
 - `REEL1-triceps-17s.mp4` et sa couverture : nouvelle version courte (17 s) du Reel triceps, qui remplace `REEL1-triceps.mp4` le mercredi 14 octobre (Instagram 18 h, TikTok 19 h)
+- `SHORT-seance-10s.mp4` et sa couverture : short « Ma séance pecs + bras en 10 secondes » (15 s, musique originale de l'équipe dans le fichier), mardi 13 octobre (Instagram 21 h 15, TikTok 21 h 30)
 - `REEL-A-ecarte.mp4` et sa couverture : Reel « Tu serres vraiment à l'écarté ? » (12 s, sans son), samedi 17 octobre (Instagram 18 h, TikTok 19 h). Il remplace l'ancien Reel 2 de 35 s, retiré d'ici et jamais publié.
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
