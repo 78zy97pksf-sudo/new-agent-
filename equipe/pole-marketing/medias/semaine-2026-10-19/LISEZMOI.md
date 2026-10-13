@@ -14,6 +14,10 @@ Canva était épuisé jusqu'au 1er novembre 2026.
 - `TT10-*.jpg` : TikTok « Ce soir, il fera noir plus tôt » : courir en sécurité (dimanche 25, 12 h 30)
 - `REEL-B-curl.mp4` et sa couverture : Reel « Tu prends de l'élan au curl ? » (10,5 s, sans son), lundi 19 octobre (Instagram 18 h, TikTok 19 h)
 - `REEL-C-couche.mp4` et sa couverture : Reel « Le développé couché vu d'en haut » (8 s, sans son), mercredi 21 octobre (Instagram 18 h, TikTok 19 h)
+- Les Reels B et C ci-dessus ne partiront pas : simo les a trouvés trop simples (13 octobre). À leur place, les Reels refaits, avec une musique originale de l'équipe dans le fichier :
+- `REEL-V2-2-tete.mp4` et sa couverture : « Dans ma tête pendant une série » (16,2 s), lundi 19 octobre (Instagram 18 h, TikTok 19 h)
+- `REEL-V2-3-erreur.mp4` et sa couverture : « Même moi, je fais cette erreur » (12,6 s), mercredi 21 octobre (Instagram 18 h, TikTok 19 h)
+- `REEL-V2-4-poids.mp4` et sa couverture : « Devine le poids » (11 s), samedi 24 octobre (Instagram 18 h, TikTok 19 h). On y voit l'ami de Simon, avec son accord écrit du 13 octobre ; il n'est ni nommé ni identifié.
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
 vont ici, jamais la photo d'un client.

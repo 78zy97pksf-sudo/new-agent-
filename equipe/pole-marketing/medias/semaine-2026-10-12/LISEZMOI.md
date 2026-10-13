@@ -14,6 +14,7 @@ récupérer par un lien public au moment de programmer les posts.
 - `REEL1-triceps-17s.mp4` et sa couverture : nouvelle version courte (17 s) du Reel triceps, qui remplace `REEL1-triceps.mp4` le mercredi 14 octobre (Instagram 18 h, TikTok 19 h)
 - `SHORT-seance-10s.mp4` et sa couverture : short « Ma séance pecs + bras en 10 secondes » (15 s, musique originale de l'équipe dans le fichier), mardi 13 octobre (Instagram 21 h 15, TikTok 21 h 30)
 - `REEL-A-ecarte.mp4` et sa couverture : Reel « Tu serres vraiment à l'écarté ? » (12 s, sans son), samedi 17 octobre (Instagram 18 h, TikTok 19 h). Il remplace l'ancien Reel 2 de 35 s, retiré d'ici et jamais publié.
+- `REEL-V2-1-coach.mp4` et sa couverture : Reel refait « Nouveau coach débloqué » (14,6 s, musique originale de l'équipe dans le fichier), samedi 17 octobre (Instagram 18 h, TikTok 19 h). Il remplace le Reel A « écarté » (en pause, jamais publié), et son brouillon Metricool.
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
 vont ici, jamais la photo d'un client. Une vidéo où l'ami de Simon apparaît ne vient
