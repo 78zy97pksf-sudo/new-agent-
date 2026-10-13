@@ -80,6 +80,11 @@ demande à simo.
   message privé).
 - Musique : utiliser les sons proposés **dans l'application** (bibliothèque
   officielle), pas de musique ajoutée sans droits.
+- Depuis le 13 octobre 2026 : sur ce compte, Metricool ne peut
+  pas ajouter un son de la bibliothèque Instagram (refus 403). Les Reels
+  programmés portent donc leur son **dans le fichier** : uniquement une
+  musique originale créée par l'équipe (rythme, bruitages), sans droits
+  d'auteur. Jamais un morceau connu, même court.
 - Images : uniquement les photos de simo, des images libres de droits ou
   les éléments de Canva autorisés.
 - Partenariat ou produit offert : le signaler comme tel.

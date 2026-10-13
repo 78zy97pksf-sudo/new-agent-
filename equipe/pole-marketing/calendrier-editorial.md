@@ -49,13 +49,18 @@ deux commerciaux) : le Reel triceps passe à 17 s et le Reel « écarté »
 remplace l'ancien Reel 2 de 35 s (jamais publié).
 Le soir même, simo les a trouvés trop simples : tous les Reels de la salle
 sont en pause (brouillons Metricool) jusqu'aux nouvelles versions.
+simo a demandé un short pour le soir même : « Ma séance pecs + bras en
+10 secondes » (fil vidéo, son original dans le fichier) a pris les deux
+brouillons du REEL1, pour ne pas ajouter de post au forfait d'octobre.
+Le REEL1 refait devra trouver une autre place.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche (idée) | Statut |
 |---|---|---|---|---|---|---|
 | mar. 13/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG4 Un échauffement simple avant ta séance | « Avant ta séance, commence par ces mouvements. » | programmé |
 | mar. 13/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT4 Même idée que IG4 | « Avant ta séance : commence par ça. » | programmé |
-| mer. 14/10 18:00 | Instagram | Reel 9:16 (17 s, sans son) | Simon en avant | REEL1 Séance du soir : extension triceps (vidéo de simo) | « Viens t'entraîner avec moi » | en pause (à refaire) |
-| mer. 14/10 19:00 | TikTok | Vidéo 9:16 (17 s, sans son) | Simon en avant | REEL1 Même vidéo sur TikTok | « Viens t'entraîner avec moi » | en pause (à refaire) |
+| mar. 13/10 21:15 | Instagram | Reel 9:16 (15 s, son original) | Simon en avant | SHORT Ma séance pecs + bras en 10 secondes (vidéo de simo) | « Ma séance pecs + bras en 10 secondes » | programmé |
+| mar. 13/10 21:30 | TikTok | Vidéo 9:16 (15 s, son original) | Simon en avant | SHORT Même vidéo sur TikTok | « Ma séance pecs + bras en 10 secondes » | programmé |
+| à placer | Instagram + TikTok | Reel 9:16 | Simon en avant | REEL1 Séance du soir : extension triceps (vidéo de simo) | « Viens t'entraîner avec moi » | à refaire (ses brouillons servent au SHORT) |
 | jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | programmé |
 | jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | programmé |
 | ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
@@ -91,7 +96,9 @@ Images : `medias/semaine-2026-10-19/`.
 Même méthode que la semaine 3. Images : `medias/semaine-2026-10-26/`.
 
 Attention au forfait gratuit de Metricool (20 posts par mois) : octobre en
-compte 17 avec les Reels de la salle (19 avec le Reel D). Le 13 octobre,
+compte 17 avec les Reels de la salle (le SHORT du 13 a pris les places
+du REEL1 ; 19 avec le Reel D, 21 si le REEL1 refait s'ajoute, donc un
+Reel de trop à placer en novembre). Le 13 octobre,
 simo a choisi « Reels d'abord » : les carrousels prêts des semaines 3 et 4
 passent en novembre.
 
