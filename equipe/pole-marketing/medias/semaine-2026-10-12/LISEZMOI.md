@@ -11,8 +11,9 @@ récupérer par un lien public au moment de programmer les posts.
 - `TT5-*.jpg` : carrousel photo TikTok squat (format 9:16)
 - `TT6-*.jpg` : carrousel photo TikTok PUR HEALTH (format 9:16)
 - `REEL1-triceps.mp4` et `REEL1-triceps-couverture.jpg` : Reel « Séance du soir », Simon à l'extension triceps (salle, 24,8 s, sans son, format 9:16), monté par le fil vidéo, prévu le mercredi 14 octobre (Instagram 18 h, TikTok 19 h)
-- `REEL2-pecs-bras.mp4` et `REEL2-pecs-bras-couverture.jpg` : Reel « Séance du soir avec mon pote », 5 exercices pecs et bras (salle, 35,3 s, sans son, format 9:16), monté par le fil vidéo, prévu le samedi 17 octobre (Instagram 18 h, TikTok 19 h)
+- `REEL1-triceps-17s.mp4` et sa couverture : nouvelle version courte (17 s) du Reel triceps, qui remplace `REEL1-triceps.mp4` le mercredi 14 octobre (Instagram 18 h, TikTok 19 h)
+- `REEL-A-ecarte.mp4` et sa couverture : Reel « Tu serres vraiment à l'écarté ? » (12 s, sans son), samedi 17 octobre (Instagram 18 h, TikTok 19 h). Il remplace l'ancien Reel 2 de 35 s, retiré d'ici et jamais publié.
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
-vont ici, jamais la photo d'un client. Exception : l'ami de Simon dans
-REEL2, avec son accord (donné via simo le 12 octobre 2026), sans son nom.
+vont ici, jamais la photo d'un client. Une vidéo où l'ami de Simon apparaît ne vient
+ici qu'après son accord écrit pour cette vidéo, sans son nom.

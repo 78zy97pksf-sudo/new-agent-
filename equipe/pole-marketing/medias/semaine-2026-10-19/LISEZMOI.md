@@ -12,6 +12,8 @@ Canva était épuisé jusqu'au 1er novembre 2026.
 - `TT8-*.jpg` : TikTok, même sujet (jeudi 22, 19 h)
 - `IG9-*.jpg` : Instagram « Une course en vue ? » : PUR GOLD et PUR TRACK (vendredi 23, 12 h 30)
 - `TT10-*.jpg` : TikTok « Ce soir, il fera noir plus tôt » : courir en sécurité (dimanche 25, 12 h 30)
+- `REEL-B-curl.mp4` et sa couverture : Reel « Tu prends de l'élan au curl ? » (10,5 s, sans son), lundi 19 octobre (Instagram 18 h, TikTok 19 h)
+- `REEL-C-couche.mp4` et sa couverture : Reel « Le développé couché vu d'en haut » (8 s, sans son), mercredi 21 octobre (Instagram 18 h, TikTok 19 h)
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
 vont ici, jamais la photo d'un client.
