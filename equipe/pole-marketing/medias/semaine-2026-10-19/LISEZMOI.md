@@ -20,7 +20,7 @@ Canva était épuisé jusqu'au 1er novembre 2026.
 - `REEL-V3-3-erreur.mp4` et sa couverture : version corrigée (13 s) de « Même moi, je fais cette erreur », remplacée le 19 octobre par la retouche ci-dessous.
 - `REEL-V4-3-erreur.mp4` et sa couverture : retouche (fin du son en fondu, badge « Niveau confirmé » plus lisible), mercredi 21 octobre (Instagram 18 h, TikTok 19 h).
 - `REEL-V4-1-match.mp4` et sa couverture : nouveau Reel « Simon 2 – 0 le canapé » (15,2 s, musique originale de l'équipe), lundi 19 octobre (Instagram 18 h, TikTok 19 h), à la place de « Dans ma tête pendant une série ». Les silhouettes au fond sont floutées.
-- `REEL-V4-4-poids.mp4` et sa couverture : « Devine le poids » (11 s), samedi 24 octobre (Instagram 18 h, TikTok 19 h), avec le visage du partenaire d'entraînement de Simon flouté sur chaque image (l'ancienne version, où on le reconnaissait, a été retirée d'ici le 19 octobre).
+- `REEL-V5-4-poids.mp4` et sa couverture : « Devine le poids » (11 s), samedi 24 octobre (Instagram 18 h, TikTok 19 h), avec le visage du partenaire d'entraînement de Simon flouté sur chaque image (retouche du 19 octobre : le flou couvre aussi ses lunettes de 6,3 à 6,55 s ; les anciennes versions ont été retirées d'ici).
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
 vont ici, jamais la photo d'un client.
