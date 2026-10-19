@@ -69,8 +69,8 @@ Reel 5 sont de nouveaux posts.
 | jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | programmé |
 | jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | programmé |
 | ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
-| sam. 17/10 18:00 | Instagram | Reel 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Nouveau coach débloqué (remplace REEL-A) | « Nouveau coach débloqué : moi, Simon » | créneau passé sans publication (brouillon) ; le nouveau Reel reprendra ce brouillon à une prochaine date libre d'octobre |
-| sam. 17/10 19:00 | TikTok | Vidéo 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Même vidéo sur TikTok | « Nouveau coach débloqué » | créneau passé sans publication (brouillon) ; le nouveau Reel reprendra ce brouillon à une prochaine date libre d'octobre |
+| sam. 17/10 18:00 | Instagram | Reel 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Nouveau coach débloqué (remplace REEL-A) | « Nouveau coach débloqué : moi, Simon » | créneau passé sans publication (brouillon) ; ce brouillon a été repris le 19/10 pour le nouveau Reel « Simon 2 – 0 le canapé » (voir lundi 19/10) |
+| sam. 17/10 19:00 | TikTok | Vidéo 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Même vidéo sur TikTok | « Nouveau coach débloqué » | créneau passé sans publication (brouillon) ; ce brouillon a été repris le 19/10 pour le nouveau Reel « Simon 2 – 0 le canapé » (voir lundi 19/10) |
 | dim. 18/10 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT6 Version TikTok de IG6 | « Ce qui est compris dans PUR HEALTH. » | programmé |
 
 ## Semaine 3 (19 au 25 octobre) : course à pied, offres PUR GOLD et PUR TRACK
@@ -84,8 +84,10 @@ Images : `medias/semaine-2026-10-19/`.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| lun. 19/10 18:00 | Instagram | Reel 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Dans ma tête pendant une série (remplace REEL-B) | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original) ; le nouveau Reel reprend ce brouillon dès qu'il est livré |
-| lun. 19/10 19:00 | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original) ; le nouveau Reel reprend ce brouillon dès qu'il est livré |
+| lun. 19/10 18:00 | Instagram | Reel 9:16 (15,2 s, son original) | Simon en avant | REEL-V4-1 Simon 2 – 0 le canapé : la séance commentée comme un match (remplace REEL-V2-1) | « SIMON 2 – 0 LE CANAPÉ » | programmé (19/10, après vérification image par image) |
+| lun. 19/10 19:00 | TikTok | Vidéo 9:16 (15,2 s, son original) | Simon en avant | REEL-V4-1 Même vidéo sur TikTok | « SIMON 2 – 0 LE CANAPÉ » | programmé (19/10) |
+| à dater (octobre) | Instagram | Reel 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Dans ma tête pendant une série (remplace REEL-B) | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original) ; le nouveau Reel « Notifs » reprend ce brouillon dès qu'il est livré, à une date libre d'octobre |
+| à dater (octobre) | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | en brouillon ; le nouveau Reel « Notifs » reprend ce brouillon dès qu'il est livré |
 | mar. 20/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG7 (Re)commencer à courir : 3 conseils | « Tu veux (re)commencer à courir ? » | contrôlé |
 | mar. 20/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT7 Version TikTok de IG7 | « (Re)commencer à courir » | contrôlé |
 | mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | programmé (retouche v4 du 19/10) |
