@@ -86,17 +86,21 @@ Images : `medias/semaine-2026-10-19/`.
 |---|---|---|---|---|---|---|
 | lun. 19/10 18:00 | Instagram | Reel 9:16 (15,2 s, son original) | Simon en avant | REEL-V4-1 Simon 2 – 0 le canapé : la séance commentée comme un match (remplace REEL-V2-1) | « SIMON 2 – 0 LE CANAPÉ » | programmé (19/10, après vérification image par image) |
 | lun. 19/10 19:00 | TikTok | Vidéo 9:16 (15,2 s, son original) | Simon en avant | REEL-V4-1 Même vidéo sur TikTok | « SIMON 2 – 0 LE CANAPÉ » | programmé (19/10) |
-| à dater (octobre) | Instagram | Reel 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Dans ma tête pendant une série (remplace REEL-B) | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original) ; le nouveau Reel « Notifs » reprend ce brouillon dès qu'il est livré, à une date libre d'octobre |
-| à dater (octobre) | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | en brouillon ; le nouveau Reel « Notifs » reprend ce brouillon dès qu'il est livré |
+| à dater (octobre) | Instagram | Reel 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Dans ma tête pendant une série (remplace REEL-B) | « Dans ma tête pendant une série » | mis de côté le 19/10 : le nouveau Reel « Notifs » remontrait l'écarté une 3e fois (simo : vidéos trop répétitives) ; ces brouillons servent au short d'Halloween du 31/10 |
+| à dater (octobre) | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | mis de côté le 19/10 : le nouveau Reel « Notifs » remontrait l'écarté une 3e fois (simo : vidéos trop répétitives) ; ces brouillons servent au short d'Halloween du 31/10 |
 | mar. 20/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG7 (Re)commencer à courir : 3 conseils | « Tu veux (re)commencer à courir ? » | contrôlé |
 | mar. 20/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT7 Version TikTok de IG7 | « (Re)commencer à courir » | contrôlé |
-| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | programmé (retouche v4 du 19/10) |
-| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | programmé (retouche v4 du 19/10) |
+| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | reporté en novembre le 19/10 (le curl est déjà passé le 13/10, et deux vidéos de la même séance ne se suivent plus) ; ses posts servent au short du 23/10 |
+| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | reporté en novembre le 19/10 (le curl est déjà passé le 13/10, et deux vidéos de la même séance ne se suivent plus) ; ses posts servent au short du 23/10 |
 | jeu. 22/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG8 La VMA expliquée simplement | « Ta VMA, c'est quoi ? Et à quoi elle sert ? » | contrôlé |
 | jeu. 22/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT8 Version TikTok de IG8 | « Ta VMA, c'est quoi ? » | contrôlé |
 | ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
-| sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | programmé (version du 19/10 avec le visage du partenaire flouté ; simo peut encore choisir de le poster lui-même ou de le retirer) |
-| sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | programmé (version du 19/10 avec le visage du partenaire flouté ; simo peut encore choisir de le poster lui-même ou de le retirer) |
+| ven. 23/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid | « Ce soir : alerte orange au plaid. » | en fabrication (équipe montage), puis contrôle image par image ; sinon lundi 26/10 |
+| ven. 23/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | en fabrication |
+| sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
+| sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
+| dim. 25/10 10:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Aujourd'hui dure 25 heures (passage à l'heure d'hiver) | « Aujourd'hui dure 25 heures… lis les petites lignes » | en fabrication (équipe montage), puis contrôle image par image |
+| dim. 25/10 10:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Même vidéo sur TikTok | « Aujourd'hui dure 25 heures » | en fabrication |
 | dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
 
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
@@ -112,12 +116,14 @@ passent en novembre.
 |---|---|---|---|---|---|---|
 | mar. 27/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG11 La balance ne dit pas tout : d'autres repères | « Le chiffre sur la balance ne dit pas tout. » | contrôlé |
 | mar. 27/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT11 Version TikTok de IG11 | « La balance ne dit pas tout. » | contrôlé |
-| mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | programmé (version corrigée v3 du 19/10) |
+| mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | programmé ; l'équipe montage remplace les 0,6 s d'ouverture (écarté déjà vu) par un plan pas encore montré |
 | jeu. 29/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG12 Séance maison d'environ 20 minutes | « Il fait noir tôt ? Ta séance à la maison. » | contrôlé |
 | jeu. 29/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT12 Version TikTok de IG12 | « Il fait noir tôt ? Séance chez toi. » | contrôlé |
 | ven. 30/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG13 PUR GOLD : ce qui est compris, mot pour mot | « PUR GOLD : un suivi complet pendant 3 mois. » | contrôlé |
+| sam. 31/10 11:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 JE COMMENCE LUNDI : la saga d'horreur (Halloween) | « Histoire vraie : la nôtre. » | en fabrication (équipe montage), puis contrôle image par image ; rien d'Halloween le 1/11 (Toussaint) |
+| sam. 31/10 11:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 Même vidéo sur TikTok | « JE COMMENCE LUNDI » | en fabrication |
 | dim. 01/11 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT13 Version TikTok de IG13 | « PUR GOLD : ce qui est compris. » | contrôlé |
-| dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | programmé (version corrigée v3 du 19/10) (compte pour novembre) |
+| dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | programmé ; l'équipe montage remplace les 0,6 s d'ouverture (écarté déjà vu) par un plan pas encore montré |
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
