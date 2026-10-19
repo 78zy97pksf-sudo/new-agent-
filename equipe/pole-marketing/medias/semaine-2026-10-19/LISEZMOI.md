@@ -18,7 +18,7 @@ Canva était épuisé jusqu'au 1er novembre 2026.
 - `REEL-V2-2-tete.mp4` et sa couverture : « Dans ma tête pendant une série » (16,2 s), lundi 19 octobre (Instagram 18 h, TikTok 19 h)
 - `REEL-V2-3-erreur.mp4` et sa couverture : « Même moi, je fais cette erreur » (12,6 s), remplacé le 19 octobre par la version corrigée ci-dessous.
 - `REEL-V3-3-erreur.mp4` et sa couverture : version corrigée (13 s) de « Même moi, je fais cette erreur », mercredi 21 octobre (Instagram 18 h, TikTok 19 h).
-- `REEL-V2-4-poids.mp4` et sa couverture : « Devine le poids » (11 s), samedi 24 octobre (Instagram 18 h, TikTok 19 h). On y voit l'ami de Simon, avec son accord écrit du 13 octobre ; il n'est ni nommé ni identifié.
+- « Devine le poids » (Reel 4, samedi 24 octobre) : retiré d'ici le 19 octobre. Le visage de l'ami de Simon y est reconnaissable, et ce dépôt est public : la vidéo ne revient ici qu'avec son visage flouté.
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
 vont ici, jamais la photo d'un client.
