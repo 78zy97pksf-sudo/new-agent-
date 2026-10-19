@@ -69,8 +69,8 @@ Reel 5 sont de nouveaux posts.
 | jeu. 15/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG5 3 erreurs fréquentes au squat | « 3 erreurs au squat que je vois souvent. » | programmé |
 | jeu. 15/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT5 Même idée que IG5 | « Ton squat : 3 erreurs à corriger. » | programmé |
 | ven. 16/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG6 PUR HEALTH : ce qui est compris, mot pour mot | « Avant de reprendre le sport, fais le point. » | programmé |
-| sam. 17/10 18:00 | Instagram | Reel 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Nouveau coach débloqué (remplace REEL-A) | « Nouveau coach débloqué : moi, Simon » | en brouillon (simo : pas assez original, nouveau Reel en cours pour ce créneau) |
-| sam. 17/10 19:00 | TikTok | Vidéo 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Même vidéo sur TikTok | « Nouveau coach débloqué » | en brouillon (simo : pas assez original, nouveau Reel en cours pour ce créneau) |
+| sam. 17/10 18:00 | Instagram | Reel 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Nouveau coach débloqué (remplace REEL-A) | « Nouveau coach débloqué : moi, Simon » | créneau passé sans publication (brouillon) ; le nouveau Reel reprendra ce brouillon à une prochaine date libre d'octobre |
+| sam. 17/10 19:00 | TikTok | Vidéo 9:16 (14,6 s, son original) | Simon en avant | REEL-V2-1 Même vidéo sur TikTok | « Nouveau coach débloqué » | créneau passé sans publication (brouillon) ; le nouveau Reel reprendra ce brouillon à une prochaine date libre d'octobre |
 | dim. 18/10 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT6 Version TikTok de IG6 | « Ce qui est compris dans PUR HEALTH. » | programmé |
 
 ## Semaine 3 (19 au 25 octobre) : course à pied, offres PUR GOLD et PUR TRACK
@@ -84,17 +84,17 @@ Images : `medias/semaine-2026-10-19/`.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| lun. 19/10 18:00 | Instagram | Reel 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Dans ma tête pendant une série (remplace REEL-B) | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original, nouveau Reel en cours pour ce créneau) |
-| lun. 19/10 19:00 | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original, nouveau Reel en cours pour ce créneau) |
+| lun. 19/10 18:00 | Instagram | Reel 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Dans ma tête pendant une série (remplace REEL-B) | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original) ; le nouveau Reel reprend ce brouillon dès qu'il est livré |
+| lun. 19/10 19:00 | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original) ; le nouveau Reel reprend ce brouillon dès qu'il est livré |
 | mar. 20/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG7 (Re)commencer à courir : 3 conseils | « Tu veux (re)commencer à courir ? » | contrôlé |
 | mar. 20/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT7 Version TikTok de IG7 | « (Re)commencer à courir » | contrôlé |
-| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | programmé |
-| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | programmé |
+| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | en brouillon depuis le 19/10 : attend les petites corrections demandées par simo, repart dès qu'il est corrigé |
+| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | en brouillon depuis le 19/10 : attend les petites corrections demandées par simo, repart dès qu'il est corrigé |
 | jeu. 22/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG8 La VMA expliquée simplement | « Ta VMA, c'est quoi ? Et à quoi elle sert ? » | contrôlé |
 | jeu. 22/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT8 Version TikTok de IG8 | « Ta VMA, c'est quoi ? » | contrôlé |
 | ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
-| sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | programmé |
-| sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | programmé |
+| sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | en brouillon depuis le 19/10 : attend les petites corrections demandées par simo, repart dès qu'il est corrigé |
+| sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | en brouillon depuis le 19/10 : attend les petites corrections demandées par simo, repart dès qu'il est corrigé |
 | dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
 
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
@@ -110,12 +110,12 @@ passent en novembre.
 |---|---|---|---|---|---|---|
 | mar. 27/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG11 La balance ne dit pas tout : d'autres repères | « Le chiffre sur la balance ne dit pas tout. » | contrôlé |
 | mar. 27/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT11 Version TikTok de IG11 | « La balance ne dit pas tout. » | contrôlé |
-| mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | programmé |
+| mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | en brouillon depuis le 19/10 : attend les petites corrections demandées par simo, repart dès qu'il est corrigé |
 | jeu. 29/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG12 Séance maison d'environ 20 minutes | « Il fait noir tôt ? Ta séance à la maison. » | contrôlé |
 | jeu. 29/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT12 Version TikTok de IG12 | « Il fait noir tôt ? Séance chez toi. » | contrôlé |
 | ven. 30/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG13 PUR GOLD : ce qui est compris, mot pour mot | « PUR GOLD : un suivi complet pendant 3 mois. » | contrôlé |
 | dim. 01/11 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT13 Version TikTok de IG13 | « PUR GOLD : ce qui est compris. » | contrôlé |
-| dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | programmé (compte pour novembre) |
+| dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | en brouillon depuis le 19/10 : attend les petites corrections demandées par simo, repart dès qu'il est corrigé (compte pour novembre) |
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
