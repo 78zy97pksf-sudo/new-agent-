@@ -88,13 +88,13 @@ Images : `medias/semaine-2026-10-19/`.
 | lun. 19/10 19:00 | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | en brouillon (simo : pas assez original) ; le nouveau Reel reprend ce brouillon dès qu'il est livré |
 | mar. 20/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG7 (Re)commencer à courir : 3 conseils | « Tu veux (re)commencer à courir ? » | contrôlé |
 | mar. 20/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT7 Version TikTok de IG7 | « (Re)commencer à courir » | contrôlé |
-| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | programmé (version corrigée v3 du 19/10) |
-| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | programmé (version corrigée v3 du 19/10) |
+| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | programmé (retouche v4 du 19/10) |
+| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | programmé (retouche v4 du 19/10) |
 | jeu. 22/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG8 La VMA expliquée simplement | « Ta VMA, c'est quoi ? Et à quoi elle sert ? » | contrôlé |
 | jeu. 22/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT8 Version TikTok de IG8 | « Ta VMA, c'est quoi ? » | contrôlé |
 | ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
-| sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | en brouillon : version corrigée prête, mais le visage de l'ami y est reconnaissable ; choix demandé à simo (flouter son visage, il le poste lui-même, ou le retirer) |
-| sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | en brouillon : version corrigée prête, mais le visage de l'ami y est reconnaissable ; choix demandé à simo (flouter son visage, il le poste lui-même, ou le retirer) |
+| sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | programmé (version du 19/10 avec le visage du partenaire flouté ; simo peut encore choisir de le poster lui-même ou de le retirer) |
+| sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | programmé (version du 19/10 avec le visage du partenaire flouté ; simo peut encore choisir de le poster lui-même ou de le retirer) |
 | dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
 
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
