@@ -12,6 +12,7 @@ selon `equipe/pole-marketing/direction-artistique.md`.
 - `IG13-*.jpg` : Instagram « PUR GOLD : un suivi complet pendant 3 mois » (vendredi 30, 12 h 30)
 - `TT13-*.jpg` : TikTok « PUR GOLD : ce qui est compris » (dimanche 1er novembre, 12 h 30)
 - `REEL-V3-5-haut.mp4` et sa couverture : version corrigée du 19 octobre (15,9 s) de « Moi… vu d'en haut », aux mêmes dates que la précédente.
+- `REEL-V4-5-haut.mp4` et sa couverture : version du 20 octobre (15,9 s) qui remplace la précédente, aux mêmes dates : elle s'ouvre directement sur la vue du dessus (plus aucun plan de la machine à écarté, déjà vue dans d'autres vidéos) et le fond de l'écran de fin est plus sombre pour mieux lire les textes.
 - `REEL-V2-5-haut.mp4` et sa couverture : Reel refait « Moi… vu d'en haut » (15 s, musique originale de l'équipe dans le fichier), Instagram le mercredi 28 octobre à 18 h, TikTok le dimanche 1er novembre à 19 h (forfait gratuit d'octobre plein). Les carrousels ci-dessus passent en novembre (choix « Reels d'abord » de simo).
 
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
