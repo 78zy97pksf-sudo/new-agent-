@@ -19,7 +19,7 @@ Rangement conseillé dans Google Drive `[À CONFIRMER PAR SIMO]` :
 
 **Depuis le 8 octobre 2026 : Metricool est branché et la publication est
 automatique** (comptes Instagram « simon_ruisseau » et TikTok
-« Simson_laD », marque Metricool 7201871, fuseau Europe/Brussels).
+« purcoaching » (anciennement « Simson_laD », le nom de la marque Metricool 7201871), fuseau Europe/Brussels).
 
 ### Comment un post est programmé (situation actuelle)
 1. Le post est écrit, illustré, puis validé par `coach-securite` (s'il

@@ -20,7 +20,7 @@ partie a).
   premières visites du site et les premiers messages privés.
 - Offre mise en avant : **PUR HEALTH** (prix et contenu : toujours relire
   `equipe/pole-sport/mon-coaching.md`).
-- Comptes : Instagram @simon_ruisseau, TikTok @Simson_laD. Site :
+- Comptes : Instagram @simon_ruisseau, TikTok @purcoaching. Site :
   https://pur-coaching.github.io/
 
 ## Semaine 1 (5 au 11 octobre) : où on en est

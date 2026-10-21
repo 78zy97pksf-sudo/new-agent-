@@ -1,7 +1,7 @@
 # Le pôle marketing
 
 Le pôle marketing fait vivre la marque **PUR COACHING** sur Instagram
-(compte officiel de Simon, **@simon_ruisseau**) et TikTok (**@Simson_laD**) :
+(compte officiel de Simon, **@simon_ruisseau**) et TikTok (**@purcoaching**, anciennement @Simson_laD) :
 il prépare les publications, les
 visuels, les réponses aux messages, et améliore la marque au fil du temps
 grâce aux statistiques.

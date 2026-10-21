@@ -17,7 +17,7 @@ toujours les lire là-bas, pour éviter les erreurs de prix.
 - Marque : **PUR COACHING**.
 - Slogan : « De la remise en forme au dépassement de soi ».
 - Instagram : le compte officiel de Simon, **@simon_ruisseau** (choix de simo
-  le 8 octobre 2026, à la place de @pur.coaching). TikTok : **@Simson_laD**.
+  le 8 octobre 2026, à la place de @pur.coaching). TikTok : **@purcoaching** (nom vu dans Metricool le 21 octobre 2026 ; anciennement @Simson_laD).
   Ce sont les deux comptes branchés à Metricool.
 - Site : https://pur-coaching.github.io/
 - Qui parle : Simon, étudiant en 3e année de bachelier en coaching sportif
