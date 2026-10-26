@@ -97,8 +97,8 @@ Images : `medias/semaine-2026-10-19/`.
 | ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
 | sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
 | sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
-| dim. 25/10 10:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Aujourd'hui dure 25 heures (passage à l'heure d'hiver) | « Aujourd'hui dure 25 heures… lis les petites lignes » | en fabrication (équipe montage), puis contrôle image par image |
-| dim. 25/10 10:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Même vidéo sur TikTok | « Aujourd'hui dure 25 heures » | en fabrication |
+| heure d'hiver 2027 (prévu dim. 25/10 10:00) | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Aujourd'hui dure 25 heures (passage à l'heure d'hiver) | « Aujourd'hui dure 25 heures… lis les petites lignes » | rangé le 26/10 : la limite d'utilisation du compte Claude a arrêté l'équipe du jeu. 22 au lun. 26/10 et la date est passée ; fichiers gardés pour le prochain passage à l'heure d'hiver |
+| heure d'hiver 2027 (prévu dim. 25/10 10:30) | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Même vidéo sur TikTok | « Aujourd'hui dure 25 heures » | rangé le 26/10 (voir la ligne Instagram) |
 | dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
 
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
@@ -112,8 +112,8 @@ passent en novembre.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| lun. 26/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (spectateur 6,4), v2 refusée le 21/10 (spectateur 7,2 : propre mais pas encore drôle) ; v3 attendue dim. 25/10 à 20:00 ; vendredi 23, rien ne part à sa place (mieux vaut un jour sans post qu'une vidéo moyenne) |
-| lun. 26/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | v3 en fabrication (voir la ligne Instagram) |
+| jeu. 29/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10, puis le 26/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (spectateur 6,4), v2 refusée le 21/10 (spectateur 7,2 : propre mais pas encore drôle) ; la pause du 22 au 26/10 (limite d'utilisation) a décalé la v3 : attendue mer. 28/10 à 10:00 UTC, une seule ronde de relecture ; si elle n'est pas à 8/10, rien ne part à sa place |
+| jeu. 29/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | v3 en fabrication (voir la ligne Instagram) |
 | mar. 27/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG11 La balance ne dit pas tout : d'autres repères | « Le chiffre sur la balance ne dit pas tout. » | contrôlé |
 | mar. 27/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT11 Version TikTok de IG11 | « La balance ne dit pas tout. » | contrôlé |
 | mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
