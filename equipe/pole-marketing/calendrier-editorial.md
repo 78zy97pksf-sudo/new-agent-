@@ -125,6 +125,16 @@ passent en novembre.
 | dim. 01/11 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT13 Version TikTok de IG13 | « PUR GOLD : ce qui est compris. » | contrôlé |
 | dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
 
+## Semaine 5 (2 au 8 novembre) : rentrée de novembre
+
+Images : `medias/semaine-2026-11-02/`. Le reste du lot (vidéos d'abord, puis
+les carrousels prêts) est programmé par la routine du lundi 2/11.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| mar. 03/11 18:00 | Instagram | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Novembre : choisis ton perso (Marmotte, Fusée ou Tortue ; chute « JOUEUR 2 a rejoint la partie ! ») | « Novembre : choisis ton perso. » | programmé le 26/10 (id 407016505) : coach-securite et jury spectateur 8,1/10, vérifié image par image |
+| mar. 03/11 19:00 | TikTok | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Même vidéo sur TikTok | « Novembre : choisis ton perso 🎮 » | programmé le 26/10 (id 407016526), hashtags de simo |
+
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
 
