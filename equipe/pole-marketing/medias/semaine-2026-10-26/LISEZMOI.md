@@ -18,3 +18,4 @@ selon `equipe/pole-marketing/direction-artistique.md`.
 Rappel vie privée : seules des photos de Simon ou des visuels de marque
 vont ici, jamais la photo d'un client.
 - `SHORT-IA-3-lundi.mp4` et sa couverture : short dessiné d'Halloween « JE COMMENCE LUNDI » (15,5 s, sans tournage, musique de l'équipe), pour le samedi 31 octobre (Instagram 11:00, TikTok 11:30). Validé par coach-securite (9,5/10) et par le jury spectateur strict (8/10), puis vérifié image par image par le fil com.
+- `SHORT-IA-1-meteo-v3.mp4` et sa couverture : short dessiné « Huy, ce soir : alerte orange au plaid », version 3 (15 s, sans tournage, musique de l'équipe), pour le vendredi 30 octobre (Instagram 18:00, TikTok 19:00). Validé par coach-securite (9,1/10) et par le jury spectateur strict (8/10), puis vérifié image par image par le fil com. Le jour même, report au lundi suivant si l'IRM donne une vraie alerte orange ou rouge en Belgique.
