@@ -64,7 +64,7 @@ premier rendez-vous. Fonctionnement, règles et modèles :
 
 | Agent | Rôle | Exemple de demande |
 |---|---|---|
-| `secretaire-mails` | Lit les nouveaux mails une fois par jour, les trie et les étiquette, répond aux demandes de coaching avec les modèles validés (sinon brouillon), fait le résumé du jour | « Qu'est-ce que j'ai reçu aujourd'hui ? » ou « Réponds au mail de Julie » |
+| `secretaire-mails` | Lit les nouveaux mails une fois par semaine (le lundi), les trie et les étiquette, répond aux demandes de coaching avec les modèles validés (sinon brouillon), fait le résumé pour simo | « Qu'est-ce que j'ai reçu aujourd'hui ? » ou « Réponds au mail de Julie » |
 | `agent-accueil` | Pour chaque nouveau client : code client, dossier dans le Drive privé, anamnèse, commande potentielle (bon de commande), puis relais à `coach-bilan` | « Nouvelle cliente Julie, elle veut PUR GOLD, prépare son dossier » |
 
 **Enchaînement des étapes :** mail reçu (`secretaire-mails`, réponse avec
@@ -72,8 +72,9 @@ le questionnaire d'anamnèse) → dossier ouvert (`agent-accueil`) →
 anamnèse reçue → état du bilan (`coach-bilan`) → bon de commande
 (`agent-accueil`) → Simon fixe le rendez-vous et encaisse → paiement noté
 (`comptable`) → programme (pôle sport). Une routine vérifie la boîte mail
-une fois par jour. Les réponses partent seules seulement quand simo a
-validé les modèles ; avant, ce sont des brouillons dans Gmail.
+chaque lundi vers midi (choix de simo du 2026-10-12). Les réponses
+partent seules seulement quand simo a validé les modèles ; avant, ce sont
+des brouillons dans Gmail.
 
 ## Pôle commercial
 

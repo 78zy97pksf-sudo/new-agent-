@@ -32,6 +32,28 @@
 - Lieu : salle / maison / extérieur
 - Matériel disponible :
 
+## 3 bis. Distance (seulement pour PUR ONLINE et PUR ONLINE+)
+
+> À remplir **seulement dans le Drive privé**, jamais dans le dépôt.
+> Règles : `coaching-distance.md` (sections 3.6 et 5).
+
+- Tri à distance donné par `coach-bilan` : A (jamais à distance) / B
+  (accord écrit du médecin) / B bis (douleur ancienne, légère et stable) /
+  C (feu vert)
+- Pays et ville :
+- Numéro d'urgence du pays (vérifié au bilan, jamais inventé) :
+- Contact d'urgence (prénom et numéro, ou « aucun ») :
+- Fuseau horaire :
+- Outil de suivi (WhatsApp / e-mail) :
+- Adresse où se trouve le client pendant chaque visio où il bouge
+  (demandée au début de chaque visio : date et adresse) :
+- Cas B bis seulement : le client souhaite le programme très léger :
+  oui / non
+- Mesures de départ (valeurs, ou « non souhaité », ou « pas fait : feu
+  orange ») :
+- Technique vue (oui / non, remarques) :
+- Incidents (date, ce qui s'est passé, décision) :
+
 ## 4. Santé et récupération
 
 - Blessures passées (et si elles sont guéries) :
