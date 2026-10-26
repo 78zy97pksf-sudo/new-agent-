@@ -112,8 +112,8 @@ passent en novembre.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| ven. 30/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10, puis le 26/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (spectateur 6,4), v2 refusée le 21/10 (spectateur 7,2 : propre mais pas encore drôle) ; la pause du 22 au 26/10 (limite d'utilisation) a décalé la v3 : Halloween passe avant, v3 attendue jeu. 29/10 au soir, une seule ronde de relecture ; si elle n'est pas à 8/10 vendredi matin, elle part en novembre |
-| ven. 30/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | v3 en fabrication (voir la ligne Instagram) |
+| ven. 30/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10, puis le 26/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (6,4), v2 refusée le 21/10 (7,2) ; v3 livrée le 26/10 : coach-securite 9,1/10, jury spectateur 8/10, vérifiée image par image ; programmée le 26/10 (id 406419627) ; le 30/10 vers 16:30, report au lundi suivant si l'IRM donne une vraie alerte orange ou rouge en Belgique |
+| ven. 30/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | programmée le 26/10 (id 406419639), hashtags de simo |
 | mar. 27/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG11 La balance ne dit pas tout : d'autres repères | « Le chiffre sur la balance ne dit pas tout. » | contrôlé |
 | mar. 27/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT11 Version TikTok de IG11 | « La balance ne dit pas tout. » | contrôlé |
 | mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
