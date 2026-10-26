@@ -120,8 +120,8 @@ passent en novembre.
 | jeu. 29/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG12 Séance maison d'environ 20 minutes | « Il fait noir tôt ? Ta séance à la maison. » | contrôlé |
 | jeu. 29/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT12 Version TikTok de IG12 | « Il fait noir tôt ? Séance chez toi. » | contrôlé |
 | ven. 30/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG13 PUR GOLD : ce qui est compris, mot pour mot | « PUR GOLD : un suivi complet pendant 3 mois. » | contrôlé |
-| sam. 31/10 11:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 JE COMMENCE LUNDI : la saga d'horreur (Halloween) | « Histoire vraie : la nôtre. » | en fabrication (équipe montage), puis contrôle image par image ; rien d'Halloween le 1/11 (Toussaint) |
-| sam. 31/10 11:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 Même vidéo sur TikTok | « JE COMMENCE LUNDI » | en fabrication |
+| sam. 31/10 11:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 JE COMMENCE LUNDI : la saga d'horreur (Halloween) | « Histoire vraie : la nôtre. » | programmé le 26/10 (id 406403659) : coach-securite 9,5/10, jury spectateur 8/10, vérifié image par image ; rien d'Halloween le 1/11 (Toussaint) |
+| sam. 31/10 11:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 Même vidéo sur TikTok | « JE COMMENCE LUNDI » | programmé le 26/10 (id 406403719), hashtags de simo |
 | dim. 01/11 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT13 Version TikTok de IG13 | « PUR GOLD : ce qui est compris. » | contrôlé |
 | dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
 
