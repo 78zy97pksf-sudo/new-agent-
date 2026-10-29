@@ -67,7 +67,8 @@ TikTok, soit 2 à 3 par semaine et par réseau (le mélange est dans
 
 1. **Calendrier** — `responsable-marque`
    Prépare le calendrier du mois (ou de la semaine) dans
-   `calendrier-editorial.md` : date, réseau, format, pilier, sujet, accroche.
+   `calendrier-editorial.md` : date et heure, réseau, format, personne
+   visée, étape du parcours, pilier, sujet, accroche.
 2. **Textes et scripts** — `commercial-instagram` et/ou `commercial-tiktok`
    Écrivent le post prêt à copier-coller (texte, légende, hashtags, appel à
    l'action) et la description du visuel voulu.

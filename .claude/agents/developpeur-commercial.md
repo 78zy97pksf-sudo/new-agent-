@@ -22,8 +22,9 @@ Lis toujours :
 - `equipe/pole-marketing/client-cible.md` (ce qui bloque chaque personne
   visée : ce sont tes objections à traiter) et
   `equipe/pole-marketing/parcours-client.md` ;
-- `equipe/pole-commercial/README.md` et
-  `equipe/pole-commercial/idees-et-decisions.md` ;
+- `equipe/pole-commercial/README.md`,
+  `equipe/pole-commercial/idees-et-decisions.md` et
+  `equipe/pole-commercial/voix-de-simon.md` ;
 - `equipe/pole-commercial/reponse-bilan.md` et
   `equipe/pole-commercial/parrainage.md` s'ils existent ;
 - `equipe/pole-marketing/charte-marque.md` et

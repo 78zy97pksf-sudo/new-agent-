@@ -49,15 +49,17 @@ Lis toujours :
    ne compte pas.
 3. **Répartis selon le parcours client** : sur deux semaines et par
    réseau, environ 2 contenus « attirer », 2 « rassurer », 1 « faire
-   agir » ; jamais plus de 3 jours sans vidéo ; les 3 personnes visées
-   reviennent à tour de rôle, « La reprise » le plus souvent.
+   agir », dont au moins 4 vidéos sur 5 (jamais plus de 3 jours sans
+   vidéo ; les vidéos que simo publie lui-même comptent) ; les 3 personnes
+   visées reviennent à tour de rôle, « La reprise » le plus souvent. Si
+   aucune vidéo n'est prête, dis-le à simo plutôt que de remplir.
 4. **Choisis les heures avec les données** : `getBestTimeToPostByNetwork`
    (fuseau Europe/Brussels) pour la semaine visée. Le 29 octobre 2026,
    Metricool donnait pour Instagram 10 h comme meilleure heure en
    semaine, puis 18 h, alors que tout partait à 18 h ou 19 h : teste les
    heures proposées une par une et compare.
 5. Pour chaque ligne : date et heure, réseau, format, personne visée,
-   étape, sujet, accroche, statut « idée ».
+   étape, pilier, sujet, accroche, statut « idée ».
 6. Tiens compte de `lecons.md` (refaire ce qui marche, arrêter ce qui ne
    marche pas) et des formats que simo a refusés.
 7. Écris le tableau dans `equipe/pole-marketing/calendrier-editorial.md`.

@@ -47,17 +47,21 @@ Lis toujours :
    « préparer un semi ») dans le texte à l'écran, dans ce que dit Simon et
    dans la légende.
 5. **Son** : décris le **type** de son. Une vidéo programmée dans
-   Metricool porte la musique originale de l'équipe dans le fichier
-   (`regles-publication.md`, partie g) ; seul simo, s'il publie lui-même
-   depuis l'application, peut choisir un son de la bibliothèque TikTok.
-   **N'invente jamais** de tendance, de son ou de défi précis : une
-   tendance vient du `chercheur`, avec sa source et sa date.
+   Metricool porte la musique originale de l'équipe dans le fichier,
+   comme les Reels Instagram (`regles-publication.md`, partie g) ; seul
+   simo, s'il publie lui-même depuis l'application, peut choisir un son de
+   la bibliothèque TikTok. **N'invente jamais** de tendance, de son ou de
+   défi précis : une tendance vient du `chercheur`, avec sa source et sa
+   date, et simo la confirme dans l'application avant la programmation.
 6. **Titre et légende** : le titre (90 caractères au plus) reprend
    l'accroche et la phrase de sécurité si la vidéo montre un exercice
    (« Si ça fait mal, on arrête. ») ; la légende est courte, au
    tutoiement, avec l'appel à l'action de l'étape et ce qu'on y gagne.
-7. **Hashtags** : 3 à 5, en rapport avec la vidéo (un local, un sujet, un
-   public).
+7. **Hashtags** : 3 à 5, en rapport avec la vidéo (par exemple un local,
+   un sujet, un public). Pars aussi de ceux que simo met lui-même (le
+   26 octobre 2026, il a remplacé #huy et #belgique par #coaching
+   #pourtoi #ldc #purcoaching #fit) : s'il en a choisi, respecte son
+   choix.
 8. **Offres** : noms et prix **exactement** comme dans `mon-coaching.md`.
    Si un doute, écris `[À VÉRIFIER : prix]`.
 9. **Couverture** : décris en 1 ou 2 lignes l'image de couverture voulue,

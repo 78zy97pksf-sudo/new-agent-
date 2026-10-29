@@ -18,7 +18,7 @@ Gardiens : `responsable-marque` (étapes 1 à 3) et `developpeur-commercial`
 | 2. **Rassurer** | Elle regarde le profil, d'autres posts, le site | Montrer que Simon est sérieux, proche, et comment ça se passe | Enregistrements, commentaires, questions reçues, visites du site (si on peut les voir) |
 | 3. **Faire agir** | Elle écrit « BILAN » ou envoie un message | Un pas clair, petit et concret | Messages « BILAN », WhatsApp, mails (étiquette `1 Prospect`) |
 | 4. **Répondre** | Elle reçoit une réponse et un créneau | Transformer le message en rendez-vous | Délai de réponse, rendez-vous pris |
-| 5. **Fidéliser** | Elle devient cliente, puis en parle | Résultats, avis, parrainage | Clients, avis avec accord, amis parrainés |
+| 5. **Fidéliser** | Elle devient cliente, puis en parle | Résultats, avis, parrainage (règles dans `../pole-commercial/parrainage.md` quand il existe) | Clients, avis avec accord, amis parrainés |
 
 Le plus faible de ces maillons est celui qu'on répare en premier : rien ne
 sert d'avoir plus de vues si personne n'écrit, ni plus de messages si
@@ -47,9 +47,9 @@ Un seul par contenu. Il dit **quoi faire** et **ce qu'on y gagne**.
   avec **uniquement les offres et les prix de `../pole-sport/mon-coaching.md`**.
   Exemples :
   - « Écris BILAN en message : je te propose un créneau à Huy pour ton
-    premier rendez-vous. »
-  - « Tu veux juste savoir où tu en es ? L'analyse Tanita seule est à
-    15 €. Écris BILAN. »
+    bilan PUR HEALTH ([prix de `mon-coaching.md`]). »
+  - « Tu veux juste savoir où tu en es ? L'analyse Tanita seule coûte
+    [prix de `mon-coaching.md`]. Écris BILAN. »
   - « Tu habites loin de Huy ? On commence par un appel vidéo de bilan
     gratuit. Écris BILAN. » (l'appel vidéo gratuit fait partie de
     PUR ONLINE).
@@ -63,17 +63,21 @@ tant que simo ne l'a pas décidé), une fausse urgence.
 
 Le plan gratuit de Metricool permet **20 publications programmées par
 mois**, tous réseaux confondus (environ 10 sur Instagram et 10 sur
-TikTok). Chaque place compte. Sur deux semaines, par réseau, on vise :
+TikTok). Chaque place compte. Sur deux semaines, par réseau, on vise
+5 contenus :
 - 2 contenus **attirer** (de préférence des vidéos où l'on voit Simon) ;
 - 2 contenus **rassurer** (coulisses, comment se passe un bilan, la
   Tanita expliquée, réponses aux vraies questions, avis avec accord) ;
 - 1 contenu **faire agir** (une offre, présentée par Simon).
 
-Jamais plus de 3 jours sans vidéo, de préférence avec Simon : les
-chiffres d'octobre montrent que la portée retombe presque à zéro en
-3 jours sans vidéo. Le style des vidéos suit `direction-artistique.md`.
-simo peut aussi publier lui-même depuis son téléphone, hors de ces 20
-places.
+**Au moins 4 de ces 5 contenus sont des vidéos** (un contenu
+« rassurer » peut très bien être une vidéo de coulisses), pour ne jamais
+rester plus de 3 jours sans vidéo : les chiffres d'octobre montrent que
+la portée retombe presque à zéro en 3 jours sans vidéo. Les vidéos que
+simo publie lui-même depuis son téléphone comptent aussi (elles ne
+prennent pas de place Metricool). Si aucune vidéo n'est prête, on le dit
+à simo plutôt que de remplir avec un contenu faible. Le style des vidéos
+suit `direction-artistique.md`.
 
 ## Le profil, c'est la vitrine
 

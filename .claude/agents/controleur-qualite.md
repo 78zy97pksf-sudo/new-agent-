@@ -27,8 +27,9 @@ Tu es le dernier regard avant simo ou avant la publication.
    deux parties, oublis, `[À COMPLÉTER]` restés dans un texte prêt à
    partir.
 5. **Vérifie les règles** : vie privée (dépôt public : aucun nom complet,
-   aucune donnée de santé, aucun montant réel), budget (rien de payant),
-   ton (tutoiement, bienveillant, jamais culpabilisant).
+   aucune donnée de santé, aucun montant payé par un client ni revenu de
+   Simon), budget (rien de payant), ton (tutoiement, bienveillant,
+   jamais culpabilisant).
 6. **Selon le type de travail**, ajoute :
    - **contenu des réseaux sociaux** : les points bloquants de
      `equipe/pole-marketing/grille-qualite-contenu.md` et
@@ -36,7 +37,8 @@ Tu es le dernier regard avant simo ou avant la publication.
      `coach-securite` (si conseil) et le verdict « à publier » du
      `jury-contenu` sont notés ; la légende, le titre TikTok et la
      couverture disent la même chose ;
-   - **texte signé Simon** : il sonne comme `voix-de-simon.md` et ne
+   - **texte signé Simon** : il sonne comme
+     `equipe/pole-commercial/voix-de-simon.md` et ne
      contient aucune histoire inventée ;
    - **fiche d'agent** : elle suit le modèle de
      `.claude/skills/creer-agent/SKILL.md` (sources à lire, méthode en
