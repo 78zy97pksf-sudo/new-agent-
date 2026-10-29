@@ -28,6 +28,9 @@ plusieurs spécialistes.
    étapes et indique quel agent fait quoi ; la conversation principale
    confie ensuite chaque étape à l'agent indiqué.
 5. Le **contrôleur qualité** relit le résultat avant de le présenter à simo.
+   Pour un contenu public (post, vidéo, texte du site), le **jury de
+   contenu** le note d'abord à la place des clients visés
+   (`equipe/pole-marketing/grille-qualite-contenu.md`).
 
 ## Bon à savoir
 
@@ -37,3 +40,6 @@ plusieurs spécialistes.
   (ou après avoir rechargé les agents).
 - Les fichiers d'agents sont écrits en français pour que simo puisse les lire
   et les modifier librement.
+- Le but de chaque contenu est d'amener des clients : on écrit pour une
+  personne précise de `equipe/pole-marketing/client-cible.md`, avec un seul
+  appel à l'action (`equipe/pole-marketing/parcours-client.md`).

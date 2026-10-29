@@ -48,13 +48,17 @@ continu. Fonctionnement détaillé, charte et règles : `equipe/pole-marketing/`
 | `commercial-instagram` | Posts, carrousels, scripts de Reels, stories, légendes, hashtags et modèles de réponses aux messages privés | « Écris le carrousel de mardi sur les 3 erreurs au squat » |
 | `commercial-tiktok` | Scripts de vidéos courtes plan par plan, légendes, hashtags, réponses aux commentaires | « Écris 3 scripts TikTok pour cette semaine » |
 | `graphiste` | Designer : logo et ses déclinaisons, modèles de visuels, visuel de chaque post et design du merch (dans Canva si disponible) | « Crée le visuel du carrousel de mardi » |
+| `jury-contenu` | Note chaque contenu avant sa programmation, à la place des clients visés, avec la grille qualité (cible, confiance, conversion…) : « à publier » ou « à retravailler » | « Est-ce que ce Reel va amener des demandes de bilan ? » |
 
 **Enchaînement des étapes :** calendrier (`responsable-marque`) → textes et
 scripts (`commercial-instagram` / `commercial-tiktok`) → visuels
 (`graphiste`) → contrôle sécurité si le post donne un conseil d'exercice ou
-de nutrition (`coach-securite`) → `controleur-qualite` → **validation de
-simo** → publication par simo. C'est la conversation principale qui lance
-chaque étape. Aucun agent ne publie lui-même.
+de nutrition (`coach-securite`) → `jury-contenu` (8/10 au moins, aucune
+note sous 7) → `controleur-qualite` → programmation automatique dans
+Metricool (demande de simo du 8 octobre 2026), avec un résumé à simo qui
+peut retirer un post. C'est la conversation principale qui lance chaque
+étape. Aucun agent ne publie lui-même. Tous lisent `client-cible.md`,
+`parcours-client.md` et `grille-qualite-contenu.md`.
 
 ## Pôle accueil
 

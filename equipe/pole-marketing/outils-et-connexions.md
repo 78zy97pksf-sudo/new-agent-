@@ -12,6 +12,19 @@ Règle : **outils gratuits uniquement** (voir `regles-publication.md`).
 | **Google Drive** | Ranger les photos, vidéos et visuels exportés (hors du dépôt public) | simo, `graphiste` |
 | **Notion** ou **Google Agenda** (possible) | Suivre le calendrier éditorial si simo préfère à `calendrier-editorial.md` | `responsable-marque`, simo |
 
+## Bien utiliser chaque outil (vérifié le 29 octobre 2026)
+
+| Outil | Ce qu'on en tire | Piège à éviter |
+|---|---|---|
+| **Metricool, statistiques** | `responsable-marque` lit lui-même, chaque semaine, les chiffres post par post (personnes touchées, vues, temps regardé, partages, enregistrements, commentaires, abonnés gagnés et perdus) | Les visites du profil et les clics sur le lien ne sont plus fournis pour ce compte : ne pas les chercher. Les statistiques ne gardent que 30 jours : faire le bilan chaque semaine et le ranger dans `/mnt/project-files/pur-coaching/marketing/stats/` |
+| **Metricool, meilleures heures** (`getBestTimeToPostByNetwork`) | Choisir l'heure de chaque post avec des données. Le 29/10, Instagram : 10 h en tête en semaine, puis 18 h | Tout partait à 18 h ou 19 h sans test : tester une heure à la fois et comparer |
+| **Metricool, programmation** | 20 publications programmées par mois sur le plan gratuit | Chaque place compte : la garder pour les contenus qui passent le `jury-contenu` |
+| **IA d'images de Canva** | Crédit gratuit qui revient le 1er du mois | Le garder pour les visuels « rassurer » et « faire agir » ; la vraie photo de Simon reste le premier choix |
+| **Gmail** | Compter les nouvelles demandes (étiquette `PUR COACHING/1 Prospect`) : c'est le seul chiffre de demandes que les agents lisent eux-mêmes | Ne répondre qu'aux mails de coaching (`../pole-accueil/regles-mails.md`) |
+| **WhatsApp Business et Instagram** (sur le téléphone de simo, gratuits) | Message d'accueil automatique et réponses rapides (WhatsApp Business), réponses enregistrées (Instagram) : simo répond en quelques secondes avec les textes de l'équipe | Aucun agent ne lit ces messages : c'est simo qui les règle une fois et qui répond |
+| **Notion** | Possible pour un suivi des prospects qu'on peut modifier (le Drive ne permet pas aux agents de modifier un fichier existant) | Espace privé de simo seulement, jamais de données de santé ; à décider par simo |
+| **Google Agenda** | Possible page de prise de rendez-vous gratuite pour le bilan (à vérifier sur le compte de simo) | C'est simo qui la crée et qui fixe les rendez-vous |
+
 Rangement conseillé dans Google Drive `[À CONFIRMER PAR SIMO]` :
 `PUR COACHING / Marketing / <année-mois> / photos | vidéos | visuels`.
 
@@ -64,6 +77,8 @@ l'inscription (les offres peuvent changer).
 
 ## Statistiques pour le bilan
 
-Sans outil connecté, simo envoie à `responsable-marque` des captures ou les
-chiffres de l'application (portée, vues, likes, commentaires, partages,
-enregistrements, nouveaux abonnés, messages reçus, clics sur le lien).
+`responsable-marque` lit les chiffres dans Metricool (outils de lecture
+seulement). Ce que Metricool ne donne pas (messages privés, « BILAN »,
+rendez-vous, clients), on le demande à simo une fois par semaine avec une
+question à choix rapide (voir `parcours-client.md`). Si Metricool ne
+marche plus, simo envoie des captures ou les chiffres de l'application.
