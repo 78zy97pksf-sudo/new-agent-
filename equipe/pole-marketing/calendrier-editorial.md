@@ -97,8 +97,8 @@ Images : `medias/semaine-2026-10-19/`.
 | ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
 | sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
 | sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
-| dim. 25/10 10:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Aujourd'hui dure 25 heures (passage à l'heure d'hiver) | « Aujourd'hui dure 25 heures… lis les petites lignes » | en fabrication (équipe montage), puis contrôle image par image |
-| dim. 25/10 10:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Même vidéo sur TikTok | « Aujourd'hui dure 25 heures » | en fabrication |
+| heure d'hiver 2027 (prévu dim. 25/10 10:00) | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Aujourd'hui dure 25 heures (passage à l'heure d'hiver) | « Aujourd'hui dure 25 heures… lis les petites lignes » | rangé le 26/10 : la limite d'utilisation du compte Claude a arrêté l'équipe du jeu. 22 au lun. 26/10 et la date est passée ; fichiers gardés pour le prochain passage à l'heure d'hiver |
+| heure d'hiver 2027 (prévu dim. 25/10 10:30) | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Même vidéo sur TikTok | « Aujourd'hui dure 25 heures » | rangé le 26/10 (voir la ligne Instagram) |
 | dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
 
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
@@ -112,18 +112,28 @@ passent en novembre.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| lun. 26/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (spectateur 6,4), v2 refusée le 21/10 (spectateur 7,2 : propre mais pas encore drôle) ; v3 attendue dim. 25/10 à 20:00 ; vendredi 23, rien ne part à sa place (mieux vaut un jour sans post qu'une vidéo moyenne) |
-| lun. 26/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | v3 en fabrication (voir la ligne Instagram) |
+| ven. 30/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10, puis le 26/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (6,4), v2 refusée le 21/10 (7,2) ; v3 livrée le 26/10 : coach-securite 9,1/10, jury spectateur 8/10, vérifiée image par image ; programmée le 26/10 (id 406419627). **En pause depuis le 29/10** (brouillon Metricool, id 409946862) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
+| ven. 30/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | programmée le 26/10 (id 406419639), hashtags de simo. **En pause depuis le 29/10** (brouillon Metricool, id 409946878) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
 | mar. 27/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG11 La balance ne dit pas tout : d'autres repères | « Le chiffre sur la balance ne dit pas tout. » | contrôlé |
 | mar. 27/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT11 Version TikTok de IG11 | « La balance ne dit pas tout. » | contrôlé |
 | mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
 | jeu. 29/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG12 Séance maison d'environ 20 minutes | « Il fait noir tôt ? Ta séance à la maison. » | contrôlé |
 | jeu. 29/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT12 Version TikTok de IG12 | « Il fait noir tôt ? Séance chez toi. » | contrôlé |
 | ven. 30/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG13 PUR GOLD : ce qui est compris, mot pour mot | « PUR GOLD : un suivi complet pendant 3 mois. » | contrôlé |
-| sam. 31/10 11:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 JE COMMENCE LUNDI : la saga d'horreur (Halloween) | « Histoire vraie : la nôtre. » | en fabrication (équipe montage), puis contrôle image par image ; rien d'Halloween le 1/11 (Toussaint) |
-| sam. 31/10 11:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 Même vidéo sur TikTok | « JE COMMENCE LUNDI » | en fabrication |
+| sam. 31/10 11:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 JE COMMENCE LUNDI : la saga d'horreur (Halloween) | « Histoire vraie : la nôtre. » | programmé le 26/10 (id 406403659) : coach-securite 9,5/10, jury spectateur 8/10, vérifié image par image ; rien d'Halloween le 1/11 (Toussaint). **En pause depuis le 29/10** (brouillon Metricool, id 409946912) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
+| sam. 31/10 11:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 Même vidéo sur TikTok | « JE COMMENCE LUNDI » | programmé le 26/10 (id 406403719), hashtags de simo. **En pause depuis le 29/10** (brouillon Metricool, id 409946936) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
 | dim. 01/11 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT13 Version TikTok de IG13 | « PUR GOLD : ce qui est compris. » | contrôlé |
 | dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
+
+## Semaine 5 (2 au 8 novembre) : rentrée de novembre
+
+Images : `medias/semaine-2026-11-02/`. Le reste du lot (vidéos d'abord, puis
+les carrousels prêts) est programmé par la routine du lundi 2/11.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| mar. 03/11 18:00 | Instagram | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Novembre : choisis ton perso (Marmotte, Fusée ou Tortue ; chute « JOUEUR 2 a rejoint la partie ! ») | « Novembre : choisis ton perso. » | programmé le 26/10 (id 407016505) : coach-securite et jury spectateur 8,1/10, vérifié image par image. **En pause depuis le 29/10** (brouillon Metricool, id 409946956) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
+| mar. 03/11 19:00 | TikTok | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Même vidéo sur TikTok | « Novembre : choisis ton perso 🎮 » | programmé le 26/10 (id 407016526), hashtags de simo. **En pause depuis le 29/10** (brouillon Metricool, id 409946984) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
