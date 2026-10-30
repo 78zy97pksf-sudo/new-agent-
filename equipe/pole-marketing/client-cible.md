@@ -10,8 +10,12 @@ Gardien : `responsable-marque`. simo valide chaque changement.
 **Statut : HYPOTHÈSES à confirmer par simo.** Elles reprennent
 `mon-coaching.md` (adultes débutants à intermédiaires, salle ou maison,
 Huy, préparation marathon, coaching à distance) et l'hypothèse de la carte
-envoyée à simo le 29 octobre 2026 dans le fil Montage vidéos. Dès que simo
-précise qui il veut toucher, on corrige ce fichier en premier.
+envoyée à simo le 29 octobre 2026 dans le fil Montage vidéos. Le
+30 octobre 2026, simo a répondu sur le style des vidéos, pas sur le
+public : « je veux des vidéos générées par IA qui sont incroyables et vont
+amener des vues » (fil Montage) et « des vidéos plus recherchées et qui
+vont réellement toucher du public » (fil com). Dès que simo précise qui il
+veut toucher, on corrige ce fichier en premier.
 
 Les vrais clients ne sont jamais nommés ici (dépôt public). Les prénoms
 ci-dessous sont **inventés**, pour aider à se mettre à leur place.
@@ -24,9 +28,10 @@ Avant d'écrire une seule ligne, on choisit **une** des trois personnes
 ci-dessous. On écrit pour elle, avec ses mots, sur sa situation. Si on ne
 sait pas pour qui est un contenu, il n'est pas prêt.
 
-Ce qui compte, ce n'est pas le nombre de vues : 300 vues d'adultes de la
-région de Huy qui veulent reprendre le sport valent plus que 5 000 vues
-de personnes qui ne seront jamais clientes.
+simo veut des vidéos qui amènent beaucoup de vues : on vise les deux à la
+fois. Une vidéo spectaculaire qui montre la situation de l'une de ces
+personnes attire du monde **et** les bonnes personnes. Des vues de gens
+qui ne seront jamais clients ne remplissent pas l'agenda de Simon.
 
 ## 1. « La reprise » (cœur de cible)
 
@@ -91,6 +96,11 @@ de personnes qui ne seront jamais clientes.
 
 ## Ce qui touche ce public
 
+- **Des vidéos générées par IA vraiment spectaculaires** (choix de simo
+  du 30 octobre 2026) qui mettent en scène sa situation : par exemple
+  « Le Mur », une femme d'une quarantaine d'années qui reprend le sport.
+  Le personnage vit ce que vit la personne visée ; il n'est jamais
+  présenté comme un vrai client ni comme Simon.
 - **Simon lui-même**, visage et voix : c'est ce qui marche le mieux depuis
   le début (« Moi, c'est Simon » : 3 555 personnes touchées et 19 abonnés,
   contre 105 à 180 personnes et presque aucun abonné pour les carrousels
@@ -110,9 +120,10 @@ de personnes qui ne seront jamais clientes.
 ## Ce qui le fait fuir (ou le fait rire sans le faire acheter)
 
 - Un style enfantin : mascottes mignonnes, blagues de jeu vidéo, effets
-  « cartoon ». (Hypothèse, d'après la remarque de simo du 29 octobre
-  2026 sur la direction artistique « à la limite » ; à confirmer par sa
-  réponse.)
+  « cartoon ». (D'après la remarque de simo du 29 octobre 2026 sur la
+  direction artistique « à la limite » ; le 30 octobre, il a choisi des
+  vidéos générées par IA « incroyables », et les shorts dessinés restent
+  en pause.)
 - La culture « muscu frime », les corps parfaits, la culpabilité (« pas
   d'excuses »).
 - Les conseils généraux vus partout, sans Simon et sans situation précise.
@@ -124,7 +135,7 @@ de personnes qui ne seront jamais clientes.
 Avant de valider un contenu, on se pose ces questions, à la place de la
 personne choisie :
 1. Est-ce que je me reconnais tout de suite ?
-2. Est-ce que j'ai plus confiance en Simon après l'avoir vu ?
+2. Est-ce que j'ai plus confiance en Simon après ce contenu ?
 3. Est-ce que je sais exactement quoi faire si je veux aller plus loin,
    et ce que j'y gagne ?
 4. Est-ce qu'un adulte qui va payer un coaching prendrait ça au sérieux ?
@@ -137,3 +148,7 @@ retravaille.
 - 2026-10-29 : création (hypothèses), après la demande de simo de contenus
   « bien plus travaillés et qui vont amener des clients » et sa remarque
   sur la direction artistique.
+- 2026-10-30 : réponse de simo sur le style (vidéos générées par IA
+  « incroyables » qui amènent des vues ; vidéos filmées plus recherchées).
+  Les vidéos IA sont ajoutées à « Ce qui touche ce public ». Le public
+  reste une hypothèse.

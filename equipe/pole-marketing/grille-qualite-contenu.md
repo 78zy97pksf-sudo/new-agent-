@@ -37,7 +37,11 @@ que soit sa note :
 - une mauvaise adresse : le site est seulement https://pur-coaching.github.io/,
   Instagram @simon_ruisseau, TikTok @purcoaching ;
 - un style ou une idée que simo a déjà refusé (voir `lecons.md` et
-  `direction-artistique.md`).
+  `direction-artistique.md`) ;
+- une vidéo ou une image générée par IA qui fait croire à un vrai client
+  ou à Simon, qui montre un « avant / après », ou qui a l'air réelle sans
+  être déclarée « créée avec l'IA » sur Instagram et TikTok (règle des
+  deux réseaux).
 
 ## 2. Les 7 notes (sur 10)
 
@@ -57,9 +61,16 @@ moins**.
 
 Pour une vidéo, on garde aussi les règles des leçons du 20 octobre 2026 :
 aucun moment de plus d'une seconde sans rien de nouveau à l'écran, gags
-assez grands pour un téléphone, Simon visible dans les
-2 premières secondes, un écran de fin propre avec « PUR COACHING »
-lisible.
+assez grands pour un téléphone, une personne visible dans les
+2 premières secondes (Simon dans une vidéo filmée ; dans une vidéo
+générée par IA, le personnage qui vit la situation de la personne visée),
+un écran de fin propre avec « PUR COACHING » lisible.
+
+Pour une **vidéo générée par IA** (choix de simo du 30 octobre 2026 :
+des vidéos « incroyables » qui amènent des vues), on la juge comme une
+vraie vidéo : est-ce qu'elle impressionne vraiment, est-ce que la personne
+visée se reconnaît ? Simon y est présent par sa voix, son nom ou sa photo
+sur l'écran de fin, ce qui compte pour la note **Confiance**.
 
 ## 3. Bien utiliser l'IA (méthode des auteurs)
 
@@ -98,3 +109,6 @@ lisible.
 
 - 2026-10-29 : création, à la demande de simo (contenus « bien plus
   travaillés et qui vont amener des clients »).
+- 2026-10-30 : vidéos générées par IA (choix de simo) : règles ajoutées,
+  « une personne visible dans les 2 premières secondes » au lieu de
+  « Simon » pour ces vidéos.
