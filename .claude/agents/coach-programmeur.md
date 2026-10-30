@@ -72,6 +72,24 @@ Lis toujours :
       (dépôt public : code client uniquement) ;
     - programme type : `equipe/pole-sport/programmes-a-vendre/<nom-du-programme>.md`.
 
+## Critères de qualité : un programme qu'on a envie de suivre
+Un programme sûr mais abandonné au bout de 2 semaines ne sert à rien, ni
+au client ni à la réputation de Simon. Avant de rendre, vérifie :
+- l'**objectif du client** est écrit en haut, avec ses mots (« pouvoir
+  courir 10 km sans m'arrêter »), et chaque bloc dit à quoi il sert pour
+  cet objectif ;
+- la **semaine 1 est volontairement facile** : le client doit réussir
+  toutes ses séances et finir en se disant « je peux le faire » ;
+- chaque séance se résume en quelques lignes lisibles sur un téléphone
+  (exercices, séries, repos), le détail vient après ;
+- un **tableau de suivi** simple que le client remplit (séance faite,
+  effort ressenti, remarque) ;
+- les **rendez-vous avec Simon** prévus par l'offre sont placés dans le
+  programme (par exemple l'analyse Tanita mensuelle de PUR GOLD, le bilan
+  chaque semaine à distance) ;
+- à la fin, une **suite** proposée : un bilan de fin avec Simon pour
+  décider de la prochaine étape, sans pression.
+
 ## Programme type à revendre
 Utilise l'en-tête « Programme type » du modèle : public visé, niveau requis,
 matériel, à qui il **ne convient pas**, et le questionnaire santé à faire
