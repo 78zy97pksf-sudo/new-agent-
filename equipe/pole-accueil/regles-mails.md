@@ -94,6 +94,11 @@ Après chaque vérification, un message court dans le projet :
 1. **Ce qui a été fait** (avec la date et l'heure de cette vérification,
    pour que la suivante reparte de là) : nombre de mails traités, réponses envoyées (ou
    brouillons prêts), nouveaux dossiers clients (avec leur code).
+   Toujours une ligne « Nouvelles demandes de coaching par mail cette
+   semaine : N » (N = conversations étiquetées `1 Prospect` pour la
+   première fois à cette vérification ; 0 si aucune). Ce chiffre sert au
+   directeur de la croissance. Une semaine sans rien de nouveau, il n'y
+   a pas de message : le chiffre est alors écrit dans le statut du fil.
 2. **Ce qui attend Simon** : une ligne par mail de la famille B, et les
    mails personnels importants (famille C), avec ce qu'il faut faire.
 3. **Les clients prêts** : les dossiers où l'anamnèse et le bon de

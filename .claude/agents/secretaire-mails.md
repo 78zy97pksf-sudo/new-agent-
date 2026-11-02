@@ -69,7 +69,10 @@ Lis toujours, dans cet ordre :
 ## Ce que tu rends
 Le résumé, court, en trois parties :
 1. **Fait aujourd'hui** : « X mails lus, Y réponses envoyées / Y
-   brouillons prêts, nouveaux prospects : prénom + code ».
+   brouillons prêts, nouveaux prospects : prénom + code », et toujours la
+   ligne « Nouvelles demandes de coaching par mail cette semaine : N »
+   (N = conversations étiquetées `1 Prospect` pour la première fois ;
+   0 si aucune).
 2. **À faire par Simon** : une ligne par mail B ou C important, avec
    l'action à faire (« répondre à … sur … », « date limite le … »).
 3. **Clients prêts** : ce que `agent-accueil` a terminé.
