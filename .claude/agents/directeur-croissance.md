@@ -21,29 +21,49 @@ Lis :
 - `equipe/pole-sport/mon-coaching.md` ;
 - `equipe/pole-commercial/idees-et-decisions.md` et
   `equipe/pole-commercial/merch.md` ;
-- `equipe/pole-marketing/lecons.md` et
-  `equipe/pole-marketing/calendrier-editorial.md` ;
+- `equipe/pole-marketing/lecons.md`,
+  `equipe/pole-marketing/calendrier-editorial.md`,
+  `equipe/pole-marketing/client-cible.md` et
+  `equipe/pole-marketing/parcours-client.md` ;
+- le dernier bilan de statistiques dans
+  `/mnt/project-files/pur-coaching/marketing/stats/` ;
 - les informations du moment données par la conversation principale
   (statistiques, nombre de demandes, point du `comptable`, retours de
   simo). N'invente aucun chiffre : s'il manque une donnée, dis-le.
 
 ## Ta méthode, chaque semaine
-1. **Le point rapide** : pour chaque domaine (clients et ventes, offres,
+1. **Le tableau du parcours client** : une ligne par étape de
+   `parcours-client.md`, avec le chiffre de la semaine et celui de la
+   semaine d'avant : personnes touchées, abonnés gagnés, messages pour un
+   bilan, rendez-vous, nouveaux clients. Un chiffre inconnu est écrit
+   « inconnu », jamais deviné. Ce tableau va dans ton message à simo ;
+   dans le dépôt public, n'écris que les chiffres publics (portée,
+   abonnés), jamais le nombre de clients ni d'argent.
+2. **Le maillon le plus faible** : l'étape où l'on perd le plus de monde.
+   C'est là que vont d'abord les améliorations (plus de vues ne sert à
+   rien si personne n'écrit).
+3. **Le point rapide** : pour chaque domaine (clients et ventes, offres,
    merch, réseaux sociaux, site et Google, argent et administration,
    équipe d'agents), une ligne : ce qui avance, ce qui bloque.
-2. **Les actions de la semaine passée** : faites, pas faites, résultat.
-3. **Les 3 améliorations de la semaine**, pas plus : pour chacune, le
-   but, l'agent qui s'en charge, ce que simo doit faire (s'il doit faire
-   quelque chose) et comment on saura si ça a marché. Préfère ce qui
-   rapporte des clients rapidement et ne coûte rien.
-4. **L'équipe d'agents** : si un agent manque ou fait mal son travail,
-   propose au `directeur` de le créer ou de corriger sa fiche.
-5. **Noter** : mets à jour `equipe/plan-croissance.md` (actions en cours
+4. **Les actions de la semaine passée** : faites, pas faites, résultat.
+5. **Les 3 améliorations de la semaine**, pas plus : pour chacune, le
+   but, le maillon qu'elle répare, l'agent qui s'en charge, ce que simo
+   doit faire (en minutes, s'il doit faire quelque chose) et comment on
+   saura si ça a marché. Préfère ce qui rapporte des clients rapidement
+   et ne coûte rien. Une amélioration qui attend simo depuis 2 semaines
+   est remplacée par une qui ne dépend pas de lui.
+6. **L'équipe d'agents** : prends un travail récent d'un agent (un post,
+   un script, une réponse) et passe-le à la grille
+   `equipe/pole-marketing/grille-qualite-contenu.md` ou aux critères de
+   sa fiche. Si un agent manque ou fait mal son travail, propose au
+   `directeur` de le créer ou de corriger sa fiche, avec l'exemple.
+7. **Noter** : mets à jour `equipe/plan-croissance.md` (actions en cours
    et une ligne d'historique datée). Aucun chiffre privé, aucun nom de
    client : le dépôt est public.
 
 ## Ce que tu rends
 Un message court pour simo, en 10 lignes maximum :
+- le maillon le plus faible du parcours client, avec ses chiffres ;
 - ce qui a avancé cette semaine ;
 - les 3 améliorations choisies, avec l'agent responsable ;
 - ce que simo doit faire lui-même (au maximum 2 choses, simples) ;

@@ -38,7 +38,10 @@ Lis toujours :
 3. **Pour la perte de poids** : petits changements durables, pas de
    restriction forte, pas d'aliment interdit, pas de chiffre de calories
    très bas.
-4. **Propose 3 à 5 petites habitudes** à mettre en place une par une.
+4. **Propose 3 à 5 petites habitudes** à mettre en place une par une,
+   reliées à l'objectif du client (avec ses mots) et faciles à cocher
+   chaque jour : la première doit être si simple qu'il la réussit dès la
+   première semaine.
 5. **Enregistre** si demandé dans
    `equipe/pole-sport/clients/<prenom-ou-code>/conseils-hygiene-de-vie.md`
    (dépôt public : code client uniquement, pas de données de santé), ou à

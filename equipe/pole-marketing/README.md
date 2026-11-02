@@ -1,15 +1,18 @@
 # Le pôle marketing
 
-Le pôle marketing fait vivre la marque **PUR COACHING** sur
-Instagram (**@pur.coaching**) et TikTok : il prépare les publications, les
+Le pôle marketing fait vivre la marque **PUR COACHING** sur Instagram
+(compte officiel de Simon, **@simon_ruisseau**) et TikTok (**@purcoaching**, anciennement @Simson_laD) :
+il prépare les publications, les
 visuels, les réponses aux messages, et améliore la marque au fil du temps
 grâce aux statistiques.
 
-## ATTENTION : rien n'est publié sans l'accord de simo
+## ATTENTION : qui décide de publier
 
-Aucun agent ne publie lui-même. Chaque post (ou chaque lot de posts) est
-**validé par simo** avant d'être publié ou programmé. Voir
-`regles-publication.md`.
+Aucun agent ne publie lui-même. Depuis le 8 octobre 2026, à la demande de
+simo, la conversation principale programme les posts dans Metricool en
+publication automatique, mais **seulement** après les contrôles
+(`coach-securite` si conseil, `controleur-qualite`). simo reçoit un
+résumé et peut faire retirer un post. Voir `regles-publication.md`.
 
 ## ATTENTION : le dépôt GitHub est PUBLIC
 
@@ -24,6 +27,7 @@ données de santé, statistiques privées détaillées, mots de passe.
 | `commercial-instagram` | Écrit les posts, carrousels, scripts de Reels, stories, légendes, hashtags et modèles de réponses en message privé |
 | `commercial-tiktok` | Écrit les scripts de vidéos courtes, légendes, hashtags et réponses aux commentaires |
 | `graphiste` | Identité visuelle, modèles de visuels et visuel de chaque post (dans Canva si la connexion est disponible) |
+| `jury-contenu` | Note chaque contenu avant sa programmation, à la place des clients visés (grille qualité) |
 | `coach-securite` | (pôle sport) Vérifie tout post qui donne un conseil d'exercice ou de nutrition |
 | `controleur-qualite` | (équipe générale) Relit la forme : clarté, fautes, respect des règles |
 
@@ -31,8 +35,16 @@ données de santé, statistiques privées détaillées, mots de passe.
 
 - `../pole-sport/mon-coaching.md` : qui est Simon, ses offres et ses prix,
   son ton. **Les offres et les prix ne sont écrits que là.**
+- `client-cible.md` : à qui on parle (« La reprise », « Le coureur »,
+  « Le pressé à distance »), ce qui les touche et ce qui les fait fuir.
+- `parcours-client.md` : de la vue au client (attirer, rassurer, faire
+  agir, répondre, fidéliser), l'appel à l'action de chaque étape, le bon
+  mélange et ce qu'on mesure.
+- `grille-qualite-contenu.md` : les points bloquants, les 7 notes et le
+  seuil pour publier, et la méthode pour bien utiliser l'IA.
 - `charte-marque.md` : couleurs, logo, polices, ton, piliers de contenu,
   mots à éviter.
+- `direction-artistique.md` : le style des visuels et des vidéos.
 - `regles-publication.md` : les règles strictes. Elles passent avant tout
   le reste.
 - `lecons.md` : ce qui marche, ce qui ne marche pas, et les corrections de
@@ -45,13 +57,18 @@ données de santé, statistiques privées détaillées, mots de passe.
 
 ## Rythme par défaut
 
-3 posts Instagram et 3 vidéos TikTok par semaine. `[À CONFIRMER PAR SIMO]`
+Le plan gratuit de Metricool permet **20 publications programmées par
+mois**, tous réseaux confondus : environ 10 sur Instagram et 10 sur
+TikTok, soit 2 à 3 par semaine et par réseau (le mélange est dans
+`parcours-client.md`). simo peut publier en plus depuis son téléphone.
+`[À CONFIRMER PAR SIMO]`
 
 ## Les étapes pour une publication, dans l'ordre
 
 1. **Calendrier** — `responsable-marque`
    Prépare le calendrier du mois (ou de la semaine) dans
-   `calendrier-editorial.md` : date, réseau, format, pilier, sujet, accroche.
+   `calendrier-editorial.md` : date et heure, réseau, format, personne
+   visée, étape du parcours, pilier, sujet, accroche.
 2. **Textes et scripts** — `commercial-instagram` et/ou `commercial-tiktok`
    Écrivent le post prêt à copier-coller (texte, légende, hashtags, appel à
    l'action) et la description du visuel voulu.
@@ -60,14 +77,20 @@ données de santé, statistiques privées détaillées, mots de passe.
    n'est pas disponible).
 4. **Contrôle sécurité** (seulement si le post donne un conseil d'exercice
    ou de nutrition) — `coach-securite`.
-5. **Contrôle de la forme** — `controleur-qualite`
+5. **Jury** — `jury-contenu`
+   Note le contenu à la place des clients visés, avec
+   `grille-qualite-contenu.md` : on ne publie qu'à 8/10 ou plus, sans
+   note sous 7. Deux versions au maximum, ensuite on change d'idée.
+6. **Contrôle de la forme** — `controleur-qualite`
    Vérifie la clarté, les fautes et le respect de `regles-publication.md`.
-6. **Validation de simo** — simo relit et dit « OK » (ou demande des
-   changements).
-7. **Publication** — simo publie lui-même, ou programme avec l'outil de
-   publication (voir `outils-et-connexions.md`).
-8. **Bilan** (chaque semaine ou chaque mois) — `responsable-marque`
-   Analyse les statistiques et écrit les leçons dans `lecons.md`.
+7. **Programmation automatique** — la conversation principale programme
+   le post dans Metricool et envoie le résumé à simo, qui peut demander un
+   changement avant la sortie (voir `outils-et-connexions.md`).
+8. **Publication** — Metricool publie le post à l'heure prévue.
+9. **Bilan** (chaque semaine) — `responsable-marque`
+   Lit les statistiques dans Metricool, juge chaque contenu sur son étape
+   du parcours client, trouve le maillon le plus faible et écrit les
+   leçons dans `lecons.md`.
 
 ## Important : qui lance les étapes ?
 

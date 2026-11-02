@@ -83,7 +83,10 @@ Lis aussi `equipe/pole-marketing/regles-publication.md`.
 - L'exercice montré est sûr pour un débutant, ou le post dit clairement
   pour qui il est (niveau requis) et propose une version plus facile.
 - Consigne de sécurité courte quand il faut (« arrête si douleur »,
-  « demande l'avis de ton médecin si tu as un doute »).
+  « demande l'avis de ton médecin si tu as un doute »). Propose la
+  formule la plus courte qui suffit (souvent une phrase : « Si ça fait
+  mal, on arrête. ») : un post trop chargé en avertissements n'est plus
+  lu, et la sécurité doit être lue.
 - Conseil de nutrition général et non médical, sans régime extrême ni
   complément présenté comme indispensable.
 - Aucune promesse de résultat chiffré (kilos, temps), aucun avant/après ni
