@@ -134,6 +134,8 @@ les carrousels prêts) est programmé par la routine du lundi 2/11.
 |---|---|---|---|---|---|---|
 | mar. 03/11 18:00 | Instagram | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Novembre : choisis ton perso (Marmotte, Fusée ou Tortue ; chute « JOUEUR 2 a rejoint la partie ! ») | « Novembre : choisis ton perso. » | programmé le 26/10 (id 407016505) : coach-securite et jury spectateur 8,1/10, vérifié image par image. **En pause depuis le 29/10** (brouillon Metricool, id 409946956) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
 | mar. 03/11 19:00 | TikTok | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Même vidéo sur TikTok | « Novembre : choisis ton perso 🎮 » | programmé le 26/10 (id 407016526), hashtags de simo. **En pause depuis le 29/10** (brouillon Metricool, id 409946984) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
+| jeu. 05/11 18:00 | Instagram | Reel 9:16 (10,1 s, vidéo IA, musique de l'équipe) | Faire agir | VIDEO-IA-1 Dans ta tête / En vrai : l'escalier sans fin, puis les petites marches ; appel Tanita 15 € « BILAN » | « Dans ta tête, reprendre le sport, c'est un escalier sans fin » | programmé le 4/11 (id 416971383), étiquette IA ; jury 7,6/10, publié sur décision de simo (« Publier ainsi », 4/11) |
+| jeu. 05/11 19:00 | TikTok | Vidéo 9:16 (10,1 s, vidéo IA) | Faire agir | VIDEO-IA-1 Même vidéo sur TikTok | « Dans ta tête : un escalier sans fin » | programmé le 4/11 (id 416971403), étiquette IA, hashtags de simo |
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
