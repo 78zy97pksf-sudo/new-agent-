@@ -137,6 +137,16 @@ les carrousels prêts) est programmé par la routine du lundi 2/11.
 | jeu. 05/11 18:00 | Instagram | Reel 9:16 (10,1 s, vidéo IA, musique de l'équipe) | Faire agir | VIDEO-IA-1 Dans ta tête / En vrai : l'escalier sans fin, puis les petites marches ; appel Tanita 15 € « BILAN » | « Dans ta tête, reprendre le sport, c'est un escalier sans fin » | programmé le 4/11 (id 416971383), étiquette IA ; jury 7,6/10, publié sur décision de simo (« Publier ainsi », 4/11) |
 | jeu. 05/11 19:00 | TikTok | Vidéo 9:16 (10,1 s, vidéo IA) | Faire agir | VIDEO-IA-1 Même vidéo sur TikTok | « Dans ta tête : un escalier sans fin » | programmé le 4/11 (id 416971403), étiquette IA, hashtags de simo |
 
+## Semaine 6 (9 au 15 novembre) : série « Dans ta tête / En vrai »
+
+Images : `medias/semaine-2026-11-09/`. Le reste du lot est décidé par la
+routine du lundi 9/11.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| jeu. 12/11 18:00 | Instagram | Reel 9:16 (10,8 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-2 Dans ta tête / En vrai, épisode 2 : à la salle, tout le monde te regarde ; en vrai, chacun est dans sa bulle ; appel « qu'est-ce qui te bloque ? » en commentaire | « Dans ta tête, à la salle, tout le monde te regarde. » | programmé le 4/11 (id 417054504), étiquette IA ; jury 8,1/10, coach-securite 9/10 |
+| jeu. 12/11 19:00 | TikTok | Vidéo 9:16 (10,8 s, vidéo IA) | Communauté | VIDEO-IA-2 Même vidéo sur TikTok | « Dans ta tête : tous te regardent » | programmé le 4/11 (id 417054516), étiquette IA, hashtags de simo, couverture à 1 s |
+
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
 

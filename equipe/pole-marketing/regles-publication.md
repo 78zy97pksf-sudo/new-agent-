@@ -50,6 +50,12 @@ demande à simo.
 - Un post qui donne un conseil d'exercice ou de nutrition passe par
   `coach-securite` avant publication (voir
   `equipe/pole-sport/regles-securite.md`).
+- **Réponses aux commentaires** (consigne de coach-securite, 4/11, série
+  « Dans ta tête / En vrai ») : quand un commentaire parle de santé (mal de
+  dos, cœur, grossesse, blessure…), aucun diagnostic et aucun conseil
+  d'exercice ; on répond seulement « Demande d'abord l'avis de ton
+  médecin ». Un épisode tiré des commentaires ne cite jamais le nom de la
+  personne ni son problème de santé.
 
 ## d) Ne rien inventer
 
