@@ -144,8 +144,8 @@ routine du lundi 9/11.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| jeu. 12/11 18:00 | Instagram | Reel 9:16 (10,8 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-2 Dans ta tête / En vrai, épisode 2 : à la salle, tout le monde te regarde ; en vrai, chacun est dans sa bulle ; appel « qu'est-ce qui te bloque ? » en commentaire | « Dans ta tête, à la salle, tout le monde te regarde. » | programmé le 4/11 (id 417054504), étiquette IA ; jury 8,1/10, coach-securite 9/10 |
-| jeu. 12/11 19:00 | TikTok | Vidéo 9:16 (10,8 s, vidéo IA) | Communauté | VIDEO-IA-2 Même vidéo sur TikTok | « Dans ta tête : tous te regardent » | programmé le 4/11 (id 417054516, nouvel id 421415110 le 9/11), étiquette IA, hashtags de simo, couverture à 1 s ; **test du 9/11** : la légende propose 3 réponses à choisir en commentaire (relevé le 16/11, objectif 5 commentaires) |
+| jeu. 12/11 18:00 | Instagram | Reel 9:16 (10,8 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-2 Dans ta tête / En vrai, épisode 2 : à la salle, tout le monde te regarde ; en vrai, chacun est dans sa bulle ; appel « qu'est-ce qui te bloque ? » en commentaire | « Dans ta tête, à la salle, tout le monde te regarde. » | programmé le 4/11 (id 417054504, nouvel id 423051280 le 10/11), étiquette IA ; jury 8,1/10, coach-securite 9/10 ; 1er commentaire ajouté le 10/11 (réponses 1, 2 ou 3) |
+| jeu. 12/11 18:00 | TikTok | Vidéo 9:16 (10,8 s, vidéo IA) | Communauté | VIDEO-IA-2 Même vidéo sur TikTok | « Dans ta tête : tous te regardent » | programmé le 4/11 (id 417054516, puis 421415110 le 9/11, puis 423051294 le 10/11 : passé de 19:00 à 18:00, meilleure heure TikTok du jeudi), étiquette IA, hashtags de simo, couverture à 1 s ; **test du 9/11** : la légende propose 3 réponses à choisir en commentaire (relevé le 16/11, objectif 5 commentaires) |
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
