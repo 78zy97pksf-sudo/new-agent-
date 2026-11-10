@@ -147,6 +147,20 @@ routine du lundi 9/11.
 | jeu. 12/11 18:00 | Instagram | Reel 9:16 (10,8 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-2 Dans ta tête / En vrai, épisode 2 : à la salle, tout le monde te regarde ; en vrai, chacun est dans sa bulle ; appel « qu'est-ce qui te bloque ? » en commentaire | « Dans ta tête, à la salle, tout le monde te regarde. » | programmé le 4/11 (id 417054504, nouvel id 423051280 le 10/11), étiquette IA ; jury 8,1/10, coach-securite 9/10 ; 1er commentaire ajouté le 10/11 (réponses 1, 2 ou 3) |
 | jeu. 12/11 18:00 | TikTok | Vidéo 9:16 (10,8 s, vidéo IA) | Communauté | VIDEO-IA-2 Même vidéo sur TikTok | « Dans ta tête : tous te regardent » | programmé le 4/11 (id 417054516, puis 421415110 le 9/11, puis 423051294 le 10/11 : passé de 19:00 à 18:00, meilleure heure TikTok du jeudi), étiquette IA, hashtags de simo, couverture à 1 s ; **test du 9/11** : la légende propose 3 réponses à choisir en commentaire (relevé le 16/11, objectif 5 commentaires) |
 
+## Semaine 7 (16 au 22 novembre) : série « Dans ta tête / En vrai »
+
+Images : `medias/semaine-2026-11-16/`. Le reste du lot est décidé par la
+routine du lundi 16/11. Places Metricool de novembre : 9 prises sur 20.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| jeu. 19/11 18:00 | Instagram | Reel 9:16 (10,4 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-3 Dans ta tête / En vrai, épisode 3 : « J'ai pas le temps » ; dans ta tête, 2 h de sport par jour ; en vrai, 20 minutes comptent déjà ; question « tes 20 minutes, tu les mets quand ? » (1 matin, 2 midi, 3 soir) | « Pas le temps pour le sport ? » | programmé le 10/11 (id 423145533), étiquette IA, 1er commentaire avec les réponses 1, 2 ou 3 ; jury 8,1/10, coach-securite 8,5/10 ; vérifié image par image |
+| jeu. 19/11 18:00 | TikTok | Vidéo 9:16 (10,4 s, vidéo IA) | Communauté | VIDEO-IA-3 Même vidéo sur TikTok | « Dans ta tête : 2 h par jour » | programmé le 10/11 (id 423145551), étiquette IA, couverture à 0,8 s (l'horloge et le texte), question à choix dans la légende |
+
+Promesse faite dans l'épisode 3 : « La semaine prochaine : ta séance de
+20 minutes, prête à faire. » Le post de suivi sort au plus tard jeudi 26/11
+(visé mardi 24/11), relu par coach-securite avant de partir.
+
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
 
