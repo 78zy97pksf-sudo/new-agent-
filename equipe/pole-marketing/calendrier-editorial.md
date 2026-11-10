@@ -90,15 +90,15 @@ Images : `medias/semaine-2026-10-19/`.
 | à dater (octobre) | TikTok | Vidéo 9:16 (16,2 s, son original) | Simon en avant | REEL-V2-2 Même vidéo sur TikTok | « Dans ma tête pendant une série » | mis de côté le 19/10 : le nouveau Reel « Notifs » remontrait l'écarté une 3e fois (simo : vidéos trop répétitives) ; ces brouillons servent au short d'Halloween du 31/10 |
 | mar. 20/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG7 (Re)commencer à courir : 3 conseils | « Tu veux (re)commencer à courir ? » | contrôlé |
 | mar. 20/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT7 Version TikTok de IG7 | « (Re)commencer à courir » | contrôlé |
-| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | reporté en novembre le 19/10 (le curl est déjà passé le 13/10, et deux vidéos de la même séance ne se suivent plus) ; ses posts servent au short du 23/10 |
-| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | reporté en novembre le 19/10 (le curl est déjà passé le 13/10, et deux vidéos de la même séance ne se suivent plus) ; ses posts servent au short du 23/10 |
+| mer. 21/10 18:00 | Instagram | Reel 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même moi, je fais cette erreur : curl au pupitre (remplace REEL-C) | « Même moi, je fais cette erreur » | reporté en novembre le 19/10 (le curl est déjà passé le 13/10, et deux vidéos de la même séance ne se suivent plus) ; ses posts servent au short du 23/10. **Abandonné le 9/11** : jury contenu 7,4/10 (il parle aux habitués de la muscu, pas à « La reprise ») |
+| mer. 21/10 19:00 | TikTok | Vidéo 9:16 (12,6 s, son original) | Conseils | REEL-V2-3 Même vidéo sur TikTok | « Même moi, je fais cette erreur » | reporté en novembre le 19/10 (le curl est déjà passé le 13/10, et deux vidéos de la même séance ne se suivent plus) ; ses posts servent au short du 23/10. **Abandonné le 9/11** : jury contenu 7,4/10 (il parle aux habitués de la muscu, pas à « La reprise ») |
 | jeu. 22/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG8 La VMA expliquée simplement | « Ta VMA, c'est quoi ? Et à quoi elle sert ? » | contrôlé |
 | jeu. 22/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT8 Version TikTok de IG8 | « Ta VMA, c'est quoi ? » | contrôlé |
 | ven. 23/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG9 PUR GOLD et PUR TRACK, mot pour mot | « Une course en vue ? » | contrôlé |
 | sam. 24/10 18:00 | Instagram | Reel 9:16 (11 s, son original) | Jeu | REEL-V2-4 Devine le poids (remplace REEL-D ; l'ami de Simon, accord écrit, jamais nommé) | « 20, 28 ou 36 kg ? » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
 | sam. 24/10 19:00 | TikTok | Vidéo 9:16 (11 s, son original) | Jeu | REEL-V2-4 Même vidéo sur TikTok | « Devine le poids » | simo le publie lui-même (son choix du 19/10, visage de son partenaire visible) ; posts Metricool en brouillon, réutilisés pour le short du 25/10 |
-| dim. 25/10 10:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Aujourd'hui dure 25 heures (passage à l'heure d'hiver) | « Aujourd'hui dure 25 heures… lis les petites lignes » | en fabrication (équipe montage), puis contrôle image par image |
-| dim. 25/10 10:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Même vidéo sur TikTok | « Aujourd'hui dure 25 heures » | en fabrication |
+| heure d'hiver 2027 (prévu dim. 25/10 10:00) | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Aujourd'hui dure 25 heures (passage à l'heure d'hiver) | « Aujourd'hui dure 25 heures… lis les petites lignes » | rangé le 26/10 : la limite d'utilisation du compte Claude a arrêté l'équipe du jeu. 22 au lun. 26/10 et la date est passée ; fichiers gardés pour le prochain passage à l'heure d'hiver |
+| heure d'hiver 2027 (prévu dim. 25/10 10:30) | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-2 Même vidéo sur TikTok | « Aujourd'hui dure 25 heures » | rangé le 26/10 (voir la ligne Instagram) |
 | dim. 25/10 12:30 | TikTok | Carrousel photo 9:16 | Conseils | TT10 Heure d'hiver : 4 réflexes pour courir le soir | « Ce soir, il fera noir plus tôt. » | contrôlé |
 
 ## Semaine 4 (26 octobre au 1er novembre) : progrès, séance maison, offre PUR GOLD
@@ -112,18 +112,54 @@ passent en novembre.
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| lun. 26/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (spectateur 6,4), v2 refusée le 21/10 (spectateur 7,2 : propre mais pas encore drôle) ; v3 attendue dim. 25/10 à 20:00 ; vendredi 23, rien ne part à sa place (mieux vaut un jour sans post qu'une vidéo moyenne) |
-| lun. 26/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | v3 en fabrication (voir la ligne Instagram) |
+| ven. 30/10 18:00 | Instagram | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Météo de ce soir : alerte orange au plaid (prévu le 23/10, puis le 26/10) | « Huy, ce soir : alerte orange au plaid. » | v1 refusée le 20/10 (6,4), v2 refusée le 21/10 (7,2) ; v3 livrée le 26/10 : coach-securite 9,1/10, jury spectateur 8/10, vérifiée image par image ; programmée le 26/10 (id 406419627). **En pause depuis le 29/10** (brouillon Metricool, id 409946862) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
+| ven. 30/10 19:00 | TikTok | Short animé 9:16 (sans tournage) | Humour | SHORT-IA-1 Même vidéo sur TikTok | « Alerte orange au plaid » | programmée le 26/10 (id 406419639), hashtags de simo. **En pause depuis le 29/10** (brouillon Metricool, id 409946878) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
 | mar. 27/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG11 La balance ne dit pas tout : d'autres repères | « Le chiffre sur la balance ne dit pas tout. » | contrôlé |
 | mar. 27/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT11 Version TikTok de IG11 | « La balance ne dit pas tout. » | contrôlé |
 | mer. 28/10 18:00 | Instagram | Reel 9:16 (15 s, son original) | Conseils | REEL-V2-5 Moi… vu d'en haut : se filmer au développé couché | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
 | jeu. 29/10 18:00 | Instagram | Carrousel 4:5 | Conseils | IG12 Séance maison d'environ 20 minutes | « Il fait noir tôt ? Ta séance à la maison. » | contrôlé |
 | jeu. 29/10 19:00 | TikTok | Carrousel photo 9:16 | Conseils | TT12 Version TikTok de IG12 | « Il fait noir tôt ? Séance chez toi. » | contrôlé |
 | ven. 30/10 12:30 | Instagram | Carrousel 4:5 | Offres | IG13 PUR GOLD : ce qui est compris, mot pour mot | « PUR GOLD : un suivi complet pendant 3 mois. » | contrôlé |
-| sam. 31/10 11:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 JE COMMENCE LUNDI : la saga d'horreur (Halloween) | « Histoire vraie : la nôtre. » | en fabrication (équipe montage), puis contrôle image par image ; rien d'Halloween le 1/11 (Toussaint) |
-| sam. 31/10 11:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 Même vidéo sur TikTok | « JE COMMENCE LUNDI » | en fabrication |
+| sam. 31/10 11:00 | Instagram | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 JE COMMENCE LUNDI : la saga d'horreur (Halloween) | « Histoire vraie : la nôtre. » | programmé le 26/10 (id 406403659) : coach-securite 9,5/10, jury spectateur 8/10, vérifié image par image ; rien d'Halloween le 1/11 (Toussaint). **En pause depuis le 29/10** (brouillon Metricool, id 409946912) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. **Abandonné le 4/11** (simo : « Halloween est passé on oublie celui là ») : ne sera jamais publié. |
+| sam. 31/10 11:30 | TikTok | Short animé 9:16 (sans tournage) | Moment | SHORT-IA-3 Même vidéo sur TikTok | « JE COMMENCE LUNDI » | programmé le 26/10 (id 406403719), hashtags de simo. **En pause depuis le 29/10** (brouillon Metricool, id 409946936) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. **Abandonné le 4/11** (simo : « Halloween est passé on oublie celui là ») : ne sera jamais publié. |
 | dim. 01/11 12:30 | TikTok | Carrousel photo 9:16 | Offres | TT13 Version TikTok de IG13 | « PUR GOLD : ce qui est compris. » | contrôlé |
 | dim. 01/11 19:00 | TikTok | Vidéo 9:16 (15 s, son original) | Conseils | REEL-V2-5 Même vidéo sur TikTok | « Moi… vu d'en haut » | programmé ; version du 20/10 (REEL-V4-5) : s'ouvre directement sur la vue du dessus, plus aucun plan de l'écarté |
+
+## Semaine 5 (2 au 8 novembre) : rentrée de novembre
+
+Images : `medias/semaine-2026-11-02/`. Le reste du lot (vidéos d'abord, puis
+les carrousels prêts) est programmé par la routine du lundi 2/11.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| mar. 03/11 18:00 | Instagram | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Novembre : choisis ton perso (Marmotte, Fusée ou Tortue ; chute « JOUEUR 2 a rejoint la partie ! ») | « Novembre : choisis ton perso. » | programmé le 26/10 (id 407016505) : coach-securite et jury spectateur 8,1/10, vérifié image par image. **En pause depuis le 29/10** (brouillon Metricool, id 409946956) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
+| mar. 03/11 19:00 | TikTok | Short animé 9:16 (14,7 s, sans tournage) | Moment | SHORT-IA-4 Même vidéo sur TikTok | « Novembre : choisis ton perso 🎮 » | programmé le 26/10 (id 407016526), hashtags de simo. **En pause depuis le 29/10** (brouillon Metricool, id 409946984) : simo trouve la direction artistique « à la limite » ; on attend sa réponse. |
+| jeu. 05/11 18:00 | Instagram | Reel 9:16 (10,1 s, vidéo IA, musique de l'équipe) | Faire agir | VIDEO-IA-1 Dans ta tête / En vrai : l'escalier sans fin, puis les petites marches ; appel Tanita 15 € « BILAN » | « Dans ta tête, reprendre le sport, c'est un escalier sans fin » | programmé le 4/11 (id 416971383), étiquette IA ; jury 7,6/10, publié sur décision de simo (« Publier ainsi », 4/11) |
+| jeu. 05/11 19:00 | TikTok | Vidéo 9:16 (10,1 s, vidéo IA) | Faire agir | VIDEO-IA-1 Même vidéo sur TikTok | « Dans ta tête : un escalier sans fin » | programmé le 4/11 (id 416971403), étiquette IA, hashtags de simo |
+
+## Semaine 6 (9 au 15 novembre) : série « Dans ta tête / En vrai »
+
+Images : `medias/semaine-2026-11-09/`. Le reste du lot est décidé par la
+routine du lundi 9/11.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| jeu. 12/11 18:00 | Instagram | Reel 9:16 (10,8 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-2 Dans ta tête / En vrai, épisode 2 : à la salle, tout le monde te regarde ; en vrai, chacun est dans sa bulle ; appel « qu'est-ce qui te bloque ? » en commentaire | « Dans ta tête, à la salle, tout le monde te regarde. » | programmé le 4/11 (id 417054504, nouvel id 423051280 le 10/11), étiquette IA ; jury 8,1/10, coach-securite 9/10 ; 1er commentaire ajouté le 10/11 (réponses 1, 2 ou 3) |
+| jeu. 12/11 18:00 | TikTok | Vidéo 9:16 (10,8 s, vidéo IA) | Communauté | VIDEO-IA-2 Même vidéo sur TikTok | « Dans ta tête : tous te regardent » | programmé le 4/11 (id 417054516, puis 421415110 le 9/11, puis 423051294 le 10/11 : passé de 19:00 à 18:00, meilleure heure TikTok du jeudi), étiquette IA, hashtags de simo, couverture à 1 s ; **test du 9/11** : la légende propose 3 réponses à choisir en commentaire (relevé le 16/11, objectif 5 commentaires) |
+
+## Semaine 7 (16 au 22 novembre) : série « Dans ta tête / En vrai »
+
+Images : `medias/semaine-2026-11-16/`. Le reste du lot est décidé par la
+routine du lundi 16/11. Places Metricool de novembre : 9 prises sur 20.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| jeu. 19/11 18:00 | Instagram | Reel 9:16 (10,4 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-3 Dans ta tête / En vrai, épisode 3 : « J'ai pas le temps » ; dans ta tête, 2 h de sport par jour ; en vrai, 20 minutes comptent déjà ; question « tes 20 minutes, tu les mets quand ? » (1 matin, 2 midi, 3 soir) | « Pas le temps pour le sport ? » | programmé le 10/11 (id 423145533), étiquette IA, 1er commentaire avec les réponses 1, 2 ou 3 ; jury 8,1/10, coach-securite 8,5/10 ; vérifié image par image |
+| jeu. 19/11 18:00 | TikTok | Vidéo 9:16 (10,4 s, vidéo IA) | Communauté | VIDEO-IA-3 Même vidéo sur TikTok | « Dans ta tête : 2 h par jour » | programmé le 10/11 (id 423145551), étiquette IA, couverture à 0,8 s (l'horloge et le texte), question à choix dans la légende |
+
+Promesse faite dans l'épisode 3 : « La semaine prochaine : ta séance de
+20 minutes, prête à faire. » Le post de suivi sort au plus tard jeudi 26/11
+(visé mardi 24/11), relu par coach-securite avant de partir.
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.

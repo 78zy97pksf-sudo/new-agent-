@@ -52,6 +52,9 @@ données de santé, statistiques privées détaillées, mots de passe.
 - `calendrier-editorial.md` : le planning des publications.
 - `outils-et-connexions.md` : les outils branchés (Canva, Google Drive…) et
   comment on publie.
+- `fonctions-gratuites.md` : les fonctions gratuites et sûres d'Instagram,
+  TikTok et Metricool pour la portée et la communauté (ce que l'équipe fait
+  seule, ce que simo fait en 2 minutes, ce qui est interdit).
 - `posts/` : les posts et scripts rédigés, quand on demande de les
   enregistrer (le dossier est créé au premier post enregistré).
 
