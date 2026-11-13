@@ -3,6 +3,24 @@
 Tenu par `responsable-marque`. Rythme par défaut : 3 posts Instagram et
 3 vidéos TikTok par semaine. `[À CONFIRMER PAR SIMO]`
 
+**Plan de reprise des réseaux (depuis le 13/11/2026)** : le 13/11, simo a
+envoyé une vidéo de référence (motion design « interface » sur un écran
+d'ordinateur, histoire chaos → bascule → ordre en 23 s, une seule couleur
+vive, coupes sur le beat) : « Voilà le type de qualité de contenu que je
+veux ! », puis « commence à mettre en place le plan et les vidéos pour
+reprendre les réseaux à jour et amener de la visibilité et de la qualité ».
+Plan complet (Claude Doc) : https://claude.ai/artifact/9LfHD8haTk9eGrknHzn1HP
+Trois rendez-vous par semaine sur Instagram et TikTok :
+- mardi 18:00, « Prêt à faire » (vraie séance ou vrai conseil à garder) :
+  équipe com ;
+- jeudi 18:00, série « Dans ta tête / En vrai » au niveau de la référence :
+  fil vidéo ;
+- samedi 11:00, « Le film PUR COACHING » (motion design, vrai parcours,
+  vrais prix, un seul appel) : fil vidéo.
+Test du samedi 21/11 : un seul post Metricool pour les 2 réseaux compte-t-il
+pour 1 place ou 2 (plan gratuit : 20 par mois) ? Sinon le mardi passe sur
+TikTok seul.
+
 **Statuts possibles :** idée / rédigé / visuel prêt / contrôlé / programmé /
 publié.
 
