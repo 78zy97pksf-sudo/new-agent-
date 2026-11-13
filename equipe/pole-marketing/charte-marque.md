@@ -46,7 +46,7 @@ Ce sont les couleurs exactes du site refait, publié par simo le 9 octobre
 | Bleu ciel | Couleur principale des fonds clairs, encadrés | `#DCEFF8` |
 | Fond très clair | Grand fond des pages | `#F4FAFD` |
 | Blanc | Fonds et textes sur fond foncé | `#FFFFFF` |
-| Bleu clair | Sur-titres (petits mots en capitales) sur fond foncé | `#9CC7EE` |
+| Bleu clair | Sur-titres (petits mots en capitales) sur fond foncé ; depuis le 13/11/2026 (choix de simo sur une carte), aussi la **seule couleur vive** des vidéos et visuels « motion design » sur fond bleu nuit (elle veut dire « c'est réglé ») | `#9CC7EE` |
 | Or | **Réservé à l'offre PUR GOLD**, nulle part ailleurs | `#B08A22` |
 | Vert WhatsApp | Seulement l'icône WhatsApp | `#25D366` |
 
