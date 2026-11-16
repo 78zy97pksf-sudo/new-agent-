@@ -21,6 +21,15 @@ Test du samedi 21/11 : un seul post Metricool pour les 2 réseaux compte-t-il
 pour 1 place ou 2 (plan gratuit : 20 par mois) ? Sinon le mardi passe sur
 TikTok seul.
 
+**Série reprise de zéro (16/11/2026)** : le 16/11, simo a écrit « Reprends
+la série de 0 car j'ai supprimé chaque nouveau post à cause de la qualité
+des vidéos donc réalise des vidéos originales et virales ». Les vidéos IA
+du 5/11 et du 12/11 ne sont plus en ligne. Depuis ce jour, plus aucune
+vidéo de la série ne part : le fil vidéo la refait de zéro et les
+rendez-vous du jeudi et du samedi sont suspendus jusqu'à sa livraison.
+Tous les posts encore dans Metricool sont en brouillon (voir les semaines
+7 et 8).
+
 **Statuts possibles :** idée / rédigé / visuel prêt / contrôlé / programmé /
 publié.
 
@@ -168,16 +177,37 @@ routine du lundi 9/11.
 ## Semaine 7 (16 au 22 novembre) : série « Dans ta tête / En vrai »
 
 Images : `medias/semaine-2026-11-16/`. Le reste du lot est décidé par la
-routine du lundi 16/11. Places Metricool de novembre : 9 prises sur 20.
+routine du lundi 16/11. Places Metricool de novembre : 11 prises sur 20
+(avec le carrousel de la semaine 8 ; les brouillons comptent).
 
 | Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
 |---|---|---|---|---|---|---|
-| jeu. 19/11 18:00 | Instagram | Reel 9:16 (10,4 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-3 Dans ta tête / En vrai, épisode 3 : « J'ai pas le temps » ; dans ta tête, 2 h de sport par jour ; en vrai, 20 minutes comptent déjà ; question « tes 20 minutes, tu les mets quand ? » (1 matin, 2 midi, 3 soir) | « Pas le temps pour le sport ? » | programmé le 10/11 (id 423145533), étiquette IA, 1er commentaire avec les réponses 1, 2 ou 3 ; jury 8,1/10, coach-securite 8,5/10 ; vérifié image par image |
-| jeu. 19/11 18:00 | TikTok | Vidéo 9:16 (10,4 s, vidéo IA) | Communauté | VIDEO-IA-3 Même vidéo sur TikTok | « Dans ta tête : 2 h par jour » | programmé le 10/11 (id 423145551), étiquette IA, couverture à 0,8 s (l'horloge et le texte), question à choix dans la légende |
+| jeu. 19/11 18:00 | Instagram | Reel 9:16 (10,4 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-3 Dans ta tête / En vrai, épisode 3 : « J'ai pas le temps » ; dans ta tête, 2 h de sport par jour ; en vrai, 20 minutes comptent déjà ; question « tes 20 minutes, tu les mets quand ? » (1 matin, 2 midi, 3 soir) | « Pas le temps pour le sport ? » | **en brouillon depuis le 16/11** (id 430383684, avant 423145533) : simo a demandé de reprendre la série de zéro ; ne part pas |
+| jeu. 19/11 18:00 | TikTok | Vidéo 9:16 (10,4 s, vidéo IA) | Communauté | VIDEO-IA-3 Même vidéo sur TikTok | « Dans ta tête : 2 h par jour » | **en brouillon depuis le 16/11** (id 430383706, avant 423145551) ; ne part pas |
 
-Promesse faite dans l'épisode 3 : « La semaine prochaine : ta séance de
-20 minutes, prête à faire. » Le post de suivi sort au plus tard jeudi 26/11
-(visé mardi 24/11), relu par coach-securite avant de partir.
+L'épisode 3 n'étant pas sorti, sa promesse (« La semaine prochaine : ta
+séance de 20 minutes, prête à faire ») n'a pas été faite au public. La
+version « agenda » en motion design, livrée par le fil vidéo le 16/11 (jury
+8,0 ; coach-securite 9/10), n'est pas programmée. La vitrine « PUR COACHING
+en 20 secondes » du samedi 21/11 est suspendue.
+
+Bilan du lundi 16/11 : `/mnt/project-files/pur-coaching/marketing/stats/2026-11-16-bilan-semaine.md`.
+Pas d'expérience cette semaine : rien ne sort tant que la nouvelle série
+n'est pas livrée.
+
+## Semaine 8 (23 au 29 novembre) : « Prêt à faire »
+
+Images : `medias/semaine-2026-11-23/`.
+
+| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
+|---|---|---|---|---|---|---|
+| mar. 24/11 18:00 | Instagram | Carrousel 4:5, 9 images faites par code | Conseil | IG20 « Ta séance de 20 minutes, prête à faire » : échauffement, 4 exercices au poids du corps avec une chaise et un mur, retour au calme ; appel unique « Enregistre ce post » | « Je n'ai pas le temps. » sur un agenda plein, une seule case allumée | **prêt, en brouillon dans Metricool** (id 430385796) : séance validée par coach-securite 9/10, images et légende 9/10, jury 8,0/10, contrôle qualité passé le 16/11 ; en attente de la réponse de simo (carte du 16/11) |
+| mar. 24/11 18:00 | TikTok | Carrousel photo 9:16, 9 images | Conseil | TT20 Même séance, textes plus courts | « Ta séance de 20 min, prête à faire. » | **prêt, en brouillon dans Metricool** (id 430385810), musique ajoutée par TikTok ; même attente |
+
+Le test « carrousel à 10 h » prévu le 2/11 est abandonné pour ce post : 18 h
+sur les deux réseaux (créneau fixe du mardi, la couverture montre
+18:00-18:20, écart minime entre 10 h et 18 h dans Metricool le mardi). La
+légende ne parle plus de l'épisode 3.
 
 Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
 vendredi, story avec lien vers le site.
