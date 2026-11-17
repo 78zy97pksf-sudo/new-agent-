@@ -65,7 +65,9 @@ Le plan gratuit de Metricool permet **20 publications programmées par
 mois**, tous réseaux confondus (environ 10 sur Instagram et 10 sur
 TikTok). Chaque place compte. Sur deux semaines, par réseau, on vise
 5 contenus :
-- 2 contenus **attirer** (de préférence des vidéos où l'on voit Simon) ;
+- 2 contenus **attirer** (de préférence des vidéos : générées par IA et
+  spectaculaires, choix de simo du 30 octobre 2026, ou filmées avec
+  Simon) ;
 - 2 contenus **rassurer** (coulisses, comment se passe un bilan, la
   Tanita expliquée, réponses aux vraies questions, avis avec accord) ;
 - 1 contenu **faire agir** (une offre, présentée par Simon).
