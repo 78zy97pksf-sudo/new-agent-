@@ -23,11 +23,12 @@ données de santé, statistiques privées détaillées, mots de passe.
 
 | Agent | Son métier |
 |---|---|
-| `responsable-marque` | Garde la charte, prépare le calendrier éditorial du mois, fait le bilan des statistiques et note les leçons |
+| `responsable-marque` | Garde la charte, prépare le calendrier éditorial du mois, fait le bilan des statistiques et note les leçons, fait vivre le site (propositions de textes, référencement Google, liens depuis les réseaux) |
 | `commercial-instagram` | Écrit les posts, carrousels, scripts de Reels, stories, légendes, hashtags et modèles de réponses en message privé |
 | `commercial-tiktok` | Écrit les scripts de vidéos courtes, légendes, hashtags et réponses aux commentaires |
 | `graphiste` | Identité visuelle, modèles de visuels et visuel de chaque post (dans Canva si la connexion est disponible) |
-| `jury-contenu` | Note chaque contenu avant sa programmation, à la place des clients visés (grille qualité) |
+| `realisateur-video` | Plan de chaque vidéo courte, montage avec les outils gratuits, vérification image par image et dossier de relecture ; simo voit chaque vidéo avant sa programmation |
+| `jury-contenu` | Note chaque contenu avant sa programmation, à la place des clients visés (grille qualité), sauf story et réponse (circuit court) |
 | `coach-securite` | (pôle sport) Vérifie tout post qui donne un conseil d'exercice ou de nutrition |
 | `controleur-qualite` | (équipe générale) Relit la forme : clarté, fautes, respect des règles |
 
@@ -44,7 +45,11 @@ données de santé, statistiques privées détaillées, mots de passe.
   seuil pour publier, et la méthode pour bien utiliser l'IA.
 - `charte-marque.md` : couleurs, logo, polices, ton, piliers de contenu,
   mots à éviter.
-- `direction-artistique.md` : le style des visuels et des vidéos.
+- `direction-artistique.md` : le style des visuels (couvertures
+  illustrées).
+- `style-video.md` : les consignes vidéo de simo (vidéo de référence du
+  13/11/2026, ce qu'il a refusé, règles et leçons techniques). Lu par
+  `realisateur-video`, `jury-contenu` et `graphiste`.
 - `regles-publication.md` : les règles strictes. Elles passent avant tout
   le reste.
 - `lecons.md` : ce qui marche, ce qui ne marche pas, et les corrections de
@@ -78,6 +83,10 @@ TikTok, soit 2 à 3 par semaine et par réseau (le mélange est dans
 3. **Visuels** — `graphiste`
    Crée le visuel dans Canva (ou en donne une description précise si Canva
    n'est pas disponible).
+   **Vidéos** — `realisateur-video`
+   Fait le plan de la vidéo, la monte, la vérifie image par image et
+   prépare le dossier de relecture. simo voit chaque vidéo avant sa
+   programmation.
 4. **Contrôle sécurité** (seulement si le post donne un conseil d'exercice
    ou de nutrition) — `coach-securite`.
 5. **Jury** — `jury-contenu`
@@ -94,6 +103,12 @@ TikTok, soit 2 à 3 par semaine et par réseau (le mélange est dans
    Lit les statistiques dans Metricool, juge chaque contenu sur son étape
    du parcours client, trouve le maillon le plus faible et écrit les
    leçons dans `lecons.md`.
+
+**Circuit court** (story, réponse à un commentaire ou à un message) :
+`coach-securite` si conseil, puis un seul contrôle express de
+`controleur-qualite` à la place des étapes 5 et 6
+(`grille-qualite-contenu.md`, partie 5). Les vidéos, carrousels et posts
+gardent toutes les étapes.
 
 ## Important : qui lance les étapes ?
 

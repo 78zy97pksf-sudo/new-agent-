@@ -44,21 +44,28 @@ continu. Fonctionnement détaillé, charte et règles : `equipe/pole-marketing/`
 
 | Agent | Rôle | Exemple de demande |
 |---|---|---|
-| `responsable-marque` | Agent marketing : garde la charte, veille à ce que tous les canaux disent la même chose, planifie le calendrier éditorial du mois, fait le bilan des statistiques et note les leçons | « Prépare le calendrier d'octobre » ou « Voici mes statistiques du mois, fais le bilan » |
+| `responsable-marque` | Agent marketing : garde la charte, veille à ce que tous les canaux disent la même chose, planifie le calendrier éditorial du mois, fait le bilan des statistiques et note les leçons, fait vivre le site (propose les textes, suit le référencement Google, vérifie les liens depuis les réseaux ; simo décide) | « Prépare le calendrier d'octobre », « Voici mes statistiques du mois, fais le bilan » ou « Qu'est-ce qu'on améliore sur mon site ? » |
 | `commercial-instagram` | Posts, carrousels, scripts de Reels, stories, légendes, hashtags et modèles de réponses aux messages privés | « Écris le carrousel de mardi sur les 3 erreurs au squat » |
 | `commercial-tiktok` | Scripts de vidéos courtes plan par plan, légendes, hashtags, réponses aux commentaires | « Écris 3 scripts TikTok pour cette semaine » |
 | `graphiste` | Designer : logo et ses déclinaisons, modèles de visuels, visuel de chaque post et design du merch (dans Canva si disponible) | « Crée le visuel du carrousel de mardi » |
-| `jury-contenu` | Note chaque contenu avant sa programmation, à la place des clients visés, avec la grille qualité (cible, confiance, conversion…) : « à publier » ou « à retravailler » | « Est-ce que ce Reel va amener des demandes de bilan ? » |
+| `realisateur-video` | Réalisateur vidéo : plan de chaque vidéo courte (idée, 1re seconde, plans au rythme, texte à l'écran, preuve, un seul appel à l'action), montage avec les outils gratuits, vérification image par image, puis relectures et passage devant simo avant la publication | « Fais la vidéo de jeudi sur "j'ai pas le temps", dans le style de ma vidéo de référence » |
+| `jury-contenu` | Note chaque contenu avant sa programmation (sauf story et réponse : circuit court), à la place des clients visés, avec la grille qualité (cible, confiance, conversion…) : « à publier » ou « à retravailler » | « Est-ce que ce Reel va amener des demandes de bilan ? » |
 
 **Enchaînement des étapes :** calendrier (`responsable-marque`) → textes et
 scripts (`commercial-instagram` / `commercial-tiktok`) → visuels
-(`graphiste`) → contrôle sécurité si le post donne un conseil d'exercice ou
-de nutrition (`coach-securite`) → `jury-contenu` (8/10 au moins, aucune
-note sous 7) → `controleur-qualite` → programmation automatique dans
+(`graphiste`) et vidéos (`realisateur-video`) → contrôle sécurité si le
+post donne un conseil d'exercice ou de nutrition (`coach-securite`) →
+`jury-contenu` (8/10 au moins, aucune note sous 7) → `controleur-qualite`
+→ (pour une vidéo : simo la voit d'abord) → programmation automatique dans
 Metricool (demande de simo du 8 octobre 2026), avec un résumé à simo qui
-peut retirer un post. C'est la conversation principale qui lance chaque
-étape. Aucun agent ne publie lui-même. Tous lisent `client-cible.md`,
-`parcours-client.md` et `grille-qualite-contenu.md`.
+peut retirer un post. **Circuit court** pour une story ou une réponse à un
+commentaire ou à un message : `coach-securite` si conseil, puis un seul
+contrôle express de `controleur-qualite` (`regles-publication.md`). C'est
+la conversation principale qui lance chaque étape. Aucun agent ne publie
+lui-même. Tous lisent `client-cible.md`, `parcours-client.md` et
+`grille-qualite-contenu.md` (pour un petit contenu du circuit court,
+seulement les fichiers indiqués dans leur fiche) ; pour une vidéo, aussi
+`style-video.md`.
 
 ## Pôle accueil
 
@@ -69,16 +76,18 @@ premier rendez-vous. Fonctionnement, règles et modèles :
 | Agent | Rôle | Exemple de demande |
 |---|---|---|
 | `secretaire-mails` | Lit les nouveaux mails une fois par semaine (le lundi), les trie et les étiquette, répond aux demandes de coaching avec les modèles validés (sinon brouillon), fait le résumé pour simo | « Qu'est-ce que j'ai reçu aujourd'hui ? » ou « Réponds au mail de Julie » |
-| `agent-accueil` | Pour chaque nouveau client : code client, dossier dans le Drive privé, anamnèse, commande potentielle (bon de commande), puis relais à `coach-bilan` | « Nouvelle cliente Julie, elle veut PUR GOLD, prépare son dossier » |
+| `agent-accueil` | Pour chaque nouveau client : code client, dossier dans le Drive privé, anamnèse, commande potentielle (bon de commande), 2 ou 3 créneaux libres lus dans l'Agenda (Simon confirme), puis relais à `coach-bilan` | « Nouvelle cliente Julie, elle veut PUR GOLD, prépare son dossier » ou « Propose des créneaux à C03 » |
 
 **Enchaînement des étapes :** mail reçu (`secretaire-mails`, réponse avec
 le questionnaire d'anamnèse) → dossier ouvert (`agent-accueil`) →
-anamnèse reçue → état du bilan (`coach-bilan`) → bon de commande
-(`agent-accueil`) → Simon fixe le rendez-vous et encaisse → paiement noté
-(`comptable`) → programme (pôle sport). Une routine vérifie la boîte mail
-chaque lundi vers midi (choix de simo du 2026-10-12). Les réponses
-partent seules seulement quand simo a validé les modèles ; avant, ce sont
-des brouillons dans Gmail.
+anamnèse reçue → état du bilan (`coach-bilan`) → bon de commande et
+créneaux libres proposés (`agent-accueil`, Agenda en lecture seule) →
+Simon confirme le rendez-vous et encaisse → paiement noté (`comptable`) →
+programme (pôle sport). Une routine vérifie la boîte mail chaque lundi
+vers midi (choix de simo du 2026-10-12). `secretaire-mails` envoie
+elle-même seulement les réponses faites avec un modèle « validé par
+simo » ; tout le reste (dont une réponse qui propose des créneaux) est un
+brouillon dans Gmail.
 
 ## Pôle commercial
 

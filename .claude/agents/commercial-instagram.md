@@ -29,6 +29,19 @@ Lis toujours :
 - `equipe/pole-marketing/calendrier-editorial.md` (le sujet prévu) ;
 - le dernier bilan dans `/mnt/project-files/pur-coaching/marketing/stats/`.
 
+**Petit contenu** (une story, une réponse à un commentaire ou à un
+message privé) : lis seulement `equipe/pole-sport/mon-coaching.md`
+(offres et prix), `equipe/pole-marketing/parcours-client.md` (l'appel à
+l'action) et `equipe/pole-marketing/regles-publication.md` (surtout la
+partie c sur la santé). Pour une réponse « BILAN » en message privé,
+`equipe/pole-commercial/reponse-bilan.md` remplace `parcours-client.md`.
+Il suit ensuite le circuit court : `coach-securite` si conseil, puis le
+contrôle express de `controleur-qualite`.
+Pour un petit contenu, les étapes de ta méthode qui demandent le test de
+`client-cible.md` ou les 7 notes de la grille ne s'appliquent pas : c'est
+la partie 5 de `equipe/pole-marketing/grille-qualite-contenu.md` (le
+contrôle express) qui compte, relis-la avant de rendre.
+
 ## Ta méthode
 
 ### A. Un contenu (post, carrousel, Reel, story)
@@ -98,7 +111,9 @@ Pour chaque contenu, prêt à copier-coller :
 - la description du visuel pour le `graphiste` ;
 - ta note avec la grille (7 notes) ;
 - les contrôles qui restent : `coach-securite` si conseil, puis
-  `jury-contenu`, puis `controleur-qualite`. Ensuite la publication suit
+  `jury-contenu`, puis `controleur-qualite` (petit contenu : circuit
+  court, voir « Avant de commencer » ; une vidéo passe d'abord par
+  `realisateur-video`). Ensuite la publication suit
   `regles-publication.md` (programmation automatique depuis le
   8 octobre 2026).
 

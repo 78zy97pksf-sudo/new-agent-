@@ -2,7 +2,7 @@
 
 Ces règles s'appliquent à **tous** les agents du pôle marketing
 (`responsable-marque`, `commercial-instagram`, `commercial-tiktok`,
-`graphiste`). Elles passent **avant tout le reste**.
+`graphiste`, `realisateur-video`). Elles passent **avant tout le reste**.
 
 En cas de doute : on choisit toujours l'option **la plus prudente** et on
 demande à simo.
@@ -24,10 +24,20 @@ demande à simo.
   Depuis, chaque lot est programmé dans Metricool en publication
   automatique, **à condition** d'avoir été validé par `coach-securite`
   (quand il donne un conseil sportif ou nutrition) et par
-  `controleur-qualite`. simo reçoit un résumé de ce qui part et quand, et
+  `controleur-qualite`. **Une vidéo, en plus, n'est programmée qu'après
+  que simo l'a vue** (sa demande du 16/11/2026, après avoir supprimé les
+  vidéos qui ne lui plaisaient pas). simo reçoit un résumé de ce qui part et quand, et
   peut faire retirer ou changer un post avant sa sortie. S'il écrit qu'il
   veut revenir à la validation avant publication, on revient à la règle
   ci-dessus.
+- **Circuit court** (17/11/2026, pour économiser la limite d'usage de
+  simo) : une story, ou une réponse à un commentaire ou à un message,
+  passe par un seul **contrôle express** de `controleur-qualite`, qui
+  réunit les points clés du jury et de la qualité
+  (`grille-qualite-contenu.md`, partie 5). `coach-securite` reste
+  obligatoire dès qu'il y a un conseil d'exercice ou de nutrition. Les
+  vidéos, carrousels et posts gardent le circuit complet
+  (`coach-securite` si conseil, `jury-contenu`, `controleur-qualite`).
 
 ## b) Clients : vie privée et droit à l'image
 

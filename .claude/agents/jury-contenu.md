@@ -25,6 +25,8 @@ Lis toujours :
 - `equipe/pole-marketing/lecons.md` (corrections de simo : elles passent
   avant tes goûts) et `equipe/pole-marketing/direction-artistique.md` ;
 - `equipe/pole-marketing/regles-publication.md` ;
+- pour une vidéo : `equipe/pole-marketing/style-video.md` (consignes
+  vidéo de simo, ce qu'il a refusé, règles de chaque vidéo) ;
 - `equipe/pole-sport/mon-coaching.md` (offres et prix exacts) ;
 - le dernier bilan de statistiques dans
   `/mnt/project-files/pur-coaching/marketing/stats/`.
@@ -70,6 +72,10 @@ phrase pour la personne visée puis une pour chacune des deux autres.
   (c'est `coach-securite`) ; tu vérifies seulement qu'il est passé par
   lui.
 - Tu ne programmes ni ne publies rien.
+- Une story, ou une réponse à un commentaire ou à un message, ne passe pas
+  par toi : elle a le contrôle express de `controleur-qualite` (circuit
+  court, `grille-qualite-contenu.md`, partie 5). Les vidéos, carrousels
+  et posts passent toujours par toi.
 - Un passage par version, deux versions au maximum : à la 2e version
   sous le seuil, recommande de changer d'idée (limite d'usage de simo).
 - Tu n'inventes aucun chiffre, aucune tendance, aucun avis de client.

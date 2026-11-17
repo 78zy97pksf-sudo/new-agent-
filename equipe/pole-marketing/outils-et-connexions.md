@@ -36,7 +36,8 @@ automatique** (comptes Instagram « simon_ruisseau » et TikTok
 
 ### Comment un post est programmé (situation actuelle)
 1. Le post est écrit, illustré, puis validé par `coach-securite` (s'il
-   donne un conseil), `jury-contenu` et `controleur-qualite`.
+   donne un conseil), `jury-contenu` et `controleur-qualite`. Une vidéo
+   n'est programmée qu'après que simo l'a vue (`regles-publication.md`).
    Depuis le 19 octobre 2026, la première image porte une illustration
    originale (IA de Canva ou dessin du `graphiste`). Si elle est
    photoréaliste et créée par IA, le post Instagram est marqué « créé avec
