@@ -2,8 +2,9 @@
 
 La même grille sert à tout le monde :
 - les auteurs (`commercial-instagram`, `commercial-tiktok`, `ghostwriter`,
-  `graphiste`, le montage vidéo) s'**auto-notent** avant de rendre ;
-- le `jury-contenu` note chaque contenu avant sa programmation ;
+  `graphiste`, `realisateur-video`) s'**auto-notent** avant de rendre ;
+- le `jury-contenu` note chaque contenu avant sa programmation (sauf le
+  circuit court, partie 5) ;
 - le `controleur-qualite` vérifie les points bloquants.
 
 Elle complète la grille du jury du 19 octobre 2026 **sans la rendre plus
@@ -14,7 +15,8 @@ qui manquait pour amener des clients : **Accroche**, **Cible**,
 **Confiance** et **Conversion**. Le seuil ne change pas.
 
 À lire avec `client-cible.md`, `parcours-client.md`,
-`regles-publication.md`, `lecons.md` et `direction-artistique.md`.
+`regles-publication.md`, `lecons.md` et `direction-artistique.md` (et,
+pour une vidéo, `style-video.md`).
 
 ---
 
@@ -36,8 +38,9 @@ que soit sa note :
   l'application ;
 - une mauvaise adresse : le site est seulement https://pur-coaching.github.io/,
   Instagram @simon_ruisseau, TikTok @purcoaching ;
-- un style ou une idée que simo a déjà refusé (voir `lecons.md` et
-  `direction-artistique.md`) ;
+- un style ou une idée que simo a déjà refusé (voir `lecons.md`,
+  `direction-artistique.md` et, pour une vidéo, `style-video.md`
+  partie 2) ;
 - une vidéo ou une image générée par IA qui fait croire à un vrai client
   ou à Simon, qui montre un « avant / après », ou qui a l'air réelle sans
   être déclarée « créée avec l'IA » sur Instagram et TikTok (règle des
@@ -65,6 +68,10 @@ assez grands pour un téléphone, une personne visible dans les
 2 premières secondes (Simon dans une vidéo filmée ; dans une vidéo
 générée par IA, le personnage qui vit la situation de la personne visée),
 un écran de fin propre avec « PUR COACHING » lisible.
+
+**Attention : pour toute vidéo, `style-video.md` passe avant les deux
+paragraphes ci-dessous** (simo a supprimé les vidéos faites d'images IA
+le 16/11/2026 et a demandé de repartir de zéro).
 
 Pour une **vidéo générée par IA** (choix de simo du 30 octobre 2026 :
 des vidéos « incroyables » qui amènent des vues), on la juge comme une
@@ -105,6 +112,32 @@ sur l'écran de fin, ce qui compte pour la note **Confiance**.
 - Une phrase pour la personne visée (« Ce qu'en dirait La reprise :
   … »), puis une pour chacune des deux autres.
 
+## 5. Le circuit court (story, réponse à un commentaire ou à un message)
+
+Choix du 17/11/2026, pour économiser la limite d'usage de simo. Une
+story, ou une réponse à un commentaire ou à un message privé, ne passe
+pas par le jury : un seul **contrôle express** de `controleur-qualite`,
+qui réunit les points clés du jury et de la qualité :
+1. les points bloquants de la partie 1 qui s'appliquent (offres et prix
+   exacts, bonne adresse, rien de médical, aucune promesse, rien
+   d'inventé, aucune idée déjà refusée) ;
+2. **Cible** : la personne visée se reconnaît, ton adulte, tutoiement,
+   jamais culpabilisant ;
+3. **Conversion** : au plus un appel à l'action, avec ce qu'on y gagne
+   (une story en a un ; une réponse en a un seulement si la personne
+   montre de l'intérêt, par exemple « BILAN ») ;
+4. **Exécution** : lisible sur téléphone (story : texte loin des bords),
+   zéro faute ;
+5. un commentaire qui parle de santé reçoit seulement « Demande d'abord
+   l'avis de ton médecin », sans le nom ni le problème de la personne
+   (`regles-publication.md`, partie c).
+
+Verdict « prêt » ou « à corriger », avec 3 corrections au plus.
+`coach-securite` reste obligatoire avant, dès qu'il y a un conseil
+d'exercice ou de nutrition. Tout le reste (vidéos, carrousels, posts)
+garde le circuit complet : `coach-securite` si conseil, `jury-contenu`,
+`controleur-qualite`.
+
 ## Historique
 
 - 2026-10-29 : création, à la demande de simo (contenus « bien plus
@@ -112,3 +145,6 @@ sur l'écran de fin, ce qui compte pour la note **Confiance**.
 - 2026-10-30 : vidéos générées par IA (choix de simo) : règles ajoutées,
   « une personne visible dans les 2 premières secondes » au lieu de
   « Simon » pour ces vidéos.
+- 2026-11-17 : circuit court pour les stories et les réponses
+  (partie 5) ; `realisateur-video` remplace « le montage vidéo » parmi les
+  auteurs ; consignes vidéo dans `style-video.md`.

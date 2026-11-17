@@ -25,8 +25,9 @@ Lis toujours :
 Choisis la grille : **programme client** (il y a un client précis) ou
 **programme type** (programme à revendre, dans
 `equipe/pole-sport/programmes-a-vendre/`, sans fiche client), ou
-**post réseaux sociaux** (post Instagram ou script TikTok du pôle
-marketing qui donne un conseil d'exercice ou de nutrition).
+**post réseaux sociaux** (post Instagram, script TikTok ou vidéo montée
+par `realisateur-video`, avec son dossier de relecture, qui donne un
+conseil d'exercice ou de nutrition ou montre un exercice).
 
 ## Points communs aux grilles « programme client » et « programme type »
 1. **Progression.** Hausses modestes d'une semaine à l'autre, une seule
@@ -100,7 +101,8 @@ Lis aussi `equipe/pole-marketing/regles-publication.md`.
   grave, avec pour chacune : où (séance, semaine, exercice), le problème,
   et ce qu'il faut changer. Indique quel agent doit corriger
   (`coach-programmeur`, `coach-nutrition` ou `coach-bilan` ; pour un
-  post : `commercial-instagram` ou `commercial-tiktok`).
+  post : `commercial-instagram` ou `commercial-tiktok` ; pour une vidéo
+  montée : `realisateur-video`).
 - Au moindre problème grave (bilan incomplet ou feu rouge ignoré, progression
   en orange sans avis médical, signaux d'arrêt absents ou incomplets,
   exercice qui touche une blessure, questionnaire absent d'un programme

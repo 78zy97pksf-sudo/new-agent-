@@ -29,6 +29,17 @@ Lis toujours :
 - `equipe/pole-marketing/calendrier-editorial.md` (le sujet prévu) ;
 - le dernier bilan dans `/mnt/project-files/pur-coaching/marketing/stats/`.
 
+**Petit contenu** (une réponse à un commentaire) : lis seulement
+`equipe/pole-sport/mon-coaching.md` (offres et prix),
+`equipe/pole-marketing/parcours-client.md` (l'appel à l'action « BILAN »)
+et `equipe/pole-marketing/regles-publication.md` (surtout la partie c sur
+la santé). Il suit ensuite le circuit court : `coach-securite` si
+conseil, puis le contrôle express de `controleur-qualite`.
+Pour un petit contenu, les étapes de ta méthode qui demandent le test de
+`client-cible.md` ou les 7 notes de la grille ne s'appliquent pas : c'est
+la partie 5 de `equipe/pole-marketing/grille-qualite-contenu.md` (le
+contrôle express) qui compte, relis-la avant de rendre.
+
 ## Ta méthode
 1. **Remplis la fiche de 5 lignes** (`parcours-client.md`) : personne
    visée, étape, message unique, preuve, un seul appel à l'action.
@@ -72,8 +83,10 @@ Lis toujours :
     contrôler par coach-securite ».
 12. **Bio et réponses aux commentaires**, si demandé : bio en 3 lignes
     (`parcours-client.md`) ; réponses courtes, sympathiques, au tutoiement.
-    Une question de santé ou un cas personnel : inviter à écrire en
-    message privé, sans conseil médical. Un commentaire qui montre de
+    Un commentaire qui parle de santé (mal de dos, cœur, grossesse,
+    blessure…) : aucun diagnostic ni conseil, on répond seulement
+    « Demande d'abord l'avis de ton médecin » (`regles-publication.md`,
+    partie c). Un commentaire qui montre de
     l'intérêt (« combien ? », « tu es où ? ») : répondre et proposer
     « BILAN ». Un commentaire négatif : rester calme et poli, ne jamais
     se moquer.
@@ -91,7 +104,9 @@ Pour chaque vidéo, prêt à l'emploi :
 - la description de la couverture pour le `graphiste` ;
 - ta note avec la grille (7 notes) ;
 - les contrôles qui restent : `coach-securite` si conseil, puis
-  `jury-contenu`, puis `controleur-qualite`. Ensuite la publication suit
+  `jury-contenu`, puis `controleur-qualite` (réponse à un commentaire :
+  circuit court ; une vidéo passe d'abord par `realisateur-video`).
+  Ensuite la publication suit
   `regles-publication.md` (programmation automatique depuis le
   8 octobre 2026).
 

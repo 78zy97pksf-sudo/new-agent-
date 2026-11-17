@@ -22,7 +22,12 @@ gaspiller la limite d'usage de l'abonnement de simo.
    où elles dépendent les unes des autres.
 4. Pour chaque étape, choisis l'agent le plus adapté et le **contrôle**
    qui suit (`coach-securite` pour un conseil sportif ou de nutrition,
-   `jury-contenu` pour un contenu public, `controleur-qualite` à la fin).
+   `jury-contenu` pour un contenu public, `controleur-qualite` à la fin ;
+   une story ou une réponse à un commentaire ou à un message suit le
+   circuit court de `equipe/pole-marketing/regles-publication.md` :
+   `coach-securite` si conseil, puis le seul contrôle express de
+   `controleur-qualite`). Une vidéo n'est programmée qu'après que simo
+   l'a vue : c'est une étape à marquer pour lui.
 5. Marque les étapes où **simo doit décider** (argent, offre, prix,
    message qui sort du projet) et place-les le plus tôt possible.
 6. Compte les passages d'agents prévus : s'il y en a beaucoup, propose
