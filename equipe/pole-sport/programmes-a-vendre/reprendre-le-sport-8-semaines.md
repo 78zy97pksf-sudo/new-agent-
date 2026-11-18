@@ -1,6 +1,6 @@
-> **État : à faire valider** (par `coach-securite`, grille « programme type », puis relecture par `controleur-qualite`).
+> **État : validé par `coach-securite` le 18 novembre 2026** (grille « programme type », après trois corrections), relu par `controleur-qualite` (corrections faites).
 > Écrit par `coach-programmeur` le 17 novembre 2026, à la demande de Simon (création validée le 16 novembre 2026).
-> Ne pas vendre ni envoyer avant le « validé ».
+> Pas encore en vente : Simon décide du prix et de la mise en vente. Ces trois lignes sont retirées du PDF vendu.
 
 # Reprendre le sport en 8 semaines
 
