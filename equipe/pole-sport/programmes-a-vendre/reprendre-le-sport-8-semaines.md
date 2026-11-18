@@ -6,7 +6,7 @@
 
 **PUR COACHING** · « De la remise en forme au dépassement de soi »
 
-3 séances de 30 à 40 minutes par semaine, à la maison, avec une chaise, une bouteille d'eau et un tapis.
+3 séances de 30 à 40 minutes par semaine (jusqu'à 45 minutes si tu prends plus de repos), à la maison, avec une chaise, une bouteille d'eau et un tapis.
 
 ---
 
@@ -238,7 +238,7 @@ Ensuite tu commences le circuit. La marche active vient après le circuit.
 | Exercice | Semaine 1 | Effort | Repos | Plus facile (N-1) | Plus difficile (N+1) |
 |---|---|---|---|---|---|
 | Fente arrière avec appui sur la chaise | 2 x 6 par jambe | note 4-5 | 1 min | Fente sur place, pieds déjà écartés, et tu descends juste un peu | Sans appui, sans bouteille, chaise à portée de main (voir les conditions ci-dessous) |
-| Charnière de hanche avec bouteille | 2 x 8 | note 4-5 | 1 min | Sans bouteille, fesses qui vont toucher un mur derrière toi | Sur une jambe, sans bouteille au début, une main sur le dossier de la chaise (voir les conditions ci-dessous) |
+| Charnière de hanche avec bouteille | 2 x 8 | note 4-5 | 1 min | Sans bouteille, fesses qui vont toucher un mur derrière toi | Sur une jambe, sans bouteille pendant les 8 semaines, une main sur le dossier de la chaise (voir les conditions ci-dessous) |
 | Développé épaule avec bouteille, assis | 2 x 8 par bras | note 4-5 | 1 min | Bouteille vide ou à moitié, et tu montes seulement jusqu'à hauteur des yeux | Debout, même bouteille qu'en semaine 6 |
 | Quatre pattes bras-jambe (bird dog) | 2 x 6 par côté | note 4-5 | 1 min | Lever seulement un bras, puis seulement une jambe | Pause de 3 secondes bras et jambe tendus |
 | Insecte mort (dead bug) | 2 x 6 par côté | note 4-5 | 1 min | Pieds au sol, tu fais glisser un talon à la fois devant toi | Jambe plus tendue (même mouvement : bras et jambe opposés) |
@@ -255,7 +255,7 @@ Ensuite tu commences le circuit. La marche active vient après le circuit.
   - condition pour y passer : tu fais **3 x 10 propres avec appui, sans perte d'équilibre** ;
   - espace dégagé autour de toi, la chaise juste à côté pour te rattraper si besoin ;
   - tu arrêtes et tu reviens à la version avec appui si le genou fait mal ou si tu perds l'équilibre.
-- **Charnière sur une jambe** (sans bouteille au début, une main sur le dossier de la chaise) :
+- **Charnière sur une jambe** (sans bouteille pendant les 8 semaines, une main sur le dossier de la chaise) :
   - condition pour y passer : la **charnière à deux jambes est maîtrisée, dos plat** ;
   - bassin de face (il ne s'ouvre pas sur le côté), dos plat, genou de la jambe d'appui un peu plié ;
   - tu descends seulement tant que ton dos reste plat.
@@ -317,11 +317,11 @@ Une seule chose change à la fois. Tu passes à la semaine suivante **seulement 
 | **7** | Exercices qui passent en N+1 : 3 x 8 à 10. Exercices qui ne passent pas : on garde la semaine 6. | 3 x 20 s seulement si tu passes sur les pieds ; sinon 3 x 30 s sur les genoux | Les exercices où tu étais à 5 ou moins passent à la **variante N+1** (voir ci-dessous) | 5-6 |
 | **8** | 2 x 10 (fente, bird dog, dead bug : 2 x 8), avec la variante de ta semaine 7 | 2 x 20 s, dans la variante de ta semaine 7 | **Semaine plus légère** + tests de fin | 4-5 |
 
-**Séance B en semaines 5 et 6 : pour tenir en 40 minutes.** Avec la descente lente, la séance B dépasse 40 min (environ 45 min). Alors :
-- pour les exercices « par jambe », « par bras » ou « par côté », tu enchaînes directement l'autre côté, **sans pause** entre les deux ;
-- le **développé épaule** se fait en **2 séries** (2 x 12 par bras) au lieu de 3.
+**Séances A et B en semaines 5 à 7 : pour tenir en 40 minutes.** Avec plus de séries et la descente lente, les séances A et B dépassent 40 min (environ 45 min). Alors :
+- pour les exercices « par jambe », « par bras » ou « par côté » (dont le rowing de la séance A), tu enchaînes directement l'autre côté, **sans pause** entre les deux ;
+- le **développé épaule** se fait en **2 séries** au lieu de 3, aussi en semaine 7 : 2 x 12 par bras en version normale, ou 2 x 8 à 10 en variante N+1.
 
-Tu retrouves ainsi une séance d'environ 40 minutes.
+Tu retrouves ainsi une séance d'environ 40 minutes. Si tu as besoin de 1 min 30 de repos, ta séance dure environ 45 min. Si tu n'as pas ce temps, fais 2 séries au lieu de 3 au dernier exercice. **Ne raccourcis jamais l'échauffement ni le retour au calme.**
 
 **Semaine 7, en clair :**
 - **Exercices qui passent en N+1** (tu étais à 5 ou moins en semaine 6, et tu remplis les conditions de la variante) : **3 x 8 à 10**.
@@ -332,7 +332,7 @@ Tu retrouves ainsi une séance d'environ 40 minutes.
 
 **Semaine 8** : tu gardes la variante que tu faisais en semaine 7 (N+1 si tu y es passé, sinon la version normale), à rythme normal, avec moins de répétitions.
 
-Le repos entre les séries reste à **1 minute** (jusqu'à 1 min 30 si tu en as besoin). La bouteille : tu peux la remplir un peu plus seulement en semaine 5 ou 6, **à la place** d'ajouter des répétitions, jamais les deux la même semaine.
+Le repos entre les séries reste à **1 minute** (jusqu'à 1 min 30 si tu en as besoin). La bouteille : tu peux la remplir un peu plus seulement en semaine 5, **à la place** des 2 répétitions en plus, jamais les deux la même semaine. En semaine 6, la bouteille ne change pas (c'est la semaine de la descente lente).
 
 ---
 
@@ -425,7 +425,7 @@ Coche chaque séance faite et note ton effort (1 à 10). Une ligne de remarque s
 
 Bravo. Tu as repris, et tu as tenu. Pour continuer seul, tu repars en variante N+1 **au volume de la semaine 3** : 3 x 10 (fente, bird dog, dead bug : 3 x 8), planche 3 x 20 s, à rythme normal. Puis tu suis la suite du tableau : une semaine plus légère comme la semaine 4, puis + 2 répétitions comme la semaine 5, puis la descente lente comme la semaine 6, puis une semaine plus légère comme la semaine 8. Toujours la même règle : une seule chose change à la fois, et tu avances seulement si tout s'est bien passé. Les exercices que tu n'as pas encore passés en N+1 suivent le même chemin dans leur version normale (et la planche reste sur les genoux tant que tu n'es pas passé sur les pieds).
 
-**Tu veux aller plus loin, avec un plan fait pour toi ?** Le bilan **PUR HEALTH** (70 €) est le bon prochain pas : une analyse Tanita pour savoir où tu en es, un rapport PDF détaillé avec des recommandations, un vrai bilan de ta santé et de tes habitudes, et un plan d'entraînement personnalisé. On en parle ensemble, sans pression : écris-moi sur Instagram, **@simon_ruisseau**, ou passe par le site officiel : https://pur-coaching.github.io/
+**Tu veux aller plus loin, avec un plan fait pour toi ?** Le bilan **PUR HEALTH** (70 €) est le bon prochain pas : une analyse Tanita pour savoir où tu en es, un rapport PDF détaillé avec des recommandations, un vrai bilan de ta santé et de tes habitudes, et un plan d'entraînement personnalisé. On en parle ensemble, sans pression : tout est expliqué sur le site : https://pur-coaching.github.io/
 
 ---
 
