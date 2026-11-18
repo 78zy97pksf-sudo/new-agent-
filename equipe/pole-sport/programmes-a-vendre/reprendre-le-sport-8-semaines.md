@@ -12,7 +12,7 @@
 
 ## Avant de commencer : est-ce que ce programme est fait pour toi ?
 
-- **Pour qui** : tu as entre 25 et 50 ans, tu n'as plus fait de sport depuis longtemps (ou tu t'y remets par à-coups) et tu veux reprendre en douceur, chez toi, sans te faire mal.
+- **Pour qui** : tu as entre 18 et 50 ans (il a été pensé surtout pour les 25-50 ans, mais les 18-24 ans peuvent le suivre aussi), tu n'as plus fait de sport depuis longtemps (ou tu t'y remets par à-coups) et tu veux reprendre en douceur, chez toi, sans te faire mal.
 - **Niveau requis** : débutant. Tu dois pouvoir te lever d'une chaise, t'allonger au sol et te relever, et marcher 10 minutes sans difficulté.
 - **Matériel nécessaire** :
   - une **chaise solide, sans roulettes**, que tu poses **contre un mur** pour qu'elle ne glisse pas ;
@@ -22,19 +22,22 @@
 
 ### Ce programme NE te convient PAS si :
 
-- tu es enceinte, ou tu as accouché il y a moins d'un an sans l'accord écrit de ton médecin ou de ta sage-femme ;
-- tu as un problème de cœur ou de tension (même traité) ;
-- tu as une douleur ou une blessure actuelle, ou une blessure récente qui n'a pas été examinée par un professionnel de santé ;
-- tu as une maladie chronique (diabète, asthme, maladie du cœur, des poumons, des reins…) qui n'est pas stable ou pas suivie par un médecin ;
-- tu as moins de 18 ans (il faut alors l'accord écrit d'un parent et un programme adapté à ton âge) ;
-- tu as plus de 50 ans : ce programme a été pensé pour les 25-50 ans ; demande d'abord l'avis de ton médecin, un programme personnalisé sera plus adapté ;
-- tu as un surpoids important : demande d'abord l'avis de ton médecin, et un programme personnalisé qui protège tes articulations sera plus adapté ;
+- tu as **moins de 18 ans** : ce programme n'est pas fait pour toi ;
+- tu es **enceinte**, ou tu as **accouché il y a moins d'un an** : ce programme n'est pas fait pour toi (demande à ton médecin ou à ta sage-femme un programme adapté) ;
 - tu cherches une rééducation (après une opération ou une blessure) : c'est le rôle d'un kinésithérapeute ;
 - tu t'entraînes déjà régulièrement : ce programme sera sans doute trop facile pour toi.
 
+### Ne commence pas sans l'accord écrit de ton médecin si :
+
+- tu as un problème de **cœur ou de tension** (même traité) ;
+- tu as une **maladie chronique** (diabète, asthme, maladie des poumons, des reins…) ;
+- tu as une **douleur ou une blessure** actuelle, ou une blessure récente ;
+- tu as **plus de 50 ans** ;
+- tu as un **surpoids important**.
+
 ### Ton questionnaire santé (à faire avant la première séance)
 
-Réponds honnêtement par **oui** ou **non** (questionnaire inspiré du PAR-Q+) :
+Réponds honnêtement par **oui** ou **non** :
 
 1. Un médecin t'a-t-il déjà dit que tu avais un problème cardiaque ou de tension ?
 2. Ressens-tu une douleur dans la poitrine, au repos ou à l'effort ?
@@ -47,9 +50,9 @@ Réponds honnêtement par **oui** ou **non** (questionnaire inspiré du PAR-Q+) 
 9. Un médecin t'a-t-il déjà conseillé de limiter ton activité physique ?
 10. Y a-t-il une autre raison pour laquelle tu ne devrais pas faire de sport ?
 
-**Si tu réponds « oui » à une seule question, demande l'avis de ton médecin avant de commencer ce programme.**
+**Si tu réponds « oui » à une seule question, demande l'avis de ton médecin avant de commencer ce programme : ne commence pas sans son accord écrit.** Si tu as répondu « oui » à la question 6 (grossesse, ou accouchement il y a moins d'un an), ce programme n'est pas fait pour toi.
 
-Tout est « non » ? Super, tu peux commencer. Si ta santé change pendant les 8 semaines (blessure, maladie, grossesse, nouveau traitement), tu fais une pause et tu demandes l'avis de ton médecin avant de continuer.
+Tout est « non » ? Super, tu peux commencer. Si ta santé change pendant les 8 semaines (blessure, douleur, maladie, nouveau traitement), tu fais une pause et tu ne reprends pas sans l'accord écrit de ton médecin. Grossesse : tu arrêtes ce programme.
 
 **Avant ta première séance, lis les signaux d'arrêt à la fin de ce document** (section « Signaux d'arrêt »).
 
@@ -75,7 +78,8 @@ Chaque personne avance à son rythme : je ne te promets pas un chiffre (kilos, c
 - **« 2 x 10 »** = 2 séries de 10 mouvements. Entre les deux séries, tu fais une pause.
 - **Repos** = le temps de pause entre deux séries.
 - **Variante N-1** = la version **plus facile** de l'exercice. **Variante N+1** = la version **plus difficile**. Tu commences toujours par la version normale (ou N-1 si c'est trop dur).
-- **« Garder 3 en réserve »** = tu t'arrêtes quand tu pourrais encore faire au moins 3 répétitions propres. Tu ne vas **jamais** jusqu'à ne plus pouvoir.
+- **« Garde 2 à 3 répétitions en réserve »** = tu t'arrêtes quand tu pourrais encore faire 2 à 3 répétitions propres. Tu ne vas **jamais** jusqu'à ne plus pouvoir.
+- **« Par bras », « par jambe », « par côté »** = tu fais toutes les répétitions d'un côté, puis toutes celles de l'autre côté. En semaines 1 à 4, une courte pause entre les deux côtés est permise. À partir de la semaine 5, tu enchaînes l'autre côté sans pause.
 - **La technique passe toujours avant tout** : si le mouvement devient moche, tu ralentis, tu fais moins, ou tu passes à la variante N-1.
 - **Respire** : souffle pendant l'effort, inspire pendant le retour. Ne bloque pas ta respiration.
 
@@ -88,15 +92,15 @@ Après chaque série, donne-toi une note de **1 à 10** :
 | Note | Ce que tu ressens | Test de la parole |
 |---|---|---|
 | 1-2 | Très facile, comme marcher dans ta maison | Tu pourrais chanter |
-| 3-4 | Facile, tu sens que tu bouges | Tu parles sans souci, en phrases complètes |
-| 5-6 | Moyen : ça travaille, mais tu contrôles bien | Tu parles en phrases courtes |
-| 7 | Difficile : il te reste 2 ou 3 répétitions en réserve | Tu ne dis que quelques mots |
-| 8-10 | Trop dur | Tu ne peux plus parler |
+| 3-4 | Facile, tu sens que tu bouges | Tu peux parler en phrases complètes |
+| 5-6 | Moyen : ça travaille, mais tu contrôles bien ; il te reste 2 à 3 répétitions en réserve | Tu parles en phrases courtes |
+| 7 | Déjà trop dur pour ce programme : il te reste moins de 2 répétitions en réserve | Tu ne dis que quelques mots |
+| 8-10 | Beaucoup trop dur | Tu ne peux plus parler |
 
-**Dans ce programme, tu restes entre 4 et 6.** Tu ne dépasses **jamais 7**. 8 et plus : jamais.
+**Dans ce programme, tu restes entre 4 et 6. Maximum 6 ; 7, c'est déjà trop.**
 
 **C'est trop dur si :**
-- ta note dépasse 7, ou tu ne peux plus parler ;
+- ta note atteint 7 ou plus, ou tu ne peux plus parler qu'en quelques mots ;
 - ta technique se dégrade (dos qui s'arrondit, genoux qui rentrent, gestes saccadés) ;
 - tu as **mal** (une douleur dans une articulation, ce n'est pas la même chose que les muscles qui chauffent) ;
 - tu es épuisé le lendemain, ou tes courbatures t'empêchent de bouger normalement plus de 2 ou 3 jours.
@@ -113,8 +117,8 @@ Certains exercices se font avec ta bouteille d'eau. 1 litre d'eau pèse environ 
 
 1. Fais une première série **sans bouteille**, juste pour apprendre le geste.
 2. Prends la bouteille **à moitié remplie** et fais une série test.
-3. Garde ce poids si tu fais toutes tes répétitions proprement en gardant **3 répétitions en réserve** (note 4 à 6).
-4. Trop facile ? Remplis un peu plus la bouteille la prochaine fois. Trop dur ? Vide-la un peu.
+3. Garde ce poids si tu fais toutes tes répétitions proprement en gardant **2 à 3 répétitions en réserve** (note 4 à 6).
+4. En semaine 1 seulement, pour régler ton poids de départ : trop facile ? Remplis un peu plus la bouteille la séance suivante. Trop dur ? Vide-la un peu.
 5. **Dans le doute, prends plus léger.**
 
 ---
@@ -131,10 +135,10 @@ Tu fais **3 séances par semaine**, avec **au moins un jour sans séance entre d
 | Jeudi | Repos actif : ta marche du jour |
 | Vendredi | **Séance C** — petit circuit + marche active |
 | Samedi | Repos actif : ta marche du jour + mobilité (5 min) |
-| Dimanche | **Repos complet** |
+| Dimanche | **Repos des exercices** (ta marche du jour reste possible et compte dans ton tableau) |
 
 - Jamais deux séances deux jours de suite : tes muscles ont besoin d'un jour pour récupérer.
-- Au moins **un jour de repos complet** par semaine.
+- Au moins **un jour de repos des exercices** par semaine. La marche de tous les jours reste possible ce jour-là.
 - Une semaine chargée ? Mieux vaut 2 bonnes séances que 3 séances bâclées.
 
 ---
@@ -161,7 +165,7 @@ Les répétitions de chaque semaine sont dans la **section 9**. Ici : la semaine
 
 **Séance C (30 à 40 min)** — échauffement 5 min (marche sur place, mobilité, série légère), puis :
 - Circuit, 2 tours : assis-debout 8 · pompes sur chaise 8 · rowing 8 par bras · bird dog 6 par côté (30 s de pause entre les exercices, 2 min entre les tours)
-- Marche active : 10 min (tu parles en phrases)
+- Marche active : 10 min (tu peux parler en phrases complètes)
 - Retour au calme 5 min
 
 ---
@@ -238,7 +242,7 @@ Ensuite tu commences le circuit. La marche active vient après le circuit.
 | Exercice | Semaine 1 | Effort | Repos | Plus facile (N-1) | Plus difficile (N+1) |
 |---|---|---|---|---|---|
 | Fente arrière avec appui sur la chaise | 2 x 6 par jambe | note 4-5 | 1 min | Fente sur place, pieds déjà écartés, et tu descends juste un peu | Sans appui, sans bouteille, chaise à portée de main (voir les conditions ci-dessous) |
-| Charnière de hanche avec bouteille | 2 x 8 | note 4-5 | 1 min | Sans bouteille, fesses qui vont toucher un mur derrière toi | Sur une jambe, sans bouteille pendant les 8 semaines, une main sur le dossier de la chaise (voir les conditions ci-dessous) |
+| Charnière de hanche avec bouteille | 2 x 8 | note 4-5 | 1 min | Sans bouteille, fesses qui vont toucher un mur derrière toi | Sur une jambe, sans bouteille, une main sur le dossier de la chaise (voir les conditions ci-dessous) |
 | Développé épaule avec bouteille, assis | 2 x 8 par bras | note 4-5 | 1 min | Bouteille vide ou à moitié, et tu montes seulement jusqu'à hauteur des yeux | Debout, même bouteille qu'en semaine 6 |
 | Quatre pattes bras-jambe (bird dog) | 2 x 6 par côté | note 4-5 | 1 min | Lever seulement un bras, puis seulement une jambe | Pause de 3 secondes bras et jambe tendus |
 | Insecte mort (dead bug) | 2 x 6 par côté | note 4-5 | 1 min | Pieds au sol, tu fais glisser un talon à la fois devant toi | Jambe plus tendue (même mouvement : bras et jambe opposés) |
@@ -255,7 +259,7 @@ Ensuite tu commences le circuit. La marche active vient après le circuit.
   - condition pour y passer : tu fais **3 x 10 propres avec appui, sans perte d'équilibre** ;
   - espace dégagé autour de toi, la chaise juste à côté pour te rattraper si besoin ;
   - tu arrêtes et tu reviens à la version avec appui si le genou fait mal ou si tu perds l'équilibre.
-- **Charnière sur une jambe** (sans bouteille pendant les 8 semaines, une main sur le dossier de la chaise) :
+- **Charnière sur une jambe** (sans bouteille, une main sur le dossier de la chaise) :
   - condition pour y passer : la **charnière à deux jambes est maîtrisée, dos plat** ;
   - bassin de face (il ne s'ouvre pas sur le côté), dos plat, genou de la jambe d'appui un peu plié ;
   - tu descends seulement tant que ton dos reste plat.
@@ -289,14 +293,16 @@ Mêmes consignes et mêmes variantes que dans les séances A et B.
 
 | Semaines | Activité | Durée | Intensité |
 |---|---|---|---|
-| 1 | Marche active | 10 min | Tu parles en phrases complètes (note 3-4) |
-| 2 | Marche active | 12 min | Phrases complètes (note 3-4) |
-| 3 | Marche active | 15 min | Phrases complètes (note 3-4) |
-| 4 (légère) | Marche active | 10 min | Phrases complètes (note 3-4) |
+| 1 | Marche active | 10 min | Tu peux parler en phrases complètes (note 3-4) |
+| 2 | Marche active | 12 min | Tu peux parler en phrases complètes (note 3-4) |
+| 3 | Marche active | 15 min | Tu peux parler en phrases complètes (note 3-4) |
+| 4 (légère) | Marche active | 10 min | Tu peux parler en phrases complètes (note 3-4) |
 | 5 | Marche active | 15 min | On reprend la semaine 3, puis on marche un peu plus vite : phrases courtes (note 4-5) |
-| 6 | Marche active | 18 min | Phrases courtes (note 4-5) |
-| 7 | Marche active | 20 min | Phrases courtes (note 4-5) |
-| 8 (légère) | Marche active | 15 min | Phrases complètes (note 3-4) |
+| 6 | Marche active | 15 min | Phrases courtes (note 4-5) |
+| 7 | Marche active | 15 min | Phrases courtes (note 4-5) |
+| 8 (légère) | Marche active | 15 min | Tu peux parler en phrases complètes (note 3-4) |
+
+En semaines 6 et 7, la marche reste à 15 min : le circuit est plus long ces semaines-là, et la séance C tient ainsi en 40 minutes.
 
 Pas de course ni de sauts dans ce programme : on protège tes articulations pendant la reprise.
 
@@ -304,9 +310,9 @@ Pas de course ni de sauts dans ce programme : on protège tes articulations pend
 
 ## 9. Ta progression semaine par semaine
 
-Une seule chose change à la fois. Tu passes à la semaine suivante **seulement si** toutes tes séances se sont bien passées : technique propre, note d'effort pas au-dessus de 6, et **aucune douleur**. Sinon, tu refais la même semaine. Ce n'est pas un échec : c'est le programme qui s'adapte à toi.
+Une seule chose change à la fois. Tu passes à la semaine suivante **seulement si** toutes tes séances se sont bien passées : technique propre, note d'effort maximum 6 (7, c'est déjà trop), et **aucune douleur**. Sinon, tu refais la même semaine. Ce n'est pas un échec : c'est le programme qui s'adapte à toi.
 
-| Semaine | Répétitions (séances A, B et circuit C) | Planche | Ce qui change | Effort visé |
+| Semaine | Répétitions (séances A et B ; circuit C : 2 tours) | Planche | Ce qui change | Effort visé |
 |---|---|---|---|---|
 | **1** | 2 x 8 (fente, bird dog, dead bug : 2 x 6) | 2 x 15 s | On apprend les gestes. Volontairement facile. | 4-5 |
 | **2** | 2 x 10 (fente, bird dog, dead bug : 2 x 8) | 2 x 20 s | + 2 répétitions | 4-5 |
@@ -315,7 +321,7 @@ Une seule chose change à la fois. Tu passes à la semaine suivante **seulement 
 | **5** | 3 x 12 (fente, bird dog, dead bug : 3 x 10) | 3 x 25 s | On reprend la semaine 3 + 2 répétitions | 5-6 |
 | **6** | 3 x 12 (fente, bird dog, dead bug : 3 x 10) | 3 x 30 s | Descente lente (3 secondes) sur chaque répétition | 5-6 |
 | **7** | Exercices qui passent en N+1 : 3 x 8 à 10. Exercices qui ne passent pas : on garde la semaine 6. | 3 x 20 s seulement si tu passes sur les pieds ; sinon 3 x 30 s sur les genoux | Les exercices où tu étais à 5 ou moins passent à la **variante N+1** (voir ci-dessous) | 5-6 |
-| **8** | 2 x 10 (fente, bird dog, dead bug : 2 x 8), avec la variante de ta semaine 7 | 2 x 20 s, dans la variante de ta semaine 7 | **Semaine plus légère** + tests de fin | 4-5 |
+| **8** | 2 x 8 à 10 (fente, bird dog, dead bug : 2 x 8), avec la variante de ta semaine 7 | 2 x 20 s, dans la variante de ta semaine 7 | **Semaine plus légère** + tests de fin | 4-5 |
 
 **Séances A et B en semaines 5 à 7 : pour tenir en 40 minutes.** Avec plus de séries et la descente lente, les séances A et B dépassent 40 min (environ 45 min). Alors :
 - pour les exercices « par jambe », « par bras » ou « par côté » (dont le rowing de la séance A), tu enchaînes directement l'autre côté, **sans pause** entre les deux ;
@@ -328,7 +334,7 @@ Tu retrouves ainsi une séance d'environ 40 minutes. Si tu as besoin de 1 min 30
 - **Exercices qui ne passent pas** : **on garde la semaine 6**, exactement pareil.
 - **Planche** : **3 x 20 s seulement si tu passes sur les pieds**. Sinon : **3 x 30 s sur les genoux**.
 - **Même poids qu'en semaine 6** : tu ne remplis pas la bouteille davantage. Seule la variante change, et une variante N+1 ne change qu'une seule chose.
-- **Rythme normal pour les exercices en N+1** : pendant ta première semaine en N+1, **plus de descente lente de 3 secondes**. Tu descends et tu remontes à un rythme normal, contrôlé.
+- **Rythme normal pour les exercices en N+1** : pendant ta première semaine en N+1, **tu ne fais plus la descente lente** de 3 secondes. Tu descends et tu remontes à un rythme normal, contrôlé.
 
 **Semaine 8** : tu gardes la variante que tu faisais en semaine 7 (N+1 si tu y es passé, sinon la version normale), à rythme normal, avec moins de répétitions.
 
@@ -377,9 +383,9 @@ Un jour sans marche, ce n'est pas grave : tu reprends le lendemain.
 
 - **Séance ratée** : pas de panique, ça arrive à tout le monde. Tu reprends à la séance suivante, normalement. **Tu ne doubles pas** la séance d'après. Tu en as raté plusieurs dans la semaine ? Tu refais la même semaine.
 - **Grosse fatigue** (mauvaise nuit, stress, rhume) : tu fais une séance plus courte (une série en moins) et plus facile (variantes N-1), ou tu te reposes. La semaine suivante, tu restes au même niveau ou tu redescends d'un cran.
-- **Fièvre ou maladie** : pas de séance. Tu reprends quand tu vas mieux, une semaine en arrière.
+- **Fièvre ou maladie** : pas de séance. Quand tu vas mieux, tu reviens à la semaine précédente (ou la semaine 1).
 - **Douleur** : tu arrêtes l'exercice qui fait mal. Tu ne « forces » jamais à travers la douleur. Si la douleur est vive ou soudaine, tu arrêtes la séance (voir les signaux d'arrêt). Une douleur légère qui dure plus de quelques jours ou qui revient à chaque séance : tu arrêtes l'exercice concerné et tu consultes un professionnel de santé.
-- **Tu as décroché une ou deux semaines** : tu reprends **deux semaines en arrière**. Tu n'as rien perdu, tu as juste mis le programme sur pause.
+- **Tu as décroché une ou deux semaines** : tu reprends **deux semaines en arrière** (ou la semaine 1). Tu n'as rien perdu, tu as juste mis le programme sur pause.
 
 ---
 
@@ -387,14 +393,18 @@ Un jour sans marche, ce n'est pas grave : tu reprends le lendemain.
 
 À quoi ça sert : voir tes progrès avec tes propres chiffres, sans te comparer à personne. Ce ne sont pas des normes : c'est **ton** point de départ.
 
-Fais-les **en début de séance A, après l'échauffement**, en semaine 1, en semaine 4 et en semaine 8. Toujours avec une technique propre : tu t'arrêtes dès que le geste se dégrade.
+Fais-les en semaine 1, en semaine 4 et en semaine 8 :
+- les tests d'assis-debout, de pompes et de planche **en début de séance A, après l'échauffement** ;
+- le test de marche **au début de la séance C, juste après l'échauffement** : 10 min de marche active, puis tu fais ton circuit. Ces 10 minutes comptent dans ta marche active du jour.
+
+**Jamais jusqu'à l'épuisement.** Toujours avec une technique propre : tu t'arrêtes dès que le geste se dégrade, et à la moindre gêne.
 
 | Test | Semaine 1 | Semaine 4 | Semaine 8 |
 |---|---|---|---|
-| Assis-debout en 30 secondes, à ton rythme, technique propre (nombre) | | | |
-| Pompes mains sur la chaise, propres, en gardant 2 en réserve (nombre, maximum 20) | | | |
-| Planche sur les genoux, dos bien plat (secondes, maximum 60) | | | |
-| Marche active de 10 min : ta note d'effort (1 à 10) | | | |
+| Assis-debout en 30 secondes, à ton rythme, en gardant 2 à 3 répétitions en réserve ; tu arrêtes à la moindre gêne (nombre) | | | |
+| Pompes mains sur la chaise, propres, en gardant 2 à 3 répétitions en réserve (nombre, maximum 20) | | | |
+| Planche sur les genoux, dos bien plat : tu t'arrêtes à 30 s maximum, ou dès que ta position se dégrade (secondes) | | | |
+| Marche active de 10 min, au début de la séance C : ta note d'effort (1 à 10) | | | |
 | Ton énergie en général cette semaine (1 à 10) | | | |
 | Comment tu te sens dans ton corps cette semaine (1 à 10) | | | |
 
@@ -423,9 +433,19 @@ Coche chaque séance faite et note ton effort (1 à 10). Une ligne de remarque s
 
 ## 15. Et après ces 8 semaines ?
 
-Bravo. Tu as repris, et tu as tenu. Pour continuer seul, tu repars en variante N+1 **au volume de la semaine 3** : 3 x 10 (fente, bird dog, dead bug : 3 x 8), planche 3 x 20 s, à rythme normal. Puis tu suis la suite du tableau : une semaine plus légère comme la semaine 4, puis + 2 répétitions comme la semaine 5, puis la descente lente comme la semaine 6, puis une semaine plus légère comme la semaine 8. Toujours la même règle : une seule chose change à la fois, et tu avances seulement si tout s'est bien passé. Les exercices que tu n'as pas encore passés en N+1 suivent le même chemin dans leur version normale (et la planche reste sur les genoux tant que tu n'es pas passé sur les pieds).
+Bravo. Tu as repris, et tu as tenu. Pour continuer seul, en 5 étapes (une étape = une semaine) :
 
-**Tu veux aller plus loin, avec un plan fait pour toi ?** Le bilan **PUR HEALTH** (70 €) est le bon prochain pas : une analyse Tanita pour savoir où tu en es, un rapport PDF détaillé avec des recommandations, un vrai bilan de ta santé et de tes habitudes, et un plan d'entraînement personnalisé. On en parle ensemble, sans pression : tout est expliqué sur le site : https://pur-coaching.github.io/
+1. Tu repars en variante N+1 **au volume de la semaine 3** : 3 x 10 (fente, bird dog, dead bug : 3 x 8), planche 3 x 20 s, à rythme normal.
+2. Une semaine plus légère, comme la semaine 4.
+3. + 2 répétitions, comme la semaine 5.
+4. La descente lente, comme la semaine 6.
+5. Une semaine plus légère, comme la semaine 8.
+
+Toujours la même règle : une seule chose change à la fois, et tu avances seulement si tout s'est bien passé. Les exercices que tu n'as pas encore passés en N+1 suivent le même chemin dans leur version normale (et la planche reste sur les genoux tant que tu n'es pas passé sur les pieds).
+
+**Tu veux aller plus loin, avec un plan fait pour toi ?** Le bilan **PUR HEALTH** (70 €) est le bon prochain pas : une analyse Tanita pour savoir où tu en es, un rapport PDF détaillé avec des recommandations, un bilan complet de ta forme et de tes habitudes, et un plan d'entraînement personnalisé. On en parle ensemble, sans pression.
+
+**Écris BILAN en message sur Instagram (@simon_ruisseau) : je te propose un créneau à Huy pour ton bilan PUR HEALTH (70 €).** Tu habites loin de Huy ? Je te propose d'abord un appel vidéo de bilan gratuit.
 
 ---
 
@@ -444,6 +464,6 @@ En cas d'urgence : appelle le **112** (en Belgique et dans l'Union européenne ;
 
 Une douleur légère qui dure plus de quelques jours ou qui revient à chaque séance : arrête l'exercice concerné et consulte un professionnel de santé.
 
-**Ce programme ne remplace pas un avis médical.** Si ta santé change (blessure, maladie, grossesse, nouveau traitement), arrête le programme et demande l'avis de ton médecin avant de continuer.
+**Ce programme ne remplace pas un avis médical.** Si ta santé change (blessure, douleur, maladie, nouveau traitement), arrête le programme et ne reprends pas sans l'accord écrit de ton médecin. Grossesse : tu arrêtes ce programme, il n'est pas fait pour toi.
 
 Simon, PUR COACHING
