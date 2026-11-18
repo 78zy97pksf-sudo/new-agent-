@@ -12,3 +12,7 @@ vont ici, jamais la photo d'un client.
 ## Version du 17/11 (celle qui est programmée)
 
 Les 18 images ont été remplacées le 17/11 : chaque exercice (pages 4 à 7) montre 3 niveaux (plus facile, base, plus dur) dessinés en 3D, à la demande de simo. Photo de Simon : celle qu'il a choisie le 17/11. Validé par coach-securite (9/10), le jury (8,1/10), le contrôle qualité, puis simo (« Oui, programme », 17/11).
+
+## Épisode 2 de la nouvelle série (jeudi 26/11, 18:00)
+
+- `serie-2-arrete.mp4` (16 s, 1080 x 1920) et `serie-2-arrete-couverture.jpg` : épisode 2 de « Dans ta tête / En vrai », « J'ai déjà essayé, j'arrête toujours ». Animation faite par code avec l'IA (dominos des séances : une séance ratée n'efface pas les autres), musique faite par l'équipe. La seule vraie personne à l'écran est Simon, en vraie photo. Appel unique : « Envoie-la à quelqu'un qui dit « J'arrête toujours » ». Vue et acceptée par simo le 18/11, marquée « IA » sur Instagram et TikTok.
