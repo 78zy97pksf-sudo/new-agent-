@@ -35,6 +35,8 @@
 - tu as **plus de 50 ans** ;
 - tu as un **surpoids important**.
 
+Montre ce programme à ton médecin. S'il te donne des limites, ce sont ses consignes qui passent avant celles du programme.
+
 ### Ton questionnaire santé (à faire avant la première séance)
 
 Réponds honnêtement par **oui** ou **non** :
@@ -50,7 +52,7 @@ Réponds honnêtement par **oui** ou **non** :
 9. Un médecin t'a-t-il déjà conseillé de limiter ton activité physique ?
 10. Y a-t-il une autre raison pour laquelle tu ne devrais pas faire de sport ?
 
-**Si tu réponds « oui » à une seule question, demande l'avis de ton médecin avant de commencer ce programme : ne commence pas sans son accord écrit.** Si tu as répondu « oui » à la question 6 (grossesse, ou accouchement il y a moins d'un an), ce programme n'est pas fait pour toi.
+**Si tu réponds « oui » à une seule question, demande l'avis de ton médecin avant de commencer ce programme : ne commence pas sans son accord écrit.** Montre-lui ce programme : s'il te donne des limites, ce sont ses consignes qui passent avant celles du programme. Si tu as répondu « oui » à la question 6 (grossesse, ou accouchement il y a moins d'un an), ce programme n'est pas fait pour toi.
 
 Tout est « non » ? Super, tu peux commencer. Si ta santé change pendant les 8 semaines (blessure, douleur, maladie, nouveau traitement), tu fais une pause et tu ne reprends pas sans l'accord écrit de ton médecin. Grossesse : tu arrêtes ce programme.
 
