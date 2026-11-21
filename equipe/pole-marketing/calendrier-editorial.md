@@ -174,43 +174,36 @@ routine du lundi 9/11.
 | jeu. 12/11 18:00 | Instagram | Reel 9:16 (10,8 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-2 Dans ta tête / En vrai, épisode 2 : à la salle, tout le monde te regarde ; en vrai, chacun est dans sa bulle ; appel « qu'est-ce qui te bloque ? » en commentaire | « Dans ta tête, à la salle, tout le monde te regarde. » | programmé le 4/11 (id 417054504, nouvel id 423051280 le 10/11), étiquette IA ; jury 8,1/10, coach-securite 9/10 ; 1er commentaire ajouté le 10/11 (réponses 1, 2 ou 3) |
 | jeu. 12/11 18:00 | TikTok | Vidéo 9:16 (10,8 s, vidéo IA) | Communauté | VIDEO-IA-2 Même vidéo sur TikTok | « Dans ta tête : tous te regardent » | programmé le 4/11 (id 417054516, puis 421415110 le 9/11, puis 423051294 le 10/11 : passé de 19:00 à 18:00, meilleure heure TikTok du jeudi), étiquette IA, hashtags de simo, couverture à 1 s ; **test du 9/11** : la légende propose 3 réponses à choisir en commentaire (relevé le 16/11, objectif 5 commentaires) |
 
-## Semaine 7 (16 au 22 novembre) : série « Dans ta tête / En vrai »
+## Semaine 7 (16 au 22 novembre) : la série repart de zéro
 
-Images : `medias/semaine-2026-11-16/`. Le reste du lot est décidé par la
-routine du lundi 16/11. Places Metricool de novembre : 11 prises sur 20
-(avec le carrousel de la semaine 8 ; les brouillons comptent).
+simo a supprimé les vidéos IA de la série le 16/11 et demandé de la
+reprendre de zéro. L'ancien épisode 3 « agenda » et la vitrine du 21/11 ne
+sont jamais sortis.
 
-| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
-|---|---|---|---|---|---|---|
-| jeu. 19/11 18:00 | Instagram | Reel 9:16 (10,4 s, vidéo IA, musique de l'équipe) | Communauté | VIDEO-IA-3 Dans ta tête / En vrai, épisode 3 : « J'ai pas le temps » ; dans ta tête, 2 h de sport par jour ; en vrai, 20 minutes comptent déjà ; question « tes 20 minutes, tu les mets quand ? » (1 matin, 2 midi, 3 soir) | « Pas le temps pour le sport ? » | **en brouillon depuis le 16/11** (id 430383684, avant 423145533) : simo a demandé de reprendre la série de zéro ; ne part pas |
-| jeu. 19/11 18:00 | TikTok | Vidéo 9:16 (10,4 s, vidéo IA) | Communauté | VIDEO-IA-3 Même vidéo sur TikTok | « Dans ta tête : 2 h par jour » | **en brouillon depuis le 16/11** (id 430383706, avant 423145551) ; ne part pas |
+| Date | Réseau | Format | Pilier | Sujet | Statut |
+|---|---|---|---|---|---|
+| jeu. 19/11 18:00 | Instagram + TikTok | Reel 9:16, motion design (IA), musique de l'équipe | Communauté | Nouvelle série « Dans ta tête / En vrai », épisode 1 « J'ai pas le temps » : 20 minutes, c'est 1,4 % de ta journée ; appel unique « Envoie cette vidéo à quelqu'un qui dit « J'ai pas le temps » » | **publié** (Instagram 432508951, TikTok 432508969) |
 
-L'épisode 3 n'étant pas sorti, sa promesse (« La semaine prochaine : ta
-séance de 20 minutes, prête à faire ») n'a pas été faite au public. La
-version « agenda » en motion design, livrée par le fil vidéo le 16/11 (jury
-8,0 ; coach-securite 9/10), n'est pas programmée. La vitrine « PUR COACHING
-en 20 secondes » du samedi 21/11 est suspendue.
+## Semaine 8 (23 au 29 novembre) : « Prêt à faire », faire tourner le compte
 
-Bilan du lundi 16/11 : `/mnt/project-files/pur-coaching/marketing/stats/2026-11-16-bilan-semaine.md`.
-Pas d'expérience cette semaine : rien ne sort tant que la nouvelle série
-n'est pas livrée.
+Ordre de simo du 21/11 : « faites tourner le compte afin d'obtenir un
+maximum de visibilité ». Heures choisies avec `getBestTimeToPostByNetwork` :
+le vendredi 10:00 est le meilleur créneau de la fin de semaine sur les deux
+réseaux (Instagram 6 734, TikTok 1 379). Images : `medias/semaine-2026-11-23/`.
+Places Metricool de novembre : 15 sur 20 avec le carrousel du vendredi ;
+2 réservées à la vidéo du samedi.
 
-## Semaine 8 (23 au 29 novembre) : « Prêt à faire »
+| Date | Réseau | Format | Pilier | Sujet | Statut |
+|---|---|---|---|---|---|
+| mar. 24/11 18:00 | Instagram + TikTok | Carrousel 9 images faites par code (4:5 et 9:16) | Conseil | « Ta séance de 20 minutes, prête à faire » : 4 exercices, 3 niveaux chacun, dessins 3D ; appel unique « Enregistre ce post » | **programmé** (432038200, 432038222) ; coach-securite 9/10, jury 8,1, contrôle qualité OK, accord de simo le 17/11 |
+| jeu. 26/11 18:00 | Instagram + TikTok | Reel 9:16, motion design (IA) | Communauté | Série, épisode 2 « J'ai déjà essayé, j'arrête toujours » (dominos : une séance ratée n'efface pas les autres) ; appel unique « Envoie cette vidéo à quelqu'un qui dit « J'arrête toujours » » | **programmé** (432793088, 432793257) ; vu et accepté par simo le 18/11, contrôle qualité OK |
+| ven. 27/11 10:00 | Instagram + TikTok | Carrousel 5 images (4:5 et 9:16) | Conseil + communauté | « Squat sur chaise : tu es à quel niveau ? » : l'exercice 1 de mardi, un niveau par page ; appel unique « réponds 1, 2 ou 3 en commentaire » | en contrôle |
+| sam. 28/11 10:00 | Instagram + TikTok | Vidéo du fil vidéo | à définir | Nouvelle vidéo de la semaine (demande de simo du 17/11 au réalisateur vidéo) | place réservée ; simo la voit d'abord |
+| lun. 30/11 10:00 | Instagram + TikTok | Vidéo du fil vidéo | à définir | 2e vidéo si elle est livrée | place de réserve |
 
-Images : `medias/semaine-2026-11-23/`.
-
-| Date | Réseau | Format | Pilier | Sujet | Accroche | Statut |
-|---|---|---|---|---|---|---|
-| mar. 24/11 18:00 | Instagram | Carrousel 4:5, 9 images faites par code | Conseil | IG20 « Ta séance de 20 minutes, prête à faire » : échauffement, 4 exercices au poids du corps avec une chaise et un mur, retour au calme ; appel unique « Enregistre ce post » | « Je n'ai pas le temps. » sur un agenda plein, une seule case allumée | **prêt, en brouillon dans Metricool** (id 430385796) : séance validée par coach-securite 9/10, images et légende 9/10, jury 8,0/10, contrôle qualité passé le 16/11 ; en attente de la réponse de simo (carte du 16/11) |
-| mar. 24/11 18:00 | TikTok | Carrousel photo 9:16, 9 images | Conseil | TT20 Même séance, textes plus courts | « Ta séance de 20 min, prête à faire. » | **prêt, en brouillon dans Metricool** (id 430385810), musique ajoutée par TikTok ; même attente |
-
-Le test « carrousel à 10 h » prévu le 2/11 est abandonné pour ce post : 18 h
-sur les deux réseaux (créneau fixe du mardi, la couverture montre
-18:00-18:20, écart minime entre 10 h et 18 h dans Metricool le mardi). La
-légende ne parle plus de l'épisode 3.
-
-Stories (à la main, par simo) : mardi et jeudi, partager le nouveau post ;
-vendredi, story avec lien vers le site.
+Ce que simo peut faire lui-même s'il en a envie (rien d'obligatoire,
+`fonctions-gratuites.md`) : partager chaque nouveau post en story, répondre
+aux commentaires dans l'heure après la sortie.
 
 Formats possibles : post carré, carrousel, Reel, story (Instagram) ;
 vidéo courte ou carrousel photo (TikTok).
