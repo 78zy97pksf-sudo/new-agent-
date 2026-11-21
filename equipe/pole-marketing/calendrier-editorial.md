@@ -190,16 +190,21 @@ Ordre de simo du 21/11 : « faites tourner le compte afin d'obtenir un
 maximum de visibilité ». Heures choisies avec `getBestTimeToPostByNetwork` :
 le vendredi 10:00 est le meilleur créneau de la fin de semaine sur les deux
 réseaux (Instagram 6 734, TikTok 1 379). Images : `medias/semaine-2026-11-23/`.
-Places Metricool de novembre : 15 sur 20 avec le carrousel du vendredi ;
-2 réservées à la vidéo du samedi.
+Places Metricool de novembre : 13 sur 20 ; 2 réservées à la vidéo du
+samedi.
 
 | Date | Réseau | Format | Pilier | Sujet | Statut |
 |---|---|---|---|---|---|
 | mar. 24/11 18:00 | Instagram + TikTok | Carrousel 9 images faites par code (4:5 et 9:16) | Conseil | « Ta séance de 20 minutes, prête à faire » : 4 exercices, 3 niveaux chacun, dessins 3D ; appel unique « Enregistre ce post » | **programmé** (432038200, 432038222) ; coach-securite 9/10, jury 8,1, contrôle qualité OK, accord de simo le 17/11 |
 | jeu. 26/11 18:00 | Instagram + TikTok | Reel 9:16, motion design (IA) | Communauté | Série, épisode 2 « J'ai déjà essayé, j'arrête toujours » (dominos : une séance ratée n'efface pas les autres) ; appel unique « Envoie cette vidéo à quelqu'un qui dit « J'arrête toujours » » | **programmé** (432793088, 432793257) ; vu et accepté par simo le 18/11, contrôle qualité OK |
-| ven. 27/11 10:00 | Instagram + TikTok | Carrousel 5 images (4:5 et 9:16) | Conseil + communauté | « Squat sur chaise : tu es à quel niveau ? » : l'exercice 1 de mardi, un niveau par page ; appel unique « réponds 1, 2 ou 3 en commentaire » | en contrôle |
-| sam. 28/11 10:00 | Instagram + TikTok | Vidéo du fil vidéo | à définir | Nouvelle vidéo de la semaine (demande de simo du 17/11 au réalisateur vidéo) | place réservée ; simo la voit d'abord |
-| lun. 30/11 10:00 | Instagram + TikTok | Vidéo du fil vidéo | à définir | 2e vidéo si elle est livrée | place de réserve |
+| ven. 27/11 10:00 | Instagram + TikTok | Carrousel 5 images (4:5 et 9:16) | Conseil + communauté | « Squat sur chaise : tu es à quel niveau ? » : l'exercice 1 de mardi, un niveau par page ; appel unique « réponds 1, 2 ou 3 en commentaire » | **abandonné** le 21/11 : jury 6,0/10 (mêmes images que mardi, 3 jours plus tôt ; originalité 4) ; coach-securite 9/10 |
+| sam. 28/11 10:00 ou 11:00 | Instagram + TikTok | Reel 9:16, motion design | Offre | Vidéo hors série du fil vidéo : faire connaître le coaching de Simon, appel « BILAN » | place réservée ; simo la voit d'abord |
+| jeu. 3/12 18:00 | Instagram + TikTok | Reel 9:16, motion design | Communauté | Série, épisode 3 (fil vidéo) | place réservée (places de décembre) ; simo le voit d'abord |
+
+Leçon du 21/11 (jury) : ne pas reprendre les images d'un carrousel dans un
+autre post de la même semaine, même découpées autrement. Les contenus où
+l'on voit Simon touchent bien plus de monde (213 à 3 555 personnes) que les
+carrousels de conseils (105 à 180).
 
 Ce que simo peut faire lui-même s'il en a envie (rien d'obligatoire,
 `fonctions-gratuites.md`) : partager chaque nouveau post en story, répondre
