@@ -23,7 +23,7 @@ Google Sheets, d'où ce système de noms de dossiers.)
 | Agent | Son métier |
 |---|---|
 | `secretaire-mails` | Lit les nouveaux mails une fois par semaine (le lundi), les trie, range chacun sous une étiquette Gmail, répond automatiquement aux demandes de coaching avec les modèles validés, et fait le résumé pour simo |
-| `agent-accueil` | Pour chaque nouveau client : donne un code client, prépare l'anamnèse, la commande potentielle (bon de commande) et le dossier dans le Drive, puis passe le relais au pôle sport |
+| `agent-accueil` | Pour chaque nouveau client : donne un code client, prépare l'anamnèse, la commande potentielle (bon de commande) et le dossier dans le Drive, propose 2 ou 3 créneaux libres lus dans l'Agenda de Simon (sans jamais créer de rendez-vous), puis passe le relais au pôle sport |
 
 ## Les fichiers communs
 
@@ -71,8 +71,10 @@ reçoivent **aucune étiquette et aucune réponse**.
 5. **Simon prend le relais.** Le résumé du lundi lui dit : « C03 est prêt :
    anamnèse reçue, feu vert, bon de commande PUR GOLD prêt, il reste à
    fixer le rendez-vous Tanita » (ou l'appel vidéo de bilan gratuit pour
-   PUR ONLINE et PUR ONLINE+). Simon fixe le rendez-vous et encaisse ;
-   le `comptable` note le paiement.
+   PUR ONLINE et PUR ONLINE+). `agent-accueil` y joint 2 ou 3 créneaux
+   libres lus dans l'Agenda de Simon, que `secretaire-mails` met dans un
+   brouillon de réponse. Simon choisit, confirme et crée lui-même le
+   rendez-vous, puis encaisse ; le `comptable` note le paiement.
 6. **La suite** se fait avec le pôle sport (programme, contrôle sécurité).
 
 Pour les formules **à distance** (PUR ONLINE, PUR ONLINE+), le parcours
