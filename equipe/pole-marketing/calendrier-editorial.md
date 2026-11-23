@@ -200,7 +200,7 @@ samedi.
 | ven. 27/11 10:00 | Instagram + TikTok | Carrousel 5 images (4:5 et 9:16) | Conseil + communauté | « Squat sur chaise : tu es à quel niveau ? » : l'exercice 1 de mardi, un niveau par page ; appel unique « réponds 1, 2 ou 3 en commentaire » | **abandonné** le 21/11 : jury 6,0/10 (mêmes images que mardi, 3 jours plus tôt ; originalité 4) ; coach-securite 9/10 |
 | sam. 28/11 10:00 ou 11:00 | Instagram + TikTok | Reel 9:16, motion design | Offre | Vidéo hors série du fil vidéo : faire connaître le coaching de Simon, appel « BILAN » | place réservée ; simo la voit d'abord |
 | jeu. 3/12 18:00 | Instagram + TikTok | Reel 9:16, motion design | Communauté | Série, épisode 3 « Je veux pas me faire mal » (fil vidéo) ; appel unique « Abonne-toi : l'épisode 4 arrive jeudi. » | place réservée (places de décembre) ; simo le voit d'abord |
-| jeu. 10/12 18:00 | Instagram + TikTok | Reel 9:16, motion design | Communauté | Série, épisode 4 (promis par l'épisode 3) | place réservée ; à livrer et à montrer à simo au plus tard le mercredi 9/12 |
+| jeu. 10/12 18:00 | Instagram + TikTok | Reel 9:16, motion design | Communauté | Série, épisode 4 « Je commence en janvier. » (annoncé à la fin de l'épisode 3) | place réservée ; à livrer et à montrer à simo au plus tard le mercredi 9/12 |
 
 Leçon du 21/11 (jury) : ne pas reprendre les images d'un carrousel dans un
 autre post de la même semaine, même découpées autrement. Les contenus où
