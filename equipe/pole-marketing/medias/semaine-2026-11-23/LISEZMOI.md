@@ -13,6 +13,11 @@ vont ici, jamais la photo d'un client.
 
 Les 18 images ont été remplacées le 17/11 : chaque exercice (pages 4 à 7) montre 3 niveaux (plus facile, base, plus dur) dessinés en 3D, à la demande de simo. Photo de Simon : celle qu'il a choisie le 17/11. Validé par coach-securite (9/10), le jury (8,1/10), le contrôle qualité, puis simo (« Oui, programme », 17/11).
 
-## Épisode 2 de la nouvelle série (jeudi 26/11, 18:00)
+## Épisode 2 de la nouvelle série (jeudi 26/11 : Instagram 10:00, TikTok 18:00)
 
 - `serie-2-arrete.mp4` (16 s, 1080 x 1920) et `serie-2-arrete-couverture.jpg` : épisode 2 de « Dans ta tête / En vrai », « J'ai déjà essayé, j'arrête toujours ». Animation faite par code avec l'IA (dominos des séances : une séance ratée n'efface pas les autres), musique faite par l'équipe. La seule vraie personne à l'écran est Simon, en vraie photo. Appel unique : « Envoie-la à quelqu'un qui dit « J'arrête toujours » ». Vue et acceptée par simo le 18/11, marquée « IA » sur Instagram et TikTok.
+
+## Vidéo « Arrivée dans 5 lettres » (samedi 28/11, 10:00)
+
+- `bilan-5-lettres.mp4` (18 s, 1080 x 1920) : vidéo hors série. Animation faite par code avec l'IA : un GPS qui recalcule, puis le trajet jusqu'à Simon à Huy, et les 4 étapes du bilan PUR HEALTH (70 €). Musique faite par l'équipe. La seule vraie personne à l'écran est Simon, en vraie photo. Appel unique : « Écris BILAN en message ». Jury 8,0/10, vue et acceptée par simo le 24/11, marquée « IA ».
+- `bilan-5-lettres-couverture.jpg` : couverture demandée par simo le 24/11, sa photo à HYROX Gent recadrée en 9:16 avec le titre de la vidéo. Le logo « HYROX GENT » du photographe est gardé ; le visage de l'autre athlète est flouté (pas d'accord de sa part).
