@@ -2,7 +2,7 @@
 
 > **État : validé par `coach-securite` le 18 novembre 2026** (grille « programme type », après trois corrections), relu par `controleur-qualite` (corrections faites).
 > Écrit par `coach-programmeur` le 17 novembre 2026, à la demande de Simon (création validée le 16 novembre 2026).
-> Prix choisi par Simon le 18 novembre 2026 : **19 €** (PDF).
+> Prix : **19,99 €** (PDF de 45 pages, version 2), en vente depuis le 26 novembre 2026 sur décision de Simon (19 € choisi le 18 novembre, passé à 19,99 € le 26 novembre).
 
 Le dépôt est public : le texte complet du programme n'est **pas** rangé ici,
 sinon tout le monde pourrait le lire gratuitement. Il est dans le dossier
@@ -26,4 +26,5 @@ Toute modification du texte repasse par `coach-securite` puis
   prévus, effort maximum 6 sur 10, signaux d'arrêt (112).
 - Un seul appel à l'action à la fin : écrire « BILAN » sur Instagram pour le
   bilan PUR HEALTH (70 €) à Huy, ou un appel vidéo gratuit si on habite loin.
+- Version 2 (21 novembre 2026) : dessins 3D des 10 exercices, plan jour par jour à cocher, badges, FAQ et bonus boire, manger, dormir.
 - Comment on le vend : `../../pole-commercial/vente-programme.md`.
